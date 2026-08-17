@@ -1,0 +1,5 @@
+First zero-crossing r_ij (Å)   (s = 16,  K = 1000)
+
+category           phi_xy      phi_z
+single_chain         20.9       16.4
+assembly             24.0       20.7
