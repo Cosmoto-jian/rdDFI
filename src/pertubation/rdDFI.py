@@ -3,6 +3,7 @@
 Data processing only (no plotting) based on visualize_fusion_pnas.py.
 Computes metrics and saves summary CSV.
 Handles both list-of-tuples and flat-list TM region definitions.
+- Updated: Input paths and OUT_DIR set to current script directory (./).
 """
 
 import os
@@ -14,7 +15,6 @@ from scipy.stats import skew
 BOTTOM_PCT = 0.20
 
 # ---- TM regions ----
-# If your dictionary uses flat lists, the code will auto-convert to pairs.
 GPCR_TM_REGIONS = {
     "aa2ar": [(8, 32), (43, 66), (79, 108), (119, 142), (173, 202), (235, 258), (267, 290)],
     "adrb2": [(29, 60), (67, 96), (103, 136), (147, 171), (197, 229), (267, 298), (305, 331)],
@@ -38,27 +38,22 @@ GPCR_TM_REGIONS = {
     "acm3":  [(71, 91), (104, 124), (141, 161), (185, 205), (228, 248), (498, 518), (534, 554)],
 }
 
-# ---- Convert flat lists to pairs if needed ----
 def ensure_pairs(regions):
     if not regions:
         return []
     if isinstance(regions[0], (list, tuple)) and len(regions[0]) == 2:
         return regions
-    # flat list -> group into pairs
     return [(regions[i], regions[i+1]) for i in range(0, len(regions), 2)]
 
 for key in GPCR_TM_REGIONS:
     GPCR_TM_REGIONS[key] = ensure_pairs(GPCR_TM_REGIONS[key])
 
-# ---- Paths ----
+# ---- Paths (OUT_DIR set to current script dir ./) ----
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-TOOLS_DIR = os.path.dirname(SCRIPT_DIR)
-PROJECT_DIR = os.path.dirname(TOOLS_DIR)
 
-DFI_DIR = os.path.join(PROJECT_DIR, "results", "DFI")
-MUT_RESULTS_DIR = os.path.join(PROJECT_DIR, "results", "mutation")
-OUT_DIR = os.path.join(PROJECT_DIR, "results", "H_metric")
-os.makedirs(OUT_DIR, exist_ok=True)
+DFI_DIR = os.path.join(SCRIPT_DIR, "results", "DFI")
+MUT_RESULTS_DIR = os.path.join(SCRIPT_DIR, "results", "mutation")
+OUT_DIR = SCRIPT_DIR  # 改为当前目录 ./
 
 SUMMARY_CSV = os.path.join(OUT_DIR, "Prediction_models_hit_summary.csv")
 

@@ -2,6 +2,8 @@
 """
 Generate Figure 4 (exact copy of heat.py make_figure_1) and Figure 5 (exact copy of first.py make_figure_2).
 Venn diagram numbers have no white background (bbox removed).
+- Updated: Removed printed residue hit outputs.
+- Updated: Input paths and OUT_DIR set to current script directory (./).
 """
 
 import os
@@ -22,16 +24,13 @@ import random
 import math
 
 # =====================================================================
-# 0. Configuration & Paths (copied from heat.py / first.py)
+# 0. Configuration & Paths (All set to current script dir ./)
 # =====================================================================
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-TOOLS_DIR = os.path.dirname(SCRIPT_DIR)
-PROJECT_DIR = os.path.dirname(TOOLS_DIR)
 
-DFI_DIR = os.path.join(PROJECT_DIR, "results", "DFI")
-MUT_RESULTS_DIR = os.path.join(PROJECT_DIR, "results", "mutation")
-OUT_DIR = os.path.join(PROJECT_DIR, "results", "composite_figs")
-os.makedirs(OUT_DIR, exist_ok=True)
+DFI_DIR = os.path.join(SCRIPT_DIR, "results", "DFI")
+MUT_RESULTS_DIR = os.path.join(SCRIPT_DIR, "results", "mutation")
+OUT_DIR = SCRIPT_DIR  # 改为当前目录 ./
 
 Z_THRESH = -1.0
 
@@ -50,7 +49,7 @@ GPCR_TM_REGIONS = {
 }
 
 # =====================================================================
-# 1. Visual System (copied exactly from heat.py and first.py)
+# 1. Visual System
 # =====================================================================
 METRIC_STYLE = {
     "DFI":             {"color": "#3B82F6", "ls": "-", "label": "DFI"},
@@ -82,7 +81,7 @@ CUSTOM_COLORS = ["#ffffcc", "#a1dab4", "#41b6c4", "#2c7fb8", "#253494"]
 CMAP = mcolors.LinearSegmentedColormap.from_list("custom_green", CUSTOM_COLORS, N=256)
 
 # =====================================================================
-# 2. Helper functions (verbatim from first.py)
+# 2. Helper functions
 # =====================================================================
 def load_protein_data(protein_key):
     dfi_csv = os.path.join(DFI_DIR, f"{protein_key}.csv")
@@ -129,12 +128,6 @@ def evaluate_selection(dfi_tm, metric, mutated_positions_tm, z_thresh=Z_THRESH):
         "precision": precision, "recall": recall,
     }
 
-def zscore_smooth(series, window=7):
-    s = pd.Series(series).astype(float)
-    std = s.std(ddof=0)
-    z = (s - s.mean()) / std if std > 0 else s * 0.0
-    return z.rolling(window=window, center=True, min_periods=1).mean()
-
 def _draw_tm_shading_and_labels(ax, tm_regions, x_min, x_max, show_labels=True):
     if not tm_regions: return
     for i, (a, b) in enumerate(tm_regions):
@@ -152,7 +145,7 @@ def apply_black_border(ax):
         spine.set_linewidth(1.0)
 
 # =====================================================================
-# 3. Figure 4 – exact copy of heat.py make_figure_1
+# 3. Figure 4
 # =====================================================================
 def add_zoom_inset(ax, sweep_trim, ratios, ratio_colors, col, x_lim, arrow_color, arrow_xy, arrow_xytext):
     y_vals_all = []
@@ -196,8 +189,9 @@ def add_zoom_inset(ax, sweep_trim, ratios, ratio_colors, col, x_lim, arrow_color
                    arrowprops=dict(facecolor=arrow_color, edgecolor='none', width=6, headwidth=14), zorder=5)
     apply_black_border(axins)
 
-def plot_figure4(protein_key="ccr1", sweep_csv="ccr1_ratio_sweep.csv"):
-    print("Generating Figure 4 (from heat.py)...")
+def plot_figure4(protein_key="ccr1", sweep_csv_name="ccr1_ratio_sweep.csv"):
+    sweep_csv = os.path.join(SCRIPT_DIR, sweep_csv_name)
+    print("Generating Figure 4...")
     if not os.path.exists(sweep_csv):
         print(f"Error: {sweep_csv} not found!")
         return
@@ -271,16 +265,16 @@ def plot_figure4(protein_key="ccr1", sweep_csv="ccr1_ratio_sweep.csv"):
     print(f"Saved Figure 4: {out_file}")
 
 # =====================================================================
-# 4. Figure 5 – adjusted to have exact bar/curve styling as first.py
-#    while keeping the Venn diagram numbers without white bg.
+# 4. Figure 5
 # =====================================================================
-def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_2.csv"):
-    print("Generating Figure 5 (curve and bar logic matching first.py, no white bg in Venn)...")
+def plot_figure5(protein_key="acm1", summary_csv_name="Prediction_models_hit_summary_2.csv"):
+    summary_csv = os.path.join(SCRIPT_DIR, summary_csv_name)
+    print("Generating Figure 5...")
     fig = plt.figure(figsize=(8.0, 9.5))
     gs_main = gridspec.GridSpec(3, 1, height_ratios=[0.75, 0.85, 1.25], hspace=0.45)
 
     # ---------------------------------------------------------
-    # Layer 1: Venn diagram (DFI vs dpDFI) – no white background
+    # Layer 1: Venn diagram
     # ---------------------------------------------------------
     gs_row1 = gridspec.GridSpecFromSubplotSpec(1, 2, subplot_spec=gs_main[0],
                                                width_ratios=[1.2, 0.8], wspace=0.0)
@@ -349,7 +343,6 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
                      markerfacecolor='black', markeredgecolor='black', alpha=0.7,
                      transform=ax_venn.transAxes, zorder=3)
 
-    # NO BBOX as requested
     ax_venn.text(0.20, 0.65, "DFI", ha='center', va='center',
                  fontsize=14, fontweight='bold', color='black', transform=ax_venn.transAxes, zorder=5)
     ax_venn.text(0.80, 0.65, "dpDFI", ha='center', va='center',
@@ -363,7 +356,7 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
                  fontsize=13, fontweight='bold', color='black', transform=ax_venn.transAxes, zorder=5)
 
     # ---------------------------------------------------------
-    # Layer 2: Overview Bar Chart 
+    # Layer 2: Overview Bar Chart
     # ---------------------------------------------------------
     ax_over = fig.add_subplot(gs_main[1])
     if os.path.exists(summary_csv):
@@ -399,9 +392,8 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
                              markersize=13, linestyle='None')
 
         ax_over.set_xticks(x)
-        tick_labels = ax_over.set_xticklabels([p.upper() for p in proteins], rotation=45, ha="right")
+        ax_over.set_xticklabels([p.upper() for p in proteins], rotation=45, ha="right")
         
-        # EXACT logic from first.py to color ACM1 tick and label
         for tick in ax_over.xaxis.get_major_ticks():
             if tick.label1.get_text() == "ACM1":
                 tick.label1.set_color("#FF0000")
@@ -415,7 +407,7 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
         apply_black_border(ax_over)
 
     # ---------------------------------------------------------
-    # Layer 3: acm1 Vis (Matching the Curve logic of first.py)
+    # Layer 3: acm1 Vis
     # ---------------------------------------------------------
     gs_row3 = gridspec.GridSpecFromSubplotSpec(2, 1, subplot_spec=gs_main[2], height_ratios=[1.3, 0.35], hspace=0.08)
 
@@ -432,13 +424,6 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
         results = {}
         for m in RUG_METRICS:
             results[m] = evaluate_selection(dfi_tm, m, mutated_positions_tm)
-
-        print(f"\n=== Captured Mutated Sites (Hits) for {protein_key.upper()} ===")
-        for m in RUG_METRICS:
-            label = METRIC_STYLE[m]['label']
-            hits = results[m]['hits']
-            print(f"{label}: {hits if hits else 'None'}")
-        print("=========================================================\n")
 
         ax_main = fig.add_subplot(gs_row3[0, 0])
         ax_rug = fig.add_subplot(gs_row3[1, 0], sharex=ax_main)
@@ -460,7 +445,6 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
         ax_main.set_title(f"{protein_key.upper()}", pad=6, color="#FF0000", fontweight="bold")
         plt.setp(ax_main.get_xticklabels(), visible=False)
 
-        # ---- Exact Curves from first.py (Normalizing based on TM only) ----
         for metric, col in [("DFI", "DFI"), ("DFI_membrane", "DFI_membrane"), ("H", "H")]:
             tm_s = dfi_tm[col].astype(float)
             tm_mean = tm_s.mean()
@@ -478,7 +462,6 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
             ax_line.plot(dfi_plot["ResI"], dfi_plot[f"{col}_norm"],
                          color=style["color"], linestyle=style["ls"], linewidth=1.5, alpha=0.9, zorder=4)
 
-        # ---- Y-axis formatting & Z=-1 Line (From first.py) ----
         ax_line.set_ylabel(r"$Z_{TM}$ score")
         ax_line.yaxis.tick_left()
         ax_line.yaxis.set_label_position("left")
@@ -490,7 +473,6 @@ def plot_figure5(protein_key="acm1", summary_csv="Prediction_models_hit_summary_
         ax_line.text(tm1_center, -1.3, r"$Z_{TM}=-1$", color="black", 
                      fontsize=6.5, ha="center", va="top", zorder=5)
 
-        # ---- Legend and Rug plots ----
         handles = [mlines.Line2D([], [], color=v["color"], label=v["label"], lw=2) for k, v in METRIC_STYLE.items()]
         handles.append(mlines.Line2D([], [], color="none", marker="^",
                                      markerfacecolor="#CBD5E1", markeredgecolor="#CBD5E1",
