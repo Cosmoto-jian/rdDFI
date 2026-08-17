@@ -1,0 +1,58 @@
+Mutation,Position,Generic_Number,Region,In_TM,Effect_Category,Representative_FoldChange,Num_Ligands,Num_Experiments
+T82I,82,2x37,TM2,Yes,N/A,,0,1
+F124C,124,3x27,TM3,Yes,N/A,,0,1
+W125A,125,3x28,TM3,Yes,Increased 5-10fold,5.4,1,1
+L126A,126,3x29,TM3,Yes,No/low effect,4.2,4,4
+D129A,129,3x32,TM3,Yes,N/A,,1,1
+I130A,130,3x33,TM3,Yes,No/low effect,2.1,1,1
+C133A,133,3x36,TM3,Yes,No/low effect,2.6,1,1
+T134A,134,3x37,TM3,Yes,Increased >10fold; Reduced >10fold; No/low effect,6309.6; -21.7; 4.0,4,4
+I137A,137,3x40,loop,No,No/low effect,4.2,1,1
+L138W,138,3x41,loop,No,N/A,,0,1
+A150V,150,3x53,loop,No,N/A,,0,1
+S181A,181,4x57,loop,No,No/low effect,1.6,7,8
+F185A,185,4x61,loop,No,Reduced 5-10fold; No/low effect,-5.7; 3.6,9,14
+F185M,185,4x61,loop,No,No/low effect,2.8,9,14
+V200A,200,45x51,TM5,Yes,No/low effect,2.0,3,3
+V201A,201,45x52,TM5,Yes,No/low effect,3.2,4,4
+N202A,202,,TM5,Yes,N/A,,0,1
+T203A,203,,TM5,Yes,No/low effect,1.7,3,3
+T209A,209,5x40,TM5,Yes,No/low effect,1.6,3,3
+S212A,212,5x43,TM5,Yes,Reduced >10fold; No/low effect,-15.2; 4.6,9,16
+T213A,213,5x44,TM5,Yes,N/A,,1,1
+A216S,216,5x461,TM5,Yes,No/low effect,4.7,4,4
+T313A,313,6x34,loop,No,N/A,,0,2
+T313C,313,6x34,loop,No,N/A,,0,1
+T313D,313,6x34,loop,No,N/A,,0,1
+T313E,313,6x34,loop,No,N/A,,0,1
+T313F,313,6x34,loop,No,N/A,,0,2
+T313G,313,6x34,loop,No,N/A,,0,2
+T313H,313,6x34,loop,No,N/A,,0,2
+T313I,313,6x34,loop,No,N/A,,0,2
+T313K,313,6x34,loop,No,N/A,,0,2
+T313L,313,6x34,loop,No,N/A,,0,1
+T313M,313,6x34,loop,No,N/A,,0,1
+T313N,313,6x34,loop,No,N/A,,0,2
+T313P,313,6x34,loop,No,N/A,,0,1
+T313Q,313,6x34,loop,No,N/A,,0,2
+T313R,313,6x34,loop,No,N/A,,0,2
+T313S,313,6x34,loop,No,N/A,,0,1
+T313T,313,6x34,loop,No,N/A,,0,2
+T313V,313,6x34,loop,No,N/A,,0,1
+T313W,313,6x34,loop,No,N/A,,0,1
+T313Y,313,6x34,loop,No,N/A,,0,1
+C326A,326,6x47,TM6,Yes,No effect,0.0,3,4
+W327A,327,6x48,TM6,Yes,Increased >10fold,300.0,3,5
+F330A,330,6x51,TM6,Yes,N/A,,1,1
+F331A,331,6x52,TM6,Yes,Increased >10fold; Reduced >10fold; No/low effect,10.8; -16.9; 2.9,9,16
+I333K,333,6x54,TM6,Yes,No/low effect,1.2,3,4
+S334A,334,6x55,TM6,Yes,Reduced 5-10fold; No/low effect,-6.0; 4.9,11,18
+S334E,334,6x55,TM6,Yes,Reduced >10fold; No/low effect,-15.9; 3.6,3,5
+M337A,337,6x58,TM6,Yes,No/low effect,2.5,3,3
+F351A,351,7x34,loop,No,No/low effect,2.0,3,3
+D352A,352,7x35,loop,No,No/low effect,2.5,3,5
+F354A,354,7x37,TM7,Yes,No/low effect,2.0,8,12
+F354Y,354,7x37,TM7,Yes,No/low effect,2.8,8,12
+T355A,355,7x38,TM7,Yes,Reduced 5-10fold; No/low effect,-9.8; 1.9,4,4
+T355N,355,7x38,TM7,Yes,Increased >10fold; Reduced >10fold; No/low effect,846.2; -45.5; 3.9,22,35
+Y359A,359,7x42,TM7,Yes,No/low effect,3.1,4,4

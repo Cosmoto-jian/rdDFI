@@ -1,0 +1,46 @@
+Mutation,Position,Generic_Number,Region,In_TM,Effect_Category,Representative_FoldChange,Num_Ligands,Num_Experiments
+S166D,166,,loop,No,N/A,,0,1
+S166E,166,,loop,No,N/A,,0,1
+D191N,191,,loop,No,N/A,,0,1
+E238Q,238,,loop,No,N/A,,0,1
+D242N,242,,loop,No,N/A,,0,1
+K260Q,260,,loop,No,N/A,,0,1
+S408A,408,,loop,No,N/A,,0,1
+K563N,563,,loop,No,N/A,,0,1
+L575V,575,,loop,No,N/A,,0,1
+T620A,620,12x47,loop,No,N/A,,0,1
+S627G,627,2x35,TM2,Yes,N/A,,0,1
+Q660A,660,3x32,TM3,Yes,No/low effect,1.0,1,1
+V664I,664,3x36,TM3,Yes,No/low effect,1.0,1,1
+S668P,668,3x40,TM3,Yes,No/low effect,2.1,1,1
+T679A,679,3x51,loop,No,N/A,,0,1
+S689G,689,,loop,No,N/A,,0,1
+T695A,695,,loop,No,N/A,,0,1
+S711F,711,4x37,TM4,Yes,No/low effect,1.6,1,1
+S715C,715,4x41,TM4,Yes,No/low effect,1.5,1,1
+V716I,716,4x42,TM4,Yes,No/low effect,2.6,1,1
+T719G,719,4x45,TM4,Yes,No/low effect,1.9,1,1
+T723A,723,4x49,loop,No,No/low effect,1.9,1,1
+I725F,725,4x51,loop,No,Reduced >10fold; No/low effect,-10.2; 2.4,6,6
+T748A,748,45x52,TM5,Yes,No/low effect,1.9,1,1
+A755T,755,5x42,loop,No,No/low effect,2.3,1,1
+P756S,756,5x43,loop,No,No/low effect,2.6,1,1
+L757V,757,5x44,loop,No,N/A,,2,2
+N760A,760,5x47,loop,No,Increased 5-10fold; Reduced >10fold; No/low effect,8.1; -66.7; 1.4,6,6
+M765L,765,5x52,loop,No,No/low effect,1.6,1,1
+Y769F,769,5x56,loop,No,No/low effect,1.9,1,1
+T794A,794,6x46,TM6,Yes,No/low effect,1.6,1,1
+W798A,798,6x50,TM6,Yes,No/low effect,4.2,6,7
+F801A,801,6x53,loop,No,Increased >10fold; Reduced >10fold; No/low effect,2700.0; -142.9; 5.0,6,7
+Y805A,805,6x57,loop,No,Increased >10fold; Reduced >10fold; No/low effect,13.0; -200.0; 2.3,6,7
+T815A,815,7x33,TM7,Yes,No/low effect,2.8,1,1
+T815M,815,7x33,TM7,Yes,Increased >10fold; Reduced >10fold; No/low effect,2700.0; -200.0; 4.2,7,8
+A818S,818,7x36,TM7,Yes,No/low effect,1.5,1,1
+S822A,822,7x40,TM7,Yes,No/low effect,1.2,1,1
+V823A,823,7x41,TM7,Yes,N/A,,1,1
+D854A,854,,loop,No,N/A,,0,1
+D854G,854,,loop,No,N/A,,0,1
+D854T,854,,loop,No,N/A,,0,1
+S892A,892,,loop,No,N/A,,0,1
+S940A,940,,loop,No,N/A,,0,1
+S950G,950,,loop,No,N/A,,0,1

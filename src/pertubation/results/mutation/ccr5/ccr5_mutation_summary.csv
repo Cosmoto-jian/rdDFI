@@ -1,0 +1,229 @@
+Mutation,Position,Generic_Number,Region,In_TM,Effect_Category,Representative_FoldChange,Num_Ligands,Num_Experiments
+D2A,2,,loop,No,N/A,,1,9
+Y3A,3,,loop,No,N/A,,1,7
+Y3F,3,,loop,No,N/A,,0,2
+Q4A,4,,loop,No,No/low effect,1.3,1,6
+V5A,5,,loop,No,No/low effect,1.6,1,3
+V5G,5,,loop,No,N/A,,0,1
+S6A,6,,loop,No,No/low effect,2.3,1,5
+S6P,6,,loop,No,No/low effect,4.0,1,2
+S7A,7,,loop,No,No/low effect,1.4,1,5
+S7V,7,,loop,No,N/A,,0,2
+P8A,8,,loop,No,No/low effect,1.0,1,6
+I9A,9,,loop,No,No/low effect,1.9,1,3
+I9T,9,,loop,No,No/low effect,2.7,3,4
+Y10A,10,,loop,No,N/A,,1,8
+Y10F,10,,loop,No,N/A,,0,1
+Y10G,10,,loop,No,N/A,,1,2
+D11A,11,,loop,No,No/low effect,1.3,6,17
+I12A,12,,loop,No,No/low effect,1.1,1,3
+I12L,12,,loop,No,N/A,,0,1
+I12T,12,,loop,No,N/A,,0,2
+N13A,13,,loop,No,No/low effect,1.3,1,8
+N13D,13,,loop,No,No/low effect,1.5,3,6
+Y14A,14,,loop,No,N/A,,0,5
+Y14F,14,,loop,No,N/A,,0,2
+Y14N,14,,loop,No,N/A,,0,3
+Y15A,15,,loop,No,N/A,,0,5
+Y15F,15,,loop,No,N/A,,0,2
+Y15G,15,,loop,No,N/A,,0,1
+T16A,16,,loop,No,N/A,,0,3
+T16M,16,,loop,No,N/A,,0,1
+S17A,17,,loop,No,N/A,,0,3
+E18A,18,,loop,No,N/A,,1,11
+E18Q,18,,loop,No,N/A,,0,1
+P19A,19,,loop,No,N/A,,0,3
+C20A,20,,loop,No,N/A,,0,8
+C20S,20,,loop,No,N/A,,0,4
+Q21A,21,,loop,No,N/A,,0,4
+K22A,22,1x24,loop,No,N/A,,0,6
+N24A,24,1x26,loop,No,N/A,,0,2
+K26A,26,1x28,loop,No,N/A,,0,6
+K26G,26,1x28,loop,No,N/A,,1,2
+K26R,26,1x28,loop,No,N/A,,0,1
+Q27A,27,1x29,loop,No,N/A,,0,3
+A29S,29,1x31,loop,No,N/A,,0,3
+R31A,31,1x33,TM1,Yes,N/A,,0,7
+R31G,31,1x33,TM1,Yes,Reduced >10fold,-12.5,1,2
+L33A,33,1x35,TM1,Yes,N/A,,0,2
+Y37A,37,1x39,TM1,Yes,Reduced >10fold; No/low effect,-71.4; 3.6,7,10
+Y37F,37,1x39,TM1,Yes,No/low effect,1.3,2,2
+F41A,41,1x43,TM1,Yes,N/A,,0,2
+I42F,42,1x44,TM1,Yes,N/A,,0,3
+N48A,48,1x50,TM1,Yes,N/A,,0,2
+M49I,49,1x51,TM1,Yes,No/low effect,2.7,3,3
+I52A,52,1x54,TM1,Yes,N/A,,0,2
+I52V,52,1x54,TM1,Yes,No/low effect,2.0,3,3
+L55A,55,1x57,TM1,Yes,N/A,,0,2
+L55Q,55,1x57,TM1,Yes,N/A,,0,3
+I56A,56,1x58,TM1,Yes,N/A,,0,2
+R60S,60,12x49,loop,No,N/A,,0,2
+Y68A,68,2x42,loop,No,N/A,,0,2
+L69A,69,2x43,TM2,Yes,N/A,,0,2
+N71A,71,2x45,TM2,Yes,N/A,,0,2
+A73V,73,2x47,TM2,Yes,N/A,,0,3
+D76A,76,2x50,TM2,Yes,N/A,,0,2
+F78L,78,2x52,TM2,Yes,No/low effect,2.7,3,3
+F79A,79,2x53,TM2,Yes,N/A,,0,2
+T82A,82,2x56,TM2,Yes,N/A,,0,3
+T82C,82,2x56,TM2,Yes,N/A,,0,1
+T82S,82,2x56,TM2,Yes,N/A,,0,1
+T82V,82,2x56,TM2,Yes,N/A,,0,1
+P84A,84,2x58,TM2,Yes,N/A,,0,1
+P84H,84,2x58,TM2,Yes,Reduced >10fold,-27.8,3,3
+F85A,85,2x59,TM2,Yes,N/A,,0,2
+F85L,85,2x59,TM2,Yes,Reduced >10fold; No/low effect,-18.2; 4.7,7,9
+W86A,86,2x60,TM2,Yes,Increased >10fold; Reduced >10fold; No/low effect,42.9; -500.0; 5.0,7,13
+H88A,88,2x62,TM2,Yes,N/A,,0,6
+H88D,88,2x62,TM2,Yes,N/A,,0,1
+Y89A,89,2x63,TM2,Yes,N/A,,0,5
+Y89S,89,2x63,TM2,Yes,No/low effect,2.1,4,6
+A92N,92,2x66,loop,No,N/A,,0,1
+Q93A,93,23x49,loop,No,N/A,,0,7
+Q93E,93,23x49,loop,No,N/A,,0,1
+Q93R,93,23x49,loop,No,N/A,,0,1
+W94A,94,23x50,loop,No,Reduced >10fold; No/low effect,-27.0; 3.3,7,15
+W94M,94,23x50,loop,No,Reduced 5-10fold; No/low effect,-10.0; 1.2,2,2
+D95A,95,23x51,loop,No,N/A,,0,7
+D95V,95,23x51,loop,No,N/A,,0,1
+F96A,96,23x52,loop,No,N/A,,0,3
+N98A,98,3x22,loop,No,N/A,,0,4
+T99A,99,3x23,loop,No,N/A,,0,3
+M100A,100,3x24,loop,No,No/low effect,1.1,2,5
+M100T,100,3x24,loop,No,No/low effect,2.4,2,3
+C101A,101,3x25,loop,No,Reduced >10fold,-71.4,3,11
+C101X,101,3x25,loop,No,N/A,,0,1
+Q102A,102,3x26,loop,No,N/A,,0,5
+Q102K,102,3x26,loop,No,N/A,,0,1
+L104A,104,3x28,TM3,Yes,No/low effect,1.2,2,5
+L104D,104,3x28,TM3,Yes,Reduced 5-10fold; No/low effect,-5.6; 4.9,3,3
+L104F,104,3x28,TM3,Yes,No/low effect,2.7,5,8
+T105A,105,3x29,TM3,Yes,N/A,,0,2
+G106R,106,3x30,TM3,Yes,N/A,,0,2
+Y108A,108,3x32,TM3,Yes,Increased >10fold; Reduced >10fold; No/low effect,75.5; -71.4; 2.3,12,22
+F109A,109,3x33,TM3,Yes,Reduced >10fold; No/low effect,-166.7; 3.4,9,15
+F109H,109,3x33,TM3,Yes,No/low effect,2.0,5,7
+F112A,112,3x36,TM3,Yes,No/low effect,4.3,2,4
+F112L,112,3x36,TM3,Yes,No/low effect,3.9,5,5
+F112Y,112,3x36,TM3,Yes,No/low effect,3.7,8,9
+F113A,113,3x37,TM3,Yes,No/low effect,3.7,5,7
+F113Y,113,3x37,TM3,Yes,No/low effect,3.6,5,5
+F117A,117,3x41,TM3,Yes,N/A,,0,2
+F118A,118,3x42,TM3,Yes,N/A,,0,2
+L121A,121,3x45,TM3,Yes,N/A,,0,2
+L122A,122,3x46,TM3,Yes,N/A,,0,2
+T123A,123,3x47,TM3,Yes,N/A,,0,2
+D125G,125,3x49,loop,No,N/A,,0,1
+D125N,125,3x49,loop,No,N/A,,0,1
+R126G,126,3x50,loop,No,N/A,,0,1
+R126N,126,3x50,loop,No,N/A,,0,2
+Y127A,127,3x51,loop,No,N/A,,0,1
+V130I,130,3x54,loop,No,No/low effect,4.0,3,3
+F135A,135,34x52,loop,No,N/A,,0,1
+F144A,144,4x41,TM4,Yes,N/A,,0,2
+G145A,145,4x42,TM4,Yes,No/low effect,1.7,2,3
+G163A,163,4x61,TM4,Yes,No/low effect,4.2,5,5
+G163R,163,4x61,TM4,Yes,Reduced >10fold; No/low effect,-71.4; 2.9,5,6
+T167W,167,4x65,loop,No,No/low effect,3.7,1,2
+R168A,168,,loop,No,No/low effect,3.9,7,14
+S169A,169,,loop,No,N/A,,0,4
+Q170A,170,,loop,No,N/A,,0,3
+K171A,171,,loop,No,N/A,,0,6
+K171R,171,,loop,No,No/low effect,1.7,3,3
+E172A,172,,loop,No,N/A,,0,4
+L174F,174,,loop,No,N/A,,0,1
+H175A,175,,loop,No,N/A,,0,5
+Y176A,176,,loop,No,N/A,,0,4
+T177A,177,,loop,No,Reduced 5-10fold; No/low effect,-7.7; 2.8,2,7
+T177Q,177,,loop,No,Reduced 5-10fold; No/low effect,-7.7; 1.3,2,3
+C178A,178,45x50,loop,No,Reduced >10fold; No/low effect,-71.4; 1.7,6,14
+C178R,178,45x50,loop,No,N/A,,0,2
+S179A,179,45x51,loop,No,N/A,,0,4
+S179D,179,45x51,loop,No,N/A,,0,2
+S180A,180,45x52,loop,No,Reduced 5-10fold; No/low effect,-5.3; 2.3,7,13
+S180E,180,45x52,loop,No,No/low effect,4.1,5,5
+S180P,180,45x52,loop,No,No/low effect,1.8,2,5
+S180T,180,45x52,loop,No,No/low effect,2.4,5,5
+S180V,180,45x52,loop,No,No/low effect,4.0,1,2
+H181A,181,,loop,No,N/A,,0,6
+F182A,182,,loop,No,N/A,,0,4
+P183A,183,,loop,No,N/A,,0,3
+P183L,183,,loop,No,N/A,,0,2
+Y184A,184,,loop,No,No/low effect,3.0,2,8
+Y184H,184,,loop,No,N/A,,0,1
+S185A,185,,loop,No,N/A,,0,3
+S185R,185,,loop,No,Reduced 5-10fold,-5.4,1,2
+S185T,185,,loop,No,N/A,,0,1
+Q186A,186,5x31,loop,No,N/A,,0,3
+Y187A,187,5x32,loop,No,Reduced 5-10fold; No/low effect,-10.0; 1.2,2,5
+Q188A,188,5x33,loop,No,No/low effect,1.8,5,11
+Q188H,188,5x33,loop,No,N/A,,0,1
+F189A,189,5x34,loop,No,No/low effect,1.5,2,5
+W190A,190,5x35,loop,No,Reduced 5-10fold; No/low effect,-6.2; 1.6,2,6
+K191A,191,5x36,loop,No,Reduced >10fold; No/low effect,-55.6; 4.3,5,11
+K191N,191,5x36,loop,No,Reduced 5-10fold; No/low effect,-8.9; 3.9,5,5
+K191R,191,5x36,loop,No,No/low effect,3.7,5,5
+N192A,192,5x37,loop,No,N/A,,0,4
+N192S,192,5x37,loop,No,N/A,,0,1
+F193A,193,5x38,loop,No,N/A,,0,3
+Q194A,194,5x39,loop,No,No/low effect,2.3,2,6
+Q194H,194,5x39,loop,No,Increased 5-10fold; No/low effect,5.6; 2.4,2,3
+T195A,195,5x40,loop,No,Reduced >10fold; No/low effect,-13.3; 5.0,8,14
+T195P,195,5x40,loop,No,Reduced >10fold,-71.4,3,3
+T195S,195,5x40,loop,No,Reduced >10fold,-71.4,3,3
+K197A,197,5x42,loop,No,Reduced 5-10fold; No/low effect,-5.4; 3.5,5,7
+I198A,198,5x43,loop,No,Increased >10fold; Reduced >10fold; No/low effect,131.0; -90.9; 3.3,10,18
+I198M,198,5x43,loop,No,Reduced 5-10fold; No/low effect,-7.0; 1.1,3,3
+V199A,199,5x44,TM5,Yes,Reduced 5-10fold; No/low effect,-5.1; 3.2,3,3
+S215L,215,5x59,TM5,Yes,N/A,,0,1
+R223Q,223,5x67,loop,No,N/A,,0,3
+W248A,248,6x48,TM6,Yes,Reduced >10fold; No/low effect,-31.2; 4.2,9,13
+Y251A,251,6x51,TM6,Yes,Increased 5-10fold; Reduced >10fold; No/low effect,7.7; -71.4; 3.4,10,18
+Y251F,251,6x51,TM6,Yes,No/low effect,3.3,2,2
+Y251I,251,6x51,TM6,Yes,Increased >10fold; Reduced 5-10fold,19.9; -7.1,2,2
+N252A,252,6x52,TM6,Yes,No/low effect,2.2,2,5
+N252I,252,6x52,TM6,Yes,Reduced 5-10fold; No/low effect,-6.2; 2.3,2,3
+L255A,255,6x55,TM6,Yes,No/low effect,2.3,2,5
+N258A,258,6x58,TM6,Yes,No/low effect,2.5,2,5
+N258M,258,6x58,TM6,Yes,No/low effect,1.4,2,3
+N258Q,258,6x58,TM6,Yes,No/low effect,1.2,2,3
+T259A,259,6x59,TM6,Yes,N/A,,0,2
+F260A,260,6x60,TM6,Yes,No/low effect,2.2,2,2
+Q261A,261,6x61,TM6,Yes,N/A,,0,2
+E262A,262,6x62,loop,No,N/A,,0,6
+F263A,263,6x63,loop,No,N/A,,0,4
+F264A,264,6x64,loop,No,N/A,,0,5
+N267A,267,,loop,No,N/A,,0,4
+N268A,268,7x23,loop,No,N/A,,0,3
+C269A,269,7x24,loop,No,N/A,,0,6
+S270A,270,7x25,loop,No,N/A,,0,4
+S271A,271,7x26,TM7,Yes,N/A,,0,3
+S272A,272,7x27,TM7,Yes,N/A,,0,3
+N273A,273,7x28,TM7,Yes,N/A,,0,3
+R274A,274,7x29,TM7,Yes,N/A,,0,4
+D276A,276,7x31,TM7,Yes,N/A,,0,5
+Q277A,277,7x32,TM7,Yes,N/A,,0,4
+M279A,279,7x34,TM7,Yes,N/A,,0,2
+Q280A,280,7x35,TM7,Yes,No/low effect,1.4,2,5
+E283A,283,7x38,TM7,Yes,Increased 5-10fold; Reduced >10fold; No/low effect,10.0; -1000.0; 4.8,10,18
+E283Q,283,7x38,TM7,Yes,Increased 5-10fold; No/low effect,10.0; 3.0,2,2
+M287A,287,7x42,TM7,Yes,Reduced 5-10fold; No/low effect,-8.5; 3.9,9,14
+M287E,287,7x42,TM7,Yes,Reduced >10fold; No/low effect,-45.5; 4.1,5,5
+M287Y,287,7x42,TM7,Yes,N/A,,0,1
+H289A,289,7x45,TM7,Yes,N/A,,0,2
+N293A,293,7x49,TM7,Yes,N/A,,0,2
+Y297A,297,7x53,loop,No,N/A,,0,2
+G301V,301,8x47,loop,No,N/A,,0,1
+K318A,318,,loop,No,N/A,,0,1
+C321A,321,,loop,No,N/A,,0,1
+C323A,323,,loop,No,N/A,,0,1
+C324A,324,,loop,No,N/A,,0,1
+A335V,335,,loop,No,N/A,,0,1
+S336A,336,,loop,No,N/A,,0,3
+S336I,336,,loop,No,N/A,,0,1
+S337A,337,,loop,No,N/A,,0,3
+Y339F,339,,loop,No,N/A,,0,1
+S342A,342,,loop,No,N/A,,0,4
+T343A,343,,loop,No,N/A,,0,1
+S349A,349,,loop,No,N/A,,0,4
+L352F,352,,loop,No,N/A,,0,1

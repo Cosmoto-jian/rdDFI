@@ -1,0 +1,40 @@
+Mutation,Position,Generic_Number,Region,In_TM,Effect_Category,Representative_FoldChange,Num_Ligands,Num_Experiments
+L37A,37,1x35,TM1,Yes,Increased >10fold,90.0,1,1
+L40A,40,1x38,TM1,Yes,Increased >10fold,100.0,2,2
+Y41A,41,1x39,TM1,Yes,Increased 5-10fold; Reduced >10fold,10.0; -26.3,3,4
+V44A,44,1x42,TM1,Yes,Increased >10fold,100.0,1,1
+D80N,80,2x50,TM2,Yes,Increased >10fold,100.0,1,2
+T86A,86,2x56,TM2,Yes,Increased >10fold; Reduced >10fold,50.0; -38.5,3,4
+L87A,87,2x57,TM2,Yes,N/A,,2,3
+W90A,90,2x60,TM2,Yes,Increased >10fold,80.0,1,1
+I91A,91,2x61,TM2,Yes,Increased >10fold; Reduced >10fold,60.0; -83.3,3,3
+D92N,92,2x62,TM2,Yes,Increased >10fold,85.0,1,2
+K94A,94,2x64,TM2,Yes,Increased >10fold,90.0,1,1
+M105A,105,3x24,loop,No,Increased >10fold,98.0,1,1
+L109A,109,3x28,TM3,Yes,Increased >10fold,80.0,2,2
+S110A,110,3x29,TM3,Yes,N/A,,1,1
+G111A,111,3x30,TM3,Yes,Increased >10fold,100.0,1,1
+Y113A,113,3x32,TM3,Yes,Increased >10fold; Reduced >10fold,20.0; -1000.0,3,4
+Y113F,113,3x32,TM3,Yes,Reduced >10fold,-45.5,2,2
+Y114A,114,3x33,TM3,Yes,Increased >10fold; Reduced >10fold,100.0; -500.0,3,3
+T115A,115,3x34,TM3,Yes,Increased >10fold,100.0,1,1
+Y118A,118,3x37,TM3,Yes,N/A,,1,2
+S119A,119,3x38,TM3,Yes,Increased >10fold,80.0,1,1
+E120Q,120,3x39,TM3,Yes,Increased >10fold,90.0,1,2
+F149N,149,4x41,loop,No,N/A,,0,1
+L160A,160,4x52,TM4,Yes,Increased >10fold,100.0,1,1
+S165A,165,4x57,TM4,Yes,Increased >10fold,98.0,1,1
+G168A,168,4x61,TM4,Yes,Increased >10fold,100.0,2,2
+L203A,203,5x43,TM5,Yes,Increased >10fold,100.0,2,2
+L205G,205,5x45,TM5,Yes,N/A,,0,1
+G207A,207,5x461,TM5,Yes,Increased >10fold,100.0,2,2
+L208A,208,5x47,TM5,Yes,Increased >10fold,100.0,1,1
+W252A,252,6x48,TM6,Yes,Increased >10fold,80.0,1,1
+Y255A,255,6x51,TM6,Yes,Increased >10fold,60.0,2,2
+I259A,259,6x55,TM6,Yes,Increased >10fold; Reduced >10fold,80.0; -1000.0,3,3
+L260A,260,6x56,TM6,Yes,Reduced 5-10fold,-5.8,2,2
+S262A,262,6x58,TM6,Yes,Increased >10fold,95.0,1,1
+E287A,287,7x38,TM7,Yes,N/A,,0,1
+E287Q,287,7x38,TM7,Yes,Increased >10fold; Reduced >10fold,40.0; -34.5,3,4
+Y291A,291,7x42,TM7,Yes,Reduced >10fold,-55.6,2,2
+Y291Q,291,7x42,TM7,Yes,Increased >10fold,95.0,1,1
