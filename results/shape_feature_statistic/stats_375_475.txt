@@ -1,0 +1,14 @@
+形状特征统计（N_residues ∈ [375, 475]）
+数据: data/process/tm_plddt70.h5      单位: Å
+
+── 1. 四个类别 ──
+category      count  mean_L_xy   mean_L_z    mean_Rg
+7TM(GPCR)       120    17.9066    27.8258    33.2471
+large           105    17.7259    19.6574    26.6509
+medium          123    21.5314    30.4735    37.9866
+single_pass     204    24.1850    25.7195    35.9663
+total           552    21.0002    26.0836    34.0534
+
+── 2. GPCR 类别 ──
+category      count  mean_L_xy   mean_L_z    mean_Rg
+7TM(GPCR)       120    17.9066    27.8258    33.2471

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m py_compile src/imANM/analyse/bin_cor_4_length.py)",
+      "Bash(python3 src/imANM/analyse/bin_cor_4_length.py)"
+    ]
+  }
+}
