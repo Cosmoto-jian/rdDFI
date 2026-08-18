@@ -6,10 +6,10 @@ This directory (`src/perturbation/`) contains two Python scripts for analyzing a
 
 ## Files
 
-- `process_only.py`  
+- `rdDFI.py`  
   Computes precision, recall, and other statistics for each protein and metric, saving the results as a CSV file. **Does not generate any figures.**
 
-- `plot_fig4_fig5.py`  
+- `plot.py`  
   Generates two publication‑ready figures:
   - **Figure 4** – ratio‑sweep line plots with magnified insets (based on `heat.py`).
   - **Figure 5** – combined Venn diagram, overview bar chart, and per‑protein mutation detail (based on `first.py`).  
@@ -23,3 +23,6 @@ This directory (`src/perturbation/`) contains two Python scripts for analyzing a
 Install with:
 ```bash
 pip install numpy pandas scipy matplotlib seaborn
+
+-input files:
+The input files have been put in the same direction with rdDFI.py and plot.py under the path:src/pertubation/results
