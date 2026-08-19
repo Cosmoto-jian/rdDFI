@@ -1,2 +1,6 @@
 # macOS AppleDouble metadata files
 ._*
+
+# Python bytecode cache
+__pycache__/
+*.pyc
