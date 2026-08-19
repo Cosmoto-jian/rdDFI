@@ -12,10 +12,12 @@ import io
 import os
 import zipfile
 import xml.etree.ElementTree as ET
+from pathlib import Path
 
 # ── Configuration ──────────────────────────────────────────────────────────
-XML_ZIP  = "/Volumes/x23/临时/rdDFI/data/raw/UP000005640_9606.zip"
-OUT_FILE = "/Volumes/x23/临时/rdDFI/data/process/tm_classification.csv"
+PROJECT_DIR = Path(__file__).resolve().parents[1]
+XML_ZIP  = PROJECT_DIR / "data" / "raw" / "UP000005640_9606.zip"
+OUT_FILE = PROJECT_DIR / "data" / "process" / "tm_classification.csv"
 
 # XML namespace used in PDBTM files
 NS = "http://pdbtm.enzim.hu"

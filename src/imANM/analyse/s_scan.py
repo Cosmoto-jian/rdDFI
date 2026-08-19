@@ -28,8 +28,9 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 # ── 参数 ──────────────────────────────────────────────────────────────────
-CSV_PATH   = "/Volumes/x23/临时/rdDFI/data/process/xi_master_table_100_800.csv"
-OUT_DIR    = "/Volumes/x23/临时/rdDFI/results/s_scan375_475"
+PROJECT_DIR = Path(__file__).resolve().parents[3]
+CSV_PATH   = PROJECT_DIR / "data" / "process" / "xi_master_table_100_800.csv"
+OUT_DIR    = PROJECT_DIR / "results" / "s_scan375_475"
 S_VALUES   = [1, 2, 4, 8, 16, 32, 64]
 K_DEFAULT  = 1000
 CATEGORIES = ["GPCR", "large", "medium", "single_pass"]

@@ -5,7 +5,7 @@ Usage:
     python extract_chain.py [INPUT.pdb] [CHAIN] [-o OUTPUT.pdb] [options]
 
 Defaults:
-    input = /Volumes/x23/临时/rdDFI/data/raw/case_assembly/3ODU.pdb, chains = A,
+    input = data/raw/case_assembly/4dkl.pdb, chains = A,
     output = <input dir>/<stem>_chain<IDs>.pdb
 
 Examples:
@@ -25,6 +25,7 @@ Notes:
 import argparse
 import os
 import sys
+from pathlib import Path
 
 
 # Records that are NOT chain-specific and can be copied verbatim as context.
@@ -162,8 +163,9 @@ def extract_chains(input_pdb, chains, output_pdb,
 
 def main(argv=None):
     p = argparse.ArgumentParser(description="Extract chain(s) from a PDB file.")
-    p.add_argument("input", nargs="?", default="/Volumes/x23/临时/rdDFI/data/raw/case_assembly/4dkl.pdb",
-                   help="input PDB file (default: /Volumes/x23/临时/rdDFI/data/raw/case_assembly/4dkl.pdb)")
+    default_input = Path(__file__).resolve().parents[2] / "data" / "raw" / "case_assembly" / "4dkl.pdb"
+    p.add_argument("input", nargs="?", default=str(default_input),
+                   help=f"input PDB file (default: {default_input})")
     p.add_argument("chains", nargs="?", default="A",
                    help="chain ID(s), comma-separated (e.g. A or A,B,C; default: A)")
     p.add_argument("-o", "--output", help="output PDB file (default: <input dir>/<stem>_chain<IDs>.pdb)")

@@ -38,8 +38,9 @@ K_VALUES = [20, 50, 100, 200, 1000]
 BIN_WIDTH = 5   # Å
 
 # ── 批量模式路径 ──────────────────────────────────────────────────────────
-H5_DATA_PATH   = Path("/Volumes/x23/临时/rdDFI/data/process/tm_plddt70.h5")
-PDB_ZIP        = Path("/Volumes/x23/临时/rdDFI/data/raw/UP000005640_9606.zip")
+PROJECT_DIR    = Path(__file__).resolve().parents[2]
+H5_DATA_PATH   = PROJECT_DIR / "data" / "process" / "tm_plddt70.h5"
+PDB_ZIP        = PROJECT_DIR / "data" / "raw" / "UP000005640_9606.zip"
 N_RES_MIN      = 100
 N_RES_MAX      = 800
 CATEGORIES     = ["single_pass", "medium", "GPCR", "large"]

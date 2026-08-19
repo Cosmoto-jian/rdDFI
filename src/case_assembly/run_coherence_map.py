@@ -3,7 +3,7 @@
 """run_coherence_map.py — 对 case_assembly 的 4dkl.pdb 直接运行 coherence_map.py 的相干性分析。
 
 直接调用 src/correlation/coherence_map.py 的 run() 管线：
-把坐标读取替换为 /Volumes/x23/临时/rdDFI/data/raw/case_assembly/4dkl.pdb（默认全部链，即 CXCR4 二聚体 A+B），
+把坐标读取替换为 data/raw/case_assembly/4dkl.pdb（默认全部链，即 CXCR4 二聚体 A+B），
 结果图输出到 results/case_assembly/coherence_map/。
 
 4dkl 是二聚体：绘图后在每个热图块上叠加二聚体界面十字（深绿色虚线），
@@ -26,7 +26,7 @@ REPO = HERE.parent.parent
 sys.path.insert(0, str(HERE.parent / "correlation"))
 import coherence_map  # noqa: E402
 
-PDB_PATH = Path("/Volumes/x23/临时/rdDFI/data/raw/case_assembly/4dkl.pdb")
+PDB_PATH = REPO / "data" / "raw" / "case_assembly" / "4dkl.pdb"
 PID = "4dkl"
 
 

@@ -37,13 +37,15 @@ K_VALUES = [20, 50, 100, 200, 1000]
 BIN_WIDTH = 5   # Å
 
 # ── 批量模式路径（case_assembly）─────────────────────────────────────────
-CASE_H5_PATH = Path("/Volumes/x23/临时/rdDFI/data/raw/case_assembly/case_assembly.h5")
+PROJECT_DIR = Path(__file__).resolve().parents[2]
+CASE_DATA_DIR = PROJECT_DIR / "data" / "raw" / "case_assembly"
+CASE_H5_PATH = CASE_DATA_DIR / "case_assembly.h5"
 # (类别, H5 组名, 输入 PDB)：全部按全珠子关联计算
 CASE_PDBS = [
     ("single_chain", "4dkl",
-     Path("/Volumes/x23/临时/rdDFI/data/raw/case_assembly/4dkl_chainA.pdb")),
+    CASE_DATA_DIR / "4dkl_chainA.pdb"),
     ("assembly", "4dkl",
-     Path("/Volumes/x23/临时/rdDFI/data/raw/case_assembly/4dkl.pdb")),
+    CASE_DATA_DIR / "4dkl.pdb"),
 ]
 
 

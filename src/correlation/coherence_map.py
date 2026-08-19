@@ -31,10 +31,10 @@ import matplotlib.pyplot as plt
 from scipy.spatial.distance import pdist, squareform
 
 HERE     = Path(__file__).resolve().parent
-BASE_DIR = HERE.parent
-H5_PATH  = Path("/Volumes/x23/临时/rdDFI/data/process/tm_plddt70.h5")
-PDB_ZIP  = Path("/Volumes/x23/临时/rdDFI/data/raw/UP000005640_9606.zip")
-OUT_DIR  = BASE_DIR.parent / "results" / "coherence_map"
+PROJECT_DIR = HERE.parents[1]
+H5_PATH  = PROJECT_DIR / "data" / "process" / "tm_plddt70.h5"
+PDB_ZIP  = PROJECT_DIR / "data" / "raw" / "UP000005640_9606.zip"
+OUT_DIR  = PROJECT_DIR / "results" / "coherence_map"
 
 RC       = 10.0   # ANM 接触截断 (Å)
 SHORT    = RC     # 短程界限 = 接触截断：直接相连的残基对（与模型自身尺度一致）

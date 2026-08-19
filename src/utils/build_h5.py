@@ -10,9 +10,9 @@ add_plddt_to_csv.py + 旧 build_h5.py 三步合并的入口）：
      N_residues、pLDDT_mean_CA / pLDDT_mean_all
   3. 几何量 L_xy / L_z / f（复用 add_geometry_to_h5.geometric_scales）
   4. 过滤 pLDDT_mean_CA > 70，按 Category 分组
-  5. 输出到独立路径（不覆盖现有含 imANM 结果的 tm_plddt70.h5）：
+  5. 创建主 HDF5 数据库（首次建库时使用；不会保留旧文件中的 imANM 结果）：
        data/process/tm_classification.csv
-       data/process/tm_plddt70_rebuilt.h5
+    data/process/tm_plddt70.h5
 
 HDF5 结构与现 h5 的 per-protein 布局对齐：
   /{cat}/
@@ -37,15 +37,16 @@ import numpy as np
 import h5py
 
 HERE = Path(__file__).resolve().parent
+PROJECT_DIR = HERE.parents[1]
 sys.path.insert(0, str(HERE))
 from classify_tm import classify_tm, NS                 # noqa: E402
 from add_geometry_to_h5 import geometric_scales        # noqa: E402
 
 # ── Paths ──────────────────────────────────────────────────────────────────
-PDB_ZIP  = Path("/Volumes/x23/临时/rdDFI/data/raw/UP000005640_9606.zip")
-OUT_DIR  = Path("/Volumes/x23/临时/rdDFI/data/process")
+PDB_ZIP  = PROJECT_DIR / "data" / "raw" / "UP000005640_9606.zip"
+OUT_DIR  = PROJECT_DIR / "data" / "process"
 CSV_PATH = OUT_DIR / "tm_classification.csv"
-H5_PATH  = OUT_DIR / "tm_plddt70_rebuilt.h5"
+H5_PATH  = OUT_DIR / "tm_plddt70.h5"
 
 PLDDT_CUTOFF = 70.0
 

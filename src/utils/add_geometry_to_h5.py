@@ -20,13 +20,15 @@ import gzip
 import os
 import sys
 import zipfile
+from pathlib import Path
 
 import numpy as np
 import h5py
 
 # ── Paths ──────────────────────────────────────────────────────────────────
-PDB_ZIP  = "/Volumes/x23/临时/rdDFI/data/raw/UP000005640_9606.zip"
-H5_PATH  = "/Volumes/x23/临时/rdDFI/data/process/tm_plddt70.h5"
+PROJECT_DIR = Path(__file__).resolve().parents[1]
+PDB_ZIP  = PROJECT_DIR / "data" / "raw" / "UP000005640_9606.zip"
+H5_PATH  = PROJECT_DIR / "data" / "process" / "tm_plddt70.h5"
 
 
 def geometric_scales(coords_A: np.ndarray):

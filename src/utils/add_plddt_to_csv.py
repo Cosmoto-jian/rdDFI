@@ -15,11 +15,13 @@ import gzip
 import os
 import sys
 import zipfile
+from pathlib import Path
 
 # ── Configuration ──────────────────────────────────────────────────────────
-PDB_ZIP = "/Volumes/x23/临时/rdDFI/data/raw/UP000005640_9606.zip"
-CSV_IN  = "/Volumes/x23/临时/rdDFI/data/process/tm_classification.csv"
-CSV_OUT = "/Volumes/x23/临时/rdDFI/data/process/tm_classification.csv"  # overwrite
+PROJECT_DIR = Path(__file__).resolve().parents[1]
+PDB_ZIP = PROJECT_DIR / "data" / "raw" / "UP000005640_9606.zip"
+CSV_IN  = PROJECT_DIR / "data" / "process" / "tm_classification.csv"
+CSV_OUT = PROJECT_DIR / "data" / "process" / "tm_classification.csv"  # overwrite
 
 
 def calc_plddt(text: str):

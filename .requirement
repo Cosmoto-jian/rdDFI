@@ -1,0 +1,20 @@
+# Python: 3.8 or newer
+
+# Core numerical, scientific, and data processing packages
+numpy
+scipy
+pandas
+h5py
+
+# PDB structure parsing used by imANM and case-assembly workflows
+biopython
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Required only by src/utils/add_shape_c.py and src/utils/add_rg_to_h5.py
+mdtraj
+
+# ZIP, GZIP, CSV, XML, pathlib, argparse, and filesystem operations use Python's standard library.
+# No additional system executable is explicitly required by the repository.
