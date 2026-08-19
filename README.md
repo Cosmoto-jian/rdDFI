@@ -37,14 +37,11 @@ The repository separates data into raw inputs, processed data, and generated ana
 
 ### Raw Data: `data/raw/`
 
-The raw data mainly consist of two classes:
+The raw data mainly consist of the following inputs:
 
-1. **Structural data:** PDB structures and compressed PDB files (`.pdb.gz`) for transmembrane proteins, together with complete assembly structures under `data/raw/case_assembly/`.
-2. **Protein annotation data:** TMDet XML annotations and the archive `data/raw/UP000005640_9606.zip`, which contains the structure and annotation files used by the preprocessing workflows.
-
-### Auxiliary GPCR Benchmark Data
-
-These auxiliary benchmark data contain 1,452 transmembrane positions across 20 representative human non-olfactory GPCRs. They were curated from published mutagenesis data in GPCRdb and were not generated in-house. They are used by the rdDFI evaluation workflow and are not required for the main proteome-wide imANM calculation.
+1. **Human proteome structural archive:** `data/raw/UP000005640_9606.zip` contains AlphaFold-predicted PDB structures and compressed PDB files (`.pdb.gz`) for human transmembrane proteins. The archive also contains the TMDet XML annotations used for transmembrane classification.
+2. **Assembly examples:** `data/raw/case_assembly/` contains the `4dkl` GPCR dimer structure and its corresponding single-chain structure, which are used for assembly imANM and coherence-map analyses.
+3. **GPCR benchmark data:** `data/raw/GPCR_Mutant_Suggestion_List_Distinct_Receptors.xlsx` contains 1,452 transmembrane positions across 20 representative human non-olfactory GPCRs. These data were curated from published mutagenesis data in GPCRdb and were not generated in-house. They are used by the rdDFI evaluation workflow.
 
 ### Processed Data: `data/process/`
 
