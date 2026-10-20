@@ -1,0 +1,937 @@
+cls,uniprot,org,human,pdb,chain,name,family,resolution,res_num,seqlen,n_CA,Rg,Rg_xy,Rg_z,forced,bin,eta
+A_bitopic,P01857,Homo sapiens,1,7WSO,K,IgG-IgM BCR tetramer,B-cell antigen receptor complex,3.03 EM,3.03,252.0,252,37.473,26.544,26.451,0,250–400,0.997
+A_bitopic,P01872,Mus musculus,0,8E4C,B,B-cell antigen receptor complex with Fab,B-cell antigen receptor complex,4 EM   ,4.0,417.0,253,32.451,26.026,19.383,0,250–400,0.745
+A_bitopic,F0NG73,Saccharolobus islandicus REY15A,0,8CWM,C,Flagellin,Archaeal flagellin/pilin,3.4 EM,3.4,306.0,287,27.728,14.324,23.742,0,250–400,1.658
+A_bitopic,B5Z6I2,Helicobacter pylori G27,0,6B8S,A,Dihydroorotate dehydrogenase,FMN-dependent dehydrogenase,2.25,2.25,359.0,335,18.63,14.707,11.436,0,250–400,0.778
+A_bitopic,Q9X4B7,Escherichia coli,0,2J58,A,Outer membrane lipoprotein Wza,OMA polysaccharide transporter,2.25,2.25,359.0,355,34.676,13.886,31.774,0,250–400,2.288
+A_bitopic,P01871,Homo sapiens,0,7XQ8,C,IgM BCR tetramer,B-cell antigen receptor complex,3.3 EM,3.3,614.0,370,40.686,25.704,31.538,0,250–400,1.227
+A_bitopic,U6KL66,Eimeria tenella,0,6AJE,A,"Dihydroorotate dehydrogenase, with ferulenol",FMN-dependent dehydrogenase,3.65,3.65,436.0,378,19.291,15.899,10.926,0,250–400,0.687
+A_bitopic,Q08210,Plasmodium falciparum,0,6I4B,A,"Dihydroorotate dehydrogenase, structure 3",FMN-dependent dehydrogenase,1.98,1.98,405.0,381,19.338,15.7,11.29,0,250–400,0.719
+A_bitopic,D3Y1J3,Streptomyces sp. 307-9,0,6XA3,A,P450 monooxygenase TamI,Cytochrome P450,2.96,2.96,442.0,409,22.772,20.249,10.419,0,400–550,0.515
+A_bitopic,P27395,Japanese encephalitis virus strain SA-14,0,5MV2,A,"Envelope glycoprotein, encephalitis virus, structure 3",Flavivirus glycoprotein,2.1,2.1,416.0,410,34.376,20.713,27.435,0,400–550,1.325
+A_bitopic,P03315,Semliki Forest virus,0,8IHP,A,"E1 envelope glycoprotein, with receptor VLDLR-LA3",Alphavirus E1 glycoprotein,3 EM   ,3.0,422.0,417,45.987,31.507,33.498,0,400–550,1.063
+A_bitopic,P89946,Barmah Forest virus,0,2YEW,B,E1/E2 envelope glycoprotein complex,Alphavirus E1 glycoprotein,5.0 EM,5.0,427.0,425,38.946,30.083,24.735,0,400–550,0.822
+A_bitopic,O88867,Rattus norvegicus,0,6LKE,A,KMO with an inhibitor,Kynurenine monooxygenase,3,3.0,495.0,428,23.526,16.752,16.518,0,400–550,0.986
+A_bitopic,A0A0P0CE34,Mayaro virus,0,7LIH,T,Capsid complex of Mayaro virus,Alphavirus E1 glycoprotein,4.4 EM,4.4,435.0,435,39.791,32.789,22.543,0,400–550,0.688
+A_bitopic,Q93VK5,Arabidopsis thaliana,0,6L8I,A,"Cytochrome P450 97A3, mutant",Cytochrome P450,1.7,1.7,519.0,439,21.696,18.85,10.742,0,400–550,0.57
+A_bitopic,Q5XXP3,Chikungunya virus strain Senegal 37997,0,8DWW,B,"E1 envelope glycoprotein, with Fab 506.A08",Alphavirus E1 glycoprotein,3.13 EM,3.13,439.0,439,40.897,34.514,21.939,0,400–550,0.636
+A_bitopic,Q88628,Chikungunya virus,0,6NK7,A,"E1/E2 envelope glycoprotein complex, structure 3",Alphavirus E1 glycoprotein,4.99 EM,4.99,439.0,439,38.788,30.747,23.645,0,400–550,0.769
+A_bitopic,P05674,Venezuelan equine encephalitis virus (strain TC-83),0,7FFF,G,Spike-receptor protein complex LDLRAD3,Alphavirus E1 glycoprotein,3 EM,3.0,442.0,442,38.916,29.955,24.844,0,400–550,0.829
+A_bitopic,O64989,Arabidopsis thaliana,0,6A17,A,"Cytochrome P450 90B1, with brassinazole",Cytochrome P450,2.3,2.3,457.0,444,22.014,18.947,11.208,0,400–550,0.592
+A_bitopic,Q16850,Homo sapiens,1,6UEZ,A,"Sterol 14-alpha-demethylase (CYP51), structure 2",Cytochrome P450,1.98,1.98,454.0,446,22.252,19.164,11.31,0,400–550,0.59
+A_bitopic,Q603T8,Methylococcus capsulatus str. Bath,0,6MCW,A,Cytochrome P450,Cytochrome P450,2.4,2.4,551.0,446,22.217,18.774,11.881,0,400–550,0.633
+A_bitopic,L8GJB3,Acanthamoeba castellanii str. Neff,0,6UW2,A,"14-alpha-demethylase (CYP51) of acanthamoeba, structure 2",Cytochrome P450,2.92,2.92,460.0,449,22.382,19.102,11.664,0,400–550,0.611
+A_bitopic,G2QDZ3,Thermothelomyces thermophilus ATCC 42464,0,7P6L,B,"CYP505A30, bound to dodecanoic acid",Cytochrome P450,2.33,2.33,464.0,458,21.902,17.063,13.732,0,400–550,0.805
+A_bitopic,P08684,Homo sapiens,1,7UFB,A,"Cytochrome P450 3A4, inhibitor-bound",Cytochrome P450,2.25,2.25,487.0,462,22.415,19.685,10.721,0,400–550,0.545
+A_bitopic,P11712,Homo sapiens,1,7RL2,A,Crystal the Cytochrome P450 2C9*8 (CYP2C9*8) Genetic Variant in Complex with the Drug Losartan,Cytochrome P450,2.23,2.23,476.0,463,22.361,18.674,12.3,0,400–550,0.659
+A_bitopic,Q6VVX0,Homo sapiens,1,3CZH,A,Cytochrome P450 2R1,Cytochrome P450,2.3,2.3,,465,22.23,18.136,12.855,1,400–550,0.709
+A_bitopic,P24462,Homo sapiens,1,7MK8,B,Fetal-specific CYP3A7,Cytochrome P450,2.15,2.15,519.0,465,22.416,19.934,10.252,0,400–550,0.514
+A_bitopic,P20815,Homo sapiens,1,7SV2,A,"Cytochrome P450 3A5, with azamulin",Cytochrome P450,2.46,2.46,480.0,465,22.502,19.962,10.387,0,400–550,0.52
+A_bitopic,S4UX02,Salvia miltiorrhiza,0,5YLW,A,Ferruginol synthase (CYP76AH1),Cytochrome P450,1.7,1.7,495.0,466,22.053,17.376,13.58,0,400–550,0.782
+A_bitopic,Q6TBX7,Arabidopsis thaliana,0,6L8H,A,"Carotene epsilon-monooxygenase, CYP97C1",Cytochrome P450,2.0,2.0,471.0,466,22.158,19.036,11.342,0,400–550,0.596
+A_bitopic,A0A0Y0GRS3,Salvia miltiorrhiza,0,7X2Q,A,Sugiol synthase (CYP76AH3),Cytochrome P450,3.68   ,3.68,476.0,467,22.137,17.875,13.059,0,400–550,0.731
+A_bitopic,Q94IP1,Sorghum bicolor,0,6VBY,A,Cinnamate 4-hydroxylase,Cytochrome P450,1.7,1.7,507.0,470,22.325,17.901,13.34,0,400–550,0.745
+A_bitopic,P10613,Candida albicans SC5314,0,5V5Z,A,"Sterol 14-alpha-demethylase (CYP51), structure 3",Cytochrome P450,2.9,2.9,537.0,488,23.192,19.366,12.76,0,400–550,0.659
+A_bitopic,P14336,Tick-borne encephalitis virus (WESTERN SUBTYPE),0,7Z51,A,Capsid envelop protein complex,Flavivirus glycoprotein,3.3 EM,3.3,496.0,494,33.424,30.195,14.333,0,400–550,0.475
+A_bitopic,Q5WPU5,Usutu virus,0,7LCH,A,Envelope proteins E-M complex,Flavivirus glycoprotein,2.35 EM,2.35,500.0,495,33.014,30.03,13.716,0,400–550,0.457
+A_bitopic,P14340,Dengue virus 2 Thailand/NGS-C/1944,0,7V3G,B,"Capsid envelop protein complex, Dengue",Flavivirus glycoprotein,3.3 EM,3.3,495.0,495,32.764,29.893,13.413,0,400–550,0.449
+A_bitopic,P27338,Homo sapiens,1,2XFN,A,"Monoamine oxidase B, dimer",Flavin containing amine oxidoreductase,1.6,1.6,520.0,499,23.017,16.616,15.927,0,400–550,0.959
+A_bitopic,P32886,Japanese encephalitis virus,0,5YWP,A,"Capsid envelop protein complex, with Fab",Flavivirus glycoprotein,4.6 EM,4.6,500.0,500,32.827,29.774,13.823,0,400–550,0.464
+A_bitopic,Q32ZE1,Zika virus,0,7JYI,C,"Capsid envelop protein complex, Zika, structure 8",Flavivirus glycoprotein,3.4 EM,3.4,501.0,501,33.056,30.588,12.532,0,400–550,0.41
+A_bitopic,A0A024B7W1,Zika virus,0,5IZ7,A,"Capsid envelop protein complex, Zika, structure 2",Flavivirus glycoprotein,3.7 EM,3.7,504.0,504,32.545,29.78,13.127,0,400–550,0.441
+A_bitopic,P50859,Nakaseomyces glabratus CBS 138,0,5JLC,A,Lanosterol 14-alpha demethylase,Cytochrome P450,2.4,2.4,515.0,506,24.758,20.051,14.524,0,400–550,0.724
+A_bitopic,P0DTC2,Severe acute respiratory syndrome coronavirus,0,8FDW,B,SARS-CoV-2 post-fusion spike,"Spike glycoprotein, betacoronavirus",2.9 EM ,2.9,625.0,508,81.992,14.981,80.612,0,400–550,5.381
+A_bitopic,P21396,Rattus norvegicus,0,1O5W,A,Monoamine oxidase A,Flavin containing amine oxidoreductase,3.2,3.2,534.0,511,24.225,15.871,18.302,0,400–550,1.153
+A_bitopic,P21397,Homo sapiens,1,2Z5X,A,Monoamine oxidase A,Flavin containing amine oxidoreductase,2.2,2.2,513.0,513,24.468,16.17,18.364,0,400–550,1.136
+A_bitopic,A6ZSR0,Saccharomyces cerevisiae YJM789,0,4WMZ,A,"Lanosterol 14-alpha demethylase (CYP51), with drug",Cytochrome P450,2.05,2.05,539.0,527,25.87,19.973,16.441,0,400–550,0.823
+A_bitopic,P10614,Saccharomyces cerevisiae S288C,0,5EQB,A,"Lanosterol 14-alpha demethylase (CYP51), with lanosterol",Cytochrome P450,2.19,2.19,539.0,531,26.303,19.754,17.367,0,400–550,0.879
+A_bitopic,A9V0L3,Monosiga brevicollis,0,2XHE,A,Syntaxin-1,Syntaxin,2.8,2.8,650.0,566,26.171,23.814,10.854,0,550–700,0.456
+A_bitopic,P10211,Human alphaherpesvirus 1,0,5V2S,A,"Envelope glycoprotein B, structure 2",Herpesvirus glycoprotein B,3.6,3.6,841.0,705,62.719,21.408,58.952,0,700–850,2.754
+A_bitopic,P02919,Escherichia coli K-12,0,5HLB,A,Penicillin-binding protein 1B,Transglycosylase of penicillin-binding proteins (Glycosyltransferase family 51),2.42,2.42,747.0,733,33.059,22.745,23.991,0,700–850,1.055
+B_receptor_channel,Q96LB2,Homo sapiens,1,8DWC,R,MRGPRX1 with Gq and agonist BAM8-22,"G-protein coupled receptors, family A",2.87 EM,2.87,323.0,250,19.066,13.184,13.773,0,250–400,1.045
+B_receptor_channel,Q41372,Spinacia oleracea,0,1Z98,A,"Aquaporin Sopip2, closed state",Major intrinsic protein (MIP) family,2.1,2.1,281.0,251,17.379,11.584,12.955,0,250–400,1.118
+B_receptor_channel,Q96PS8,Homo sapiens,1,6F7H,A,Aquaporin-10,Major intrinsic protein (MIP) family,2.3,2.3,301.0,251,17.52,12.348,12.429,0,250–400,1.007
+B_receptor_channel,P0AC25,Escherichia coli O157:H7,0,3KCU,A,"Formate transporter 1, FocA",Formate/Nitrite transporter (FNT) family,2.24,2.24,285.0,252,18.129,12.457,13.171,0,250–400,1.057
+B_receptor_channel,O00180,Homo sapiens,1,3UKM,A,Potassium channel subfamily K member 1,Two pore Na+ channels,3.4,3.4,280.0,252,22.423,13.196,18.13,0,250–400,1.374
+B_receptor_channel,O14520,Homo sapiens,1,8AMX,A,"Aquaporin-7, dimer of tetramers, D4",Major intrinsic protein (MIP) family,2.55 EM,2.55,342.0,253,17.959,12.55,12.846,0,250–400,1.024
+B_receptor_channel,E8QGV2,Helicobacter pylori,0,4HW9,A,"Mechanosensitive channel MscS, closed",Small conductance mechanosensitive ion channels,4.14,4.14,309.0,253,34.626,17.29,30.0,0,250–400,1.735
+B_receptor_channel,P0AER0,Escherichia coli,0,1LDF,A,"Glycerol uptake facilitator, GlpF",Major intrinsic protein (MIP) family,2.1,2.1,281.0,254,17.738,12.157,12.918,0,250–400,1.063
+B_receptor_channel,O14649,Homo sapiens,1,6RV2,A,Potassium channel subfamily K member 3,Two pore Na+ channels,3.0,3.0,264.0,254,23.459,14.96,18.07,0,250–400,1.208
+B_receptor_channel,O95069,Homo sapiens,1,4TWK,A,Potassium channel subfamily K member 2,Two pore Na+ channels,2.6,2.6,283.0,255,24.592,16.345,18.373,0,250–400,1.124
+B_receptor_channel,Q186B7,Clostridioides difficile 630,0,3TDS,E,Formate/nitrite transporter,Formate/Nitrite transporter (FNT) family,1.98,1.98,268.0,256,17.675,12.152,12.835,0,250–400,1.056
+B_receptor_channel,Q9JK62,Mus musculus,0,6WLV,A,"Potassium channel TASK2, structure 1",Two pore Na+ channels,3.45 EM,3.45,343.0,256,24.216,15.498,18.608,0,250–400,1.201
+B_receptor_channel,Q9KRE7,Vibrio cholerae,0,3KLY,A,"Formate transporter 1, FocA",Formate/Nitrite transporter (FNT) family,2.1,2.1,280.0,257,18.694,12.87,13.558,0,250–400,1.053
+B_receptor_channel,Q9Y653,Homo sapiens,1,7SF8,A,Adhesion G-protein coupled receptor G1-G protein complex,GPCR Secretin (B) family,2.7 EM,2.7,313.0,257,18.849,13.049,13.602,0,250–400,1.042
+B_receptor_channel,Q91ZR5,Human betaherpesvirus 5,0,7EEB,A,CatSpermasome,CATSPER channel,2.9 EM,2.9,955.0,258,25.598,21.279,14.23,0,250–400,0.669
+B_receptor_channel,Q9NYG8,Homo sapiens,1,3UM7,A,"Potassium channel subfamily K member 4, structure 1",Two pore Na+ channels,3.31,3.31,309.0,259,23.442,13.97,18.824,0,250–400,1.347
+B_receptor_channel,A0A4Z2BWB0,Takifugu bimaculatus,0,7JI3,A,Proton-activated chloride channel TMEM206,Proton-activated chloride channel,3.46 EM,3.46,463.0,259,33.071,15.593,29.164,0,250–400,1.87
+B_receptor_channel,Q9HW12,Pseudomonas aeruginosa PAO1,0,7DLU,A,Mechanosensitive channel MscS K180Rt,Small conductance mechanosensitive ion channels,2.5 EM,2.5,278.0,260,35.66,17.646,30.988,0,250–400,1.756
+B_receptor_channel,P06624,Bos taurus,0,2B6P,A,"Aquaporin-0, open state",Major intrinsic protein (MIP) family,2.4,2.4,263.0,261,19.941,12.467,15.564,0,250–400,1.248
+B_receptor_channel,Q7CQU0,Salmonella enterica subsp. enterica serovar Typhi str. CT18,0,3Q7K,A,Formate transporter,Formate/Nitrite transporter (FNT) family,2.8,2.8,293.0,262,18.375,12.281,13.668,0,250–400,1.113
+B_receptor_channel,Q80TS3,Mus musculus,0,7WY5,R,Adhesion G-protein coupled receptor L3-Gq complex,GPCR Secretin (B) family,2.83 EM,2.83,1543.0,262,19.601,13.224,14.468,0,250–400,1.094
+B_receptor_channel,Q9Z2T2,Rattus norvegicus,0,7SK1,A,"TWIK1 pH-gated  K+ channel, at pH 5.5",NaK channel,3.43 EM,3.43,336.0,262,24.076,14.378,19.312,0,250–400,1.343
+B_receptor_channel,F2QVG4,Komagataella pastoris,0,2W2E,A,Aquaporin AQY1,Major intrinsic protein (MIP) family,1.15,1.15,279.0,263,19.1,12.46,14.476,0,250–400,1.162
+B_receptor_channel,P28335,Homo sapiens,1,8DPF,A,5-hydroxytryptamine receptor 2C (INI isoform) with lorcaserin,"G-protein coupled receptors, family A",2.84 EM,2.84,458.0,264,20.15,12.547,15.766,0,250–400,1.257
+B_receptor_channel,O95136,Homo sapiens,1,7T6B,R,"Sphingosine 1-phosphate receptor 2, with Ga13","G-protein coupled receptors, family A",3.19 EM,3.19,361.0,264,19.96,11.829,16.077,0,250–400,1.359
+B_receptor_channel,P83698,Burkholderia pseudomallei,0,2WLL,A,"Potassium channel Kirbac1.1, closed state, refined",Inward rectifier potassium channels,3.65,3.65,333.0,264,29.397,15.179,25.175,0,250–400,1.659
+B_receptor_channel,Q86Y34,Homo sapiens,1,7D77,R,GPR97-Go complex with cortisol,"G-protein coupled receptors, family A",2.9 EM,2.9,561.0,265,20.354,13.172,15.517,0,250–400,1.178
+B_receptor_channel,Q9HB45,Homo sapiens,1,7V9M,R,"GHRH receptor splice variant 1, with Gs and somatoliberin",GPCR Secretin (B) family,3.29 EM,3.29,523.0,265,19.908,13.001,15.077,0,250–400,1.16
+B_receptor_channel,P43116,Homo sapiens,1,7CX2,R,Prostaglandin E2 receptor GE2-EP2-Gs complex,"G-protein coupled receptors, family A",2.8 EM,2.8,358.0,266,19.901,12.779,15.257,0,250–400,1.194
+B_receptor_channel,Q8R6L9,Caldanaerobacter subterraneus subsp. tengcongensis,0,3T9N,A,"Mechanosensitive channel MscS, closed",Small conductance mechanosensitive ion channels,3.46,3.46,282.0,266,34.76,17.502,30.032,0,250–400,1.716
+B_receptor_channel,A8EVM5,Aliarcobacter butzleri RM4018,0,5KLB,A,"Voltage-gated sodium channel NavAb, structure 3",Voltage-gated calcium and sodium channels,2.7,2.7,285.0,267,33.364,20.17,26.577,0,250–400,1.318
+B_receptor_channel,Q8IZF6,Homo sapiens,0,7WUJ,E,Adhesion G-protein coupled receptor G4,GPCR Secretin (B) family,3.3 EM,3.3,631.0,267,18.396,12.771,13.24,0,250–400,1.037
+B_receptor_channel,P47898,Homo sapiens,1,7UM5,A,"5-hydroxytryptamine receptor 5A, Go-coupled with 5-CT","G-protein coupled receptors, family A",2.73 EM,2.73,326.0,268,20.12,12.91,15.432,0,250–400,1.195
+B_receptor_channel,Q02643,Homo sapiens,0,7CZ5,R,"Growth hormone-releasing hormone receptor, with Gs protein",GPCR Secretin (B) family,2.60 EM,2.6,556.0,269,20.526,13.635,15.343,0,250–400,1.125
+B_receptor_channel,P50406,Homo sapiens,1,7YS6,A,Serotonin 6 receptor-DNGs-scFv16 complex,"G-protein coupled receptors, family A",3 EM   ,3.0,304.0,269,20.095,12.728,15.551,0,250–400,1.222
+B_receptor_channel,Q9H228,Homo sapiens,1,7EW1,A,"Sphingosine 1-phosphate receptor 5, Gi and siponimod-bound","G-protein coupled receptors, family A",3.4 EM,3.4,394.0,269,20.754,12.257,16.747,0,250–400,1.366
+B_receptor_channel,A0L5S6,Magnetococcus marinus MC-1,0,6SXG,A,Sodium channel NavMs with 4-hydroxytamoxifen,Voltage-gated calcium and sodium channels,2.4,2.4,277.0,271,28.07,20.341,19.344,0,250–400,0.951
+B_receptor_channel,O14842,Homo sapiens,1,8EJC,R,Free fatty acid receptor 1-Gq complex with TAK-875,"G-protein coupled receptors, family A",3 EM   ,3.0,501.0,271,19.679,12.379,15.297,0,250–400,1.236
+B_receptor_channel,Q96LB1,Homo sapiens,1,7VV6,R,MRGPRX2 with C48/80,"G-protein coupled receptors, family A",3.3 EM,3.3,330.0,271,19.493,13.088,14.446,0,250–400,1.104
+B_receptor_channel,P32245,Homo sapiens,1,7F54,R,Melanocortin-4 receptor-afamelanotide-Gs complex,"G-protein coupled receptors, family A",3 EM,3.0,507.0,273,20.639,13.868,15.286,0,250–400,1.102
+B_receptor_channel,P49286,Homo sapiens,1,7VH0,A,"Melatonin receptor type 1B, with Gi and remalteon","G-protein coupled receptors, family A",3.46 EM,3.46,362.0,273,19.918,12.776,15.281,0,250–400,1.196
+B_receptor_channel,W9BH30,Klebsiella pneumoniae IS53,0,6IV3,A,"Bestrophin ion channel, structure 3",Bestrophin anion channel,2.52,2.52,296.0,274,27.226,10.071,25.295,0,250–400,2.512
+B_receptor_channel,Q8TDU6,Homo sapiens,1,7CFN,R,"Bile acid receptor 1, with Gs and INT-777","G-protein coupled receptors, family A",3.0 EM,3.0,330.0,274,21.491,13.191,16.967,0,250–400,1.286
+B_receptor_channel,P43115,Homo sapiens,1,7WU9,R,Muscarinic acetylcholine receptor M4-G-protein complex,"G-protein coupled receptors, family A",3.375 EM,3.375,325.0,274,20.375,13.815,14.976,0,250–400,1.084
+B_receptor_channel,P51686,Homo sapiens,1,5LWE,A,"C-C chemokine receptor type 9, inactive state","G-protein coupled receptors, family A",2.8,2.8,331.0,275,20.745,13.838,15.456,0,250–400,1.117
+B_receptor_channel,Q9HAR2,Homo sapiens,1,7SF7,A,Adhesion G-protein coupled receptor L3-G protein complex,GPCR Secretin (B) family,2.9 EM,2.9,303.0,275,20.596,13.903,15.196,0,250–400,1.093
+B_receptor_channel,P09703,Human betaherpesvirus 5,0,7RKX,R,"US27 viral receptor, with Gi and scFv16 in CL-state","G-protein coupled receptors, family A",3.1 EM,3.1,382.0,275,20.203,12.763,15.661,0,250–400,1.227
+B_receptor_channel,P35367,Homo sapiens,1,7DFL,R,Histamine H1 receptor-Gq complex,"G-protein coupled receptors, family A",3.3 EM,3.3,487.0,275,20.016,12.911,15.295,0,250–400,1.185
+B_receptor_channel,A1CWT6,Aspergillus fischeri,0,6D7W,A,Mitochondrial calcium uniporter,Mitochondrial calcium uniporter,3.8 EM,3.8,416.0,275,37.063,13.413,34.551,0,250–400,2.576
+B_receptor_channel,P97438,Mus musculus,0,6W8C,A,"K2P2.1 (TREK-1):ML335 complex, 1 mM K+",Two pore Na+ channels,2.6,2.6,312.0,276,26.178,18.044,18.967,0,250–400,1.051
+B_receptor_channel,F1QAI2,Danio rerio,0,8DE8,B,Two pore domain K+ channel TREK1 (K2P2.1) in DDM/POPA mixed micelles,Two pore Na+ channels,2.82 EM,2.82,321.0,276,25.436,16.853,19.052,0,250–400,1.13
+B_receptor_channel,P31391,Homo sapiens,1,7XMS,R,Somatostatin receptor 4 with Gi1 and ligand,"G-protein coupled receptors, family A",2.9 EM,2.9,375.0,276,20.518,12.622,16.176,0,250–400,1.282
+B_receptor_channel,P32239,Homo sapiens,1,7XOW,R,Gastrin/cholecystokinin type B receptor,"G-protein coupled receptors, family A",3.1 EM,3.1,447.0,276,20.005,12.684,15.469,0,250–400,1.22
+B_receptor_channel,O02662,Canis lupus familiaris,0,7DH5,R,Beta-3 adrenergic receptor with miniGs,"G-protein coupled receptors, family A",3.16 EM,3.16,395.0,276,20.479,12.663,16.094,0,250–400,1.271
+B_receptor_channel,Q8NE86,Homo sapiens,1,6K7X,K,"MCU-EMRE complex, structure 2",Mitochondrial calcium uniporter,3.27 EM,3.27,276.0,276,36.597,18.882,31.35,0,250–400,1.66
+B_receptor_channel,P28222,Homo sapiens,0,5V54,A,"5-hydroxytryptamine receptor 1B, structure 3, intermediate state","G-protein coupled receptors, family A",3.9,3.9,395.0,276,19.971,13.271,14.924,0,250–400,1.125
+B_receptor_channel,Q6QNK2,Homo sapiens,1,7WU2,R,Adhesion G-protein coupled receptor D1 with miniGs,GPCR Secretin (B) family,2.8 EM,2.8,348.0,277,19.761,13.308,14.608,0,250–400,1.098
+B_receptor_channel,P0DXP0,human gammaherpesvirus 4,0,7JHJ,R,Viral GPCR BILF1 with human Gi,"G-protein coupled receptors, family A",3.2 EM,3.2,321.0,277,20.299,13.447,15.207,0,250–400,1.131
+B_receptor_channel,P08173,Homo sapiens,1,7V68,R,Muscarinic acetylcholine receptor M4-Gi complex with agonist,"G-protein coupled receptors, family A",3.4 EM,3.4,346.0,277,20.098,13.152,15.197,0,250–400,1.155
+B_receptor_channel,P30518,Homo sapiens,1,7DW9,R,Vasopressin receptor V2-Gs complex,"G-protein coupled receptors, family A",2.6 EM,2.6,645.0,278,20.438,12.779,15.951,0,250–400,1.248
+B_receptor_channel,Q8CJ12,Mus musculus,0,7WUQ,R,Adhesion G-protein coupled receptor G2,GPCR Secretin (B) family,2.9 EM,2.9,683.0,278,19.23,13.295,13.894,0,250–400,1.045
+B_receptor_channel,P08172,Homo sapiens,0,6OIK,R,Muscarinic acetylcholine receptor M2-G0 complex,"G-protein coupled receptors, family A",3.6 EM,3.6,353.0,278,20.268,13.128,15.441,0,250–400,1.176
+B_receptor_channel,P0C0S1,Escherichia coli K-12,0,6PWN,A,"Mechanosensitive channel MscS, closed",Small conductance mechanosensitive ion channels,3.1 EM,3.1,306.0,280,39.701,19.09,34.81,0,250–400,1.824
+B_receptor_channel,P29275,Homo sapiens,1,8HDP,R,"Adenosine A2b receptor, with adenosine","G-protein coupled receptors, family A",3.2 EM ,3.2,332.0,280,20.04,13.048,15.211,0,250–400,1.166
+B_receptor_channel,P34998,Homo sapiens,1,6PB0,R,"Corticotropin-releasing factor receptor 1, with G protein and peptide",GPCR Secretin (B) family,3.0 EM,3.0,375.0,281,21.553,14.335,16.094,0,250–400,1.123
+B_receptor_channel,O43603,Homo sapiens,1,7WQ4,R,"Galanin receptor 2, with Gq and galanin","G-protein coupled receptors, family A",2.6 EM,2.6,387.0,282,20.698,13.311,15.85,0,250–400,1.191
+B_receptor_channel,Q99788,Homo sapiens,1,7YKD,A,Chemerin receptor 1 with peptide of chemerin,"G-protein coupled receptors, family A",2.81 EM,2.81,373.0,282,20.206,12.461,15.907,0,250–400,1.277
+B_receptor_channel,Q9GZQ4,Homo sapiens,1,7XK8,R,"Neuromedin U receptor 2, with G protein and peptide agonist","G-protein coupled receptors, family A",3.3 EM ,3.3,393.0,282,21.196,12.478,17.134,0,250–400,1.373
+B_receptor_channel,Q99679,Homo sapiens,1,8HJ0,R,G-protein coupled receptor 21(m5)-G15 complex,"G-protein coupled receptors, family A",3.12 EM,3.12,336.0,283,20.958,13.615,15.933,0,250–400,1.17
+B_receptor_channel,Q9HC97,Homo sapiens,1,8H8J,C,"GPR35-G13 complex, lodoxamide-bound","G-protein coupled receptors, family A",3.2 EM ,3.2,308.0,283,20.292,12.3,16.139,0,250–400,1.312
+B_receptor_channel,Q8TDU9,Homo sapiens,1,7YK6,R,Relaxin-3 receptor 2-Gi complex with compound 4,"G-protein coupled receptors, family A",3.03 EM,3.03,374.0,284,20.695,13.254,15.893,0,250–400,1.199
+B_receptor_channel,Q8TDS4,Homo sapiens,1,7XK2,R,Niacin Receptor HCA2-Gi complex,"G-protein coupled receptors, family A",3.1 EM ,3.1,325.0,284,20.609,12.669,16.256,0,250–400,1.283
+B_receptor_channel,Q8IZF4,Homo sapiens,1,7EQ1,R,Adhesion G-protein coupled receptor G5-Gs-scFv16 complex,GPCR Secretin (B) family,3.3 EM,3.3,302.0,284,20.16,12.591,15.744,0,250–400,1.25
+B_receptor_channel,Q9Y2T5,Homo sapiens,1,6LI3,R,"GPR52, with Gs protein","G-protein coupled receptors, family A",3.32 EM,3.32,340.0,284,21.654,14.07,16.46,0,250–400,1.17
+B_receptor_channel,P20309,Homo sapiens,0,8EA0,A,Muscarinic acetylcholine receptor M3-miniGq complex with iperoxo,"G-protein coupled receptors, family A",2.56 EM,2.56,568.0,285,20.492,13.254,15.629,0,250–400,1.179
+B_receptor_channel,E9DVV4,Metarhizium acridum CQMa 102,0,6C5W,A,Mitochondrial calcium uniporter,Mitochondrial calcium uniporter,3.1,3.1,312.0,285,37.097,14.192,34.275,0,250–400,2.415
+B_receptor_channel,P41146,Homo sapiens,1,8F7X,R,"Nociceptin receptor, Gi-bound, with nociceptin","G-protein coupled receptors, family A",3.28 EM,3.28,369.0,285,20.896,13.335,16.089,0,250–400,1.207
+B_receptor_channel,P48039,Homo sapiens,1,7VGZ,B,"Melatonin receptor type 1A, with Gi and remalteon","G-protein coupled receptors, family A",3.3 EM,3.3,350.0,285,20.049,13.33,14.976,0,250–400,1.123
+B_receptor_channel,P35408,Homo sapiens,0,7D7M,A,"Prostaglandin E2 receptor EP4 subtype, with Gs protein","G-protein coupled receptors, family A",3.30 EM,3.3,333.0,285,20.583,14.142,14.956,0,250–400,1.057
+B_receptor_channel,Q16581,Homo sapiens,1,8IA8,A,"C3a anaphylatoxin chemotactic receptor-Gi-scFv16, with E7 peptide","G-protein coupled receptors, family A",2.86 EM,2.86,482.0,286,20.962,13.137,16.335,0,250–400,1.243
+B_receptor_channel,P21728,Homo sapiens,1,7JVQ,R,Dopamine receptor 1 with Gs protein and apomorphine,"G-protein coupled receptors, family A",3 EM,3.0,502.0,286,21.862,14.12,16.691,0,250–400,1.182
+B_receptor_channel,Q5T601,Homo sapiens,1,7WU5,R,Adhesion G-protein coupled receptor F1 H565A/T567A with miniGi,GPCR Secretin (B) family,3 EM,3.0,674.0,286,20.402,13.276,15.492,0,250–400,1.167
+B_receptor_channel,P41145,Homo sapiens,1,8F7W,R,"Opioid kappa receptor, Gi-bound, with dynorphin","G-protein coupled receptors, family A",3.19 EM,3.19,378.0,286,20.892,12.982,16.368,0,250–400,1.261
+B_receptor_channel,P41595,Homo sapiens,1,7SRS,R,"5-Hydroxytryptamine receptor 2B, with beta-arrestin-1","G-protein coupled receptors, family A",3.3 EM,3.3,333.0,286,22.587,13.207,18.324,0,250–400,1.387
+B_receptor_channel,O77389,Plasmodium falciparum 3D7,0,7E26,D,Formate-nitrite transporter PfFNT in apo state,Formate/Nitrite transporter (FNT) family,2.29 EM,2.29,309.0,287,20.368,13.651,15.117,0,250–400,1.107
+B_receptor_channel,P35372,Homo sapiens,1,8EFO,R,"Opioid mu receptor, with Gi, PZM21-bound","G-protein coupled receptors, family A",2.8 EM,2.8,367.0,287,20.598,13.279,15.746,0,250–400,1.186
+B_receptor_channel,Q15722,Homo sapiens,1,7VKT,A,Leukotriene B4 Receptor 1 with Gi and LTB4,"G-protein coupled receptors, family A",2.9 EM,2.9,352.0,287,20.95,12.786,16.596,0,250–400,1.298
+B_receptor_channel,Q13304,Mus musculus,0,7Y89,A,Uracil nucleotide/cysteinyl leukotriene receptor-Gi complex,"G-protein coupled receptors, family A",3.02 EM,3.02,293.0,287,20.627,12.945,16.06,0,250–400,1.241
+B_receptor_channel,Q8VZL4,Arabidopsis thaliana,0,6LYP,A,"Mechanosensitive ion channel MSL1, closed",Small conductance mechanosensitive ion channels,3.3 EM,3.3,497.0,287,35.539,18.529,30.326,0,250–400,1.637
+B_receptor_channel,Q9H813,Homo sapiens,1,7JNC,A,"Proton-activated chloride channel, pH=4",Proton-activated chloride channel,3.73 EM,3.73,350.0,287,31.034,12.977,28.191,0,250–400,2.172
+B_receptor_channel,P34981,Homo sapiens,1,7XW9,R,TRHR-Gq complex,"G-protein coupled receptors, family A",2.7 EM ,2.7,398.0,288,20.873,12.345,16.831,0,250–400,1.363
+B_receptor_channel,P49238,Homo sapiens,1,7XBW,R,Chemokine receptor CX3CR1 with Gi1,"G-protein coupled receptors, family A",2.8 EM,2.8,361.0,288,20.487,13.231,15.641,0,250–400,1.182
+B_receptor_channel,P30874,Homo sapiens,1,7WIC,R,"Somatostatin receptor 2, with Gi and SS-14","G-protein coupled receptors, family A",2.8 EM,2.8,369.0,288,21.041,14.258,15.474,0,250–400,1.085
+B_receptor_channel,P47211,Homo sapiens,1,7WQ3,R,"Galanin receptor 1, with Gi and galanin","G-protein coupled receptors, family A",2.7 EM,2.7,349.0,289,21.063,12.794,16.731,0,250–400,1.308
+B_receptor_channel,Q9BXC1,Homo sapiens,1,7XV3,R,GPR174 with Gs and LPS,"G-protein coupled receptors, family A",2.76 EM,2.76,333.0,289,21.605,12.812,17.396,0,250–400,1.358
+B_receptor_channel,P25103,Homo sapiens,1,7RMG,R,Substance-P receptor-miniGs complex with substance P,"G-protein coupled receptors, family A",3 EM,3.0,418.0,289,20.684,13.198,15.926,0,250–400,1.207
+B_receptor_channel,Q99500,Homo sapiens,1,7EW3,R,Sphingosine 1-phosphate receptor 3 with Gi protein,"G-protein coupled receptors, family A",3.1 EM,3.1,412.0,290,21.579,12.452,17.624,0,250–400,1.415
+B_receptor_channel,P21554,Homo sapiens,1,7WV9,R,receptor with G proteins,"G-protein coupled receptors, family A",3.36 EM,3.36,472.0,290,21.339,12.771,17.096,0,250–400,1.339
+B_receptor_channel,D9N164,Paramagnetospirillum magnetotacticum,0,2WLK,A,"Potassium channel Kirbac3.1, closed conformation",Inward rectifier potassium channels,2.8,2.8,301.0,291,29.518,15.887,24.879,0,250–400,1.566
+B_receptor_channel,Q5NUL3,Homo sapiens,1,8ID8,R,"GPR120-Gi complex, TUG891 bound","G-protein coupled receptors, family A",3 EM   ,3.0,361.0,291,22.43,13.048,18.245,0,250–400,1.398
+B_receptor_channel,A0A0L8FVQ9,Octopus bimaculoides,0,8EIS,A,Sensory receptor CRT1,Prokaryotic pentameric ligand-gated ion channels,2.62 EM,2.62,379.0,292,29.72,10.934,27.636,0,250–400,2.528
+B_receptor_channel,P21453,Homo sapiens,1,7TD3,R,"Sphingosine 1-phosphate receptor 1, Gi and S1P-bound","G-protein coupled receptors, family A",3 EM,3.0,392.0,292,21.286,12.062,17.539,0,250–400,1.454
+B_receptor_channel,O95838,Homo sapiens,1,7D68,R,Glucagon-like peptide-2 receptor-Gs protein complex,GPCR Secretin (B) family,3 EM,3.0,664.0,292,22.152,13.701,17.407,0,250–400,1.27
+B_receptor_channel,Q92633,Homo sapiens,1,7TD1,R,"Lysophosphatidic acid receptor 1-Gi, LPA-bound, state a","G-protein coupled receptors, family A",3.08 EM,3.08,350.0,293,21.147,12.378,17.147,0,250–400,1.385
+B_receptor_channel,P51677,Homo sapiens,1,7X9Y,R,"C-C chemokine receptor type 3, Gi complex","G-protein coupled receptors, family A",3.1 EM,3.1,355.0,293,21.122,13.388,16.337,0,250–400,1.22
+B_receptor_channel,P11229,Homo sapiens,0,6OIJ,R,Muscarinic acetylcholine receptor M1-G11 complex,"G-protein coupled receptors, family A",3.3 EM,3.3,363.0,293,21.397,13.758,16.388,0,250–400,1.191
+B_receptor_channel,P21730,Homo sapiens,1,5O9H,A,"C5a anaphylatoxin chemotactic receptor 1, inactive state, dimer","G-protein coupled receptors, family A",2.7,2.7,317.0,294,20.53,12.182,16.525,0,250–400,1.357
+B_receptor_channel,P42866,Mus musculus,0,5C1M,A,"Opioid mu receptor, active state","G-protein coupled receptors, family A",2.1,2.1,296.0,295,20.902,12.959,16.401,0,250–400,1.266
+B_receptor_channel,P41597,Homo sapiens,1,7XA3,R,"C-C chemokine receptor type 2, Gi complex","G-protein coupled receptors, family A",2.9 EM,2.9,360.0,295,21.161,12.915,16.762,0,250–400,1.298
+B_receptor_channel,P46663,Homo sapiens,1,7EIB,A,"Bradykinin receptor type 1, with Gq protein and des-Arg10-kallidin","G-protein coupled receptors, family A",3 EM,3.0,613.0,295,20.917,12.752,16.581,0,250–400,1.3
+B_receptor_channel,P69332,Human betaherpesvirus 5,0,7RKF,R,Viral GPCR US28-CX3CL1-G11iN18-scFv16 in TL-state,"G-protein coupled receptors, family A",4 EM,4.0,362.0,296,22.46,13.73,17.774,0,250–400,1.295
+B_receptor_channel,P25024,Homo sapiens,1,2LNL,A,C-X-C chemokine receptor type 1,"G-protein coupled receptors, family A",N/A,99.0,309.0,296,20.639,14.34,14.845,0,250–400,1.035
+B_receptor_channel,P07700,Meleagris gallopavo,0,2YCW,A,"Beta-1 adrenergic receptor, inactive state, with antagonist","G-protein coupled receptors, family A",3.0,3.0,313.0,297,21.142,12.615,16.965,0,250–400,1.345
+B_receptor_channel,P34972,Homo sapiens,1,6PT0,R,"Cannabinoid receptor 2, with Gi ptotein and agonist","G-protein coupled receptors, family A",3.2 EM,3.2,369.0,298,21.609,13.544,16.838,0,250–400,1.243
+B_receptor_channel,P21462,Homo sapiens,1,7WVU,R,"N-formyl peptide receptor 1, with fMLF and Gi1","G-protein coupled receptors, family A",3.3 EM,3.3,371.0,298,20.875,12.932,16.387,0,250–400,1.267
+B_receptor_channel,P25090,Homo sapiens,1,7T6U,R,"N-formyl peptide receptor 2, Gi complex with CGEN-855A","G-protein coupled receptors, family A",2.9 EM,2.9,390.0,299,21.014,13.12,16.415,0,250–400,1.251
+B_receptor_channel,P18508,Rattus norvegicus,0,6DW0,D,"GABA-A receptor, alpha1-beta1-gamma2S",Ligand-gated ion channel of neurotransmitter receptors,3.8 EM,3.8,490.0,299,30.195,10.728,28.224,0,250–400,2.631
+B_receptor_channel,Q6IYF9,Rattus norvegicus,0,6IBB,A,"Succinate receptor 1, structure 1","G-protein coupled receptors, family A",2.12,2.12,342.0,301,22.332,16.988,14.496,0,250–400,0.853
+B_receptor_channel,Q9Y5N1,Homo sapiens,1,7F61,A,"Histamine receptor H3R, with antagonist","G-protein coupled receptors, family A",2.6,2.6,407.0,301,21.582,13.044,17.193,0,250–400,1.318
+B_receptor_channel,Q9H255,Homo sapiens,1,8F76,A,"Olfactory receptor OR51E2-miniGs complex, with propionate","G-protein coupled receptors, family A",3.1 EM ,3.1,330.0,302,20.342,12.832,15.785,1,250–400,1.23
+B_receptor_channel,P32246,Homo sapiens,1,7VL9,R,"C-C chemokine receptor type 1, Gi complex, CCL15-bound","G-protein coupled receptors, family A",2.6 EM,2.6,365.0,302,21.604,12.62,17.535,0,250–400,1.389
+B_receptor_channel,P50391,Homo sapiens,1,7X9C,R,"Neuropeptide Y receptor type 4, with PP and Gi","G-protein coupled receptors, family A",3 EM,3.0,380.0,302,21.669,12.895,17.414,0,250–400,1.351
+B_receptor_channel,Q9GV45,Homo sapiens,0,8HCQ,R,"Endothelin-1 receptor-Gq complex, endothelin-1-bound","G-protein coupled receptors, family A",3.01 EM,3.01,622.0,303,21.891,13.283,17.401,0,250–400,1.31
+B_receptor_channel,P32238,Homo sapiens,1,7EZM,D,Cholecystokinin A receptor-Gq complex,"G-protein coupled receptors, family A",2.9 EM,2.9,428.0,304,21.731,13.632,16.923,0,250–400,1.241
+B_receptor_channel,P30411,Homo sapiens,1,7F6I,A,"Bradykinin receptor type 2, with Gq protein and kallidin","G-protein coupled receptors, family A",2.8 EM,2.8,770.0,305,21.549,12.888,17.271,0,250–400,1.34
+B_receptor_channel,P50052,Homo sapiens,1,6JOD,A,"Angiotensin II receptor, active state, structure 4","G-protein coupled receptors, family A",3.2,3.2,312.0,306,21.475,13.479,16.719,0,250–400,1.24
+B_receptor_channel,P25106,Homo sapiens,1,7SK8,A,"Atypical chemokine receptor 3 with CXCL12, agonist CCX662 and Fabs","G-protein coupled receptors, family A",3.3 EM,3.3,393.0,306,22.383,13.2,18.077,0,250–400,1.369
+B_receptor_channel,Q9BPX6,Homo sapiens,1,6K7Y,I,"MCU-EMRE-MICU complex, structure 1",Mitochondrial calcium uniporter,3.6 EM,3.6,476.0,306,21.459,17.737,12.08,0,250–400,0.681
+B_receptor_channel,P25025,Homo sapiens,1,6LFM,R,"C-X-C chemokine receptor type 2, with Gi and interleukin-8","G-protein coupled receptors, family A",3.5 EM,3.5,360.0,307,22.657,12.981,18.57,0,250–400,1.431
+B_receptor_channel,P0C7B7,Dickeya chrysanthemi,0,5SXV,A,"   Proton-gated ion channel, inactive conformation 6",Prokaryotic pentameric ligand-gated ion channels,3.4,3.4,322.0,308,30.522,11.216,28.387,0,250–400,2.531
+B_receptor_channel,O43614,Homo sapiens,1,7XRR,A,"Orexin receptor type 2, with lemborexant","G-protein coupled receptors, family A",2.89   ,2.89,341.0,309,21.454,12.633,17.34,0,250–400,1.373
+B_receptor_channel,Q5QD04,Mus musculus,0,8IW9,R,"Trace amine-associated receptor 9-Gs complex, CAD-bound","G-protein coupled receptors, family A",3.08 EM,3.08,348.0,309,21.993,14.015,16.948,0,250–400,1.209
+B_receptor_channel,P25929,Homo sapiens,1,7X9A,R,"Neuropeptide Y receptor type 1, with NPY and Gi","G-protein coupled receptors, family A",3.2 EM,3.2,378.0,309,22.352,13.337,17.936,0,250–400,1.345
+B_receptor_channel,P20789,Rattus norvegicus,0,7L0P,C,"NTSR1-NTS-Gi, canonical state, without AHD","G-protein coupled receptors, family A",4.1 EM,4.1,336.0,309,21.788,13.237,17.306,0,250–400,1.307
+B_receptor_channel,B1B1U5,Hasarius adansoni,0,6I9K,A, Kumopsin1 (spider rhodopsin),"G-protein coupled receptors, family A",2.14,2.14,380.0,310,21.796,11.993,18.2,0,250–400,1.518
+B_receptor_channel,G2FID1,endosymbiont of Tevnia jerichonana (vent Tica),0,6FL9,A,"Cys-loop ligand-gated ion channel (sTeLIC), structure 1",Prokaryotic pentameric ligand-gated ion channels,2.3,2.3,320.0,310,30.634,10.059,28.935,0,250–400,2.877
+B_receptor_channel,Q7NDN8,Gloeobacter violaceus PCC 7421,0,4HFI,A,"Proton-gated ion channel, open state",Prokaryotic pentameric ligand-gated ion channels,2.4,2.4,317.0,311,30.581,10.496,28.723,0,250–400,2.736
+B_receptor_channel,E0SJQ4,Dickeya dadantii 3937,0,7L6Q,A,"Proton-gated ion channel, inactive",Prokaryotic pentameric ligand-gated ion channels,2.5 EM,2.5,322.0,311,30.296,11.414,28.064,0,250–400,2.459
+B_receptor_channel,P51681,Homo sapiens,1,6MEO,B,"C-C chemokine receptor type 5, with gp160 and CD4","G-protein coupled receptors, family A",3.9 EM,3.9,313.0,311,23.301,13.819,18.76,0,250–400,1.358
+B_receptor_channel,P07550,Homo sapiens,1,6KR8,A,"Beta-2 adrenergic receptor, NMR model","G-protein coupled receptors, family A",NMR,99.0,336.0,312,22.605,13.928,17.804,0,250–400,1.278
+B_receptor_channel,O43613,Homo sapiens,1,6TP3,A,"Orexin receptor type 1, inactive state, structure 4","G-protein coupled receptors, family A",3.04,3.04,368.0,314,21.883,12.879,17.692,0,250–400,1.374
+B_receptor_channel,P29274,Homo sapiens,1,2YDV,A,"Adenosine receptor A2a, engineered, intermediate state","G-protein coupled receptors, family A",2.6,2.6,325.0,315,23.098,15.374,17.239,0,250–400,1.121
+B_receptor_channel,Q58439,Methanocaldococcus jannaschii DSM 2661,0,4EV6,A,Magnesium transport protein CorA,CorA metal ion transporters (MIT),3.2,3.2,339.0,315,35.742,18.345,30.675,0,250–400,1.672
+B_receptor_channel,O27564,Methanothermobacter thermautotrophicus,0,6U68,A,"Calcium-gated potassium channel MthK, open-inactivated state 1",K+ channel MthK,4.5 EM,4.5,336.0,319,32.214,27.148,17.343,0,250–400,0.639
+B_receptor_channel,A0A8V1A1T0,Gallus gallus,0,5XW6,C,P2X purinoceptor,ATP-gated cation channel,3.1,3.1,327.0,320,31.027,18.377,24.999,0,250–400,1.36
+B_receptor_channel,G1M6C4,Ailuropoda melanoleuca,0,5U1X,A,"P2X purinoceptor, structure 1",ATP-gated cation channel,3.2,3.2,342.0,321,29.157,17.102,23.614,0,250–400,1.381
+B_receptor_channel,P30989,Homo sapiens,1,6PWC,R,"Neurotensin receptor type 1, with arrestin, structure 1","G-protein coupled receptors, family A",4.9 EM,4.9,370.0,323,24.473,18.037,16.54,0,250–400,0.917
+B_receptor_channel,Q13324,Homo sapiens,0,7TRY,P,"Corticotropin-releasing factor 2 receptor, with G11 protein",GPCR Secretin (B) family,3.7 EM,3.7,560.0,325,28.787,14.156,25.066,0,250–400,1.771
+B_receptor_channel,P63252,Homo sapiens,1,7ZDZ,A,Inward-rectifier potassium channel Kir2.1,ATP-sensitive K+ channel,4.3 EM,4.3,427.0,325,34.636,16.268,30.578,0,250–400,1.88
+B_receptor_channel,Q9ZIH2,Pseudomonas aeruginosa PAO1,0,7NH9,A,CmaX protein,CorA metal ion transporters (MIT),3.03 EM,3.03,366.0,327,35.921,20.625,29.41,0,250–400,1.426
+B_receptor_channel,Q61743,Mus musculus,0,6JB1,A,"ATP-sensitive K+ channel SUR1/Kir6.2, structure 5",ATP-sensitive K+ channel,3.3 EM,3.3,390.0,327,32.069,16.12,27.723,0,250–400,1.72
+B_receptor_channel,P64423,Escherichia coli K-12,0,5N9Y,A,Zinc transport protein ZntB,CorA metal ion transporters (MIT),4.2 EM,4.2,327.0,327,35.153,20.216,28.759,0,250–400,1.423
+B_receptor_channel,P48542,Mus musculus,0,3SYA,A,"GIRK2 channel, structure 1",Inward rectifier potassium channels,2.98,2.98,340.0,328,32.077,16.89,27.27,0,250–400,1.615
+B_receptor_channel,P18507,Homo sapiens,1,7QNB,A,"GABA-A receptor, beta3gamma2 GABA(A)R with GABA and nanobody Nb25",Ligand-gated ion channel of neurotransmitter receptors,3.1 EM,3.1,487.0,328,31.076,10.838,29.125,0,250–400,2.687
+B_receptor_channel,Q14654,Homo sapiens,1,6C3O,A,"ATP-sensitive K+ channel SUR1/Kir6.2, quatrefoil form",ATP-sensitive K+ channel,3.9 EM,3.9,406.0,328,32.6,15.558,28.648,0,250–400,1.841
+B_receptor_channel,F8W463,Danio rerio,0,3H9V,A,"ATP-gated P2X4 ion channel, closed state",ATP-gated cation channel,3.1,3.1,356.0,329,30.466,17.178,25.161,0,250–400,1.465
+B_receptor_channel,P0AEB5,Escherichia coli K-12,0,6URT,G,"Low conductance mechanosensitive channel YnaI, open",Small conductance mechanosensitive ion channels,3.27 EM,3.27,343.0,331,39.094,19.806,33.705,0,250–400,1.702
+B_receptor_channel,F1NHE9,Gallus gallus,0,3SPG,A,"Potassium channel Kir 2.2, complex with inositol lipid ",Inward rectifier potassium channels,2.61,2.61,343.0,332,32.389,16.96,27.593,0,250–400,1.627
+B_receptor_channel,P47870,Homo sapiens,0,6X3T,A,"GABA-A receptor, alpha1-beta2-gamma2, structure 4",Ligand-gated ion channel of neurotransmitter receptors,2.55 EM,2.55,364.0,334,31.8,10.795,29.912,0,250–400,2.771
+B_receptor_channel,P63142,Rattus norvegicus,0,7SIZ,B,Potassium channel Kv1.2-Kv2.1 chimera,KvAP voltage-regulated K channels,3.1,3.1,514.0,334,32.241,17.975,26.766,0,250–400,1.489
+B_receptor_channel,P48169,Homo sapiens,1,7QN5,A,"GABA-A receptor, alpha4-beta3-delta with nanobody",Ligand-gated ion channel of neurotransmitter receptors,2.5 EM,2.5,554.0,335,31.48,10.828,29.559,0,250–400,2.73
+B_receptor_channel,A0A4X1TUM3,Sus scrofa,0,7MLY,D,"Glycine receptor, alpha1/beta",Ligand-gated ion channel of neurotransmitter receptors,2.7 EM,2.7,447.0,335,31.574,10.617,29.736,0,250–400,2.801
+B_receptor_channel,P56696,Homo sapiens,0,7VNQ,A,KCNQ4-ML213 complex,KCNQ voltage-gated potassium channel,2.96 EM,2.96,1049.0,339,33.085,21.18,25.417,0,250–400,1.2
+B_receptor_channel,O75311,Homo sapiens,1,5CFB,A,"Glycine receptor, alpha-3, structure 1",Ligand-gated ion channel of neurotransmitter receptors,3.04,3.04,362.0,339,32.834,10.673,31.051,0,250–400,2.909
+B_receptor_channel,P23416,Homo sapiens,0,7KUY,A,"Glycine receptor, alpha-2-beta, strychnine bound",Ligand-gated ion channel of neurotransmitter receptors,3.6 EM,3.6,364.0,339,31.976,11.499,29.837,0,250–400,2.595
+B_receptor_channel,P28472,Homo sapiens,1,4COF,A,"GABA-A receptor, beta3 homopentamer",Ligand-gated ion channel of neurotransmitter receptors,2.97,2.97,355.0,340,32.303,10.907,30.405,0,250–400,2.788
+B_receptor_channel,A0A498JCY7,Malus domestica,0,7EK2,A,Voltage-dependent chloride channel VCCN1,Bestrophin anion channel,2.7 EM,2.7,372.0,341,28.627,13.481,25.254,0,250–400,1.873
+B_receptor_channel,G5EBR3,Caenorhabditis elegans,0,4TNW,A,"Glutamate-gated chloride channel GluCl, POPC-bound conformation",Ligand-gated ion channel of neurotransmitter receptors,3.2,3.2,347.0,342,32.569,11.259,30.561,0,250–400,2.714
+B_receptor_channel,G3MM57,Amblyomma maculatum,0,5F1C,A,Invertebrate P2X receptor,ATP-gated cation channel,2.9,2.9,358.0,343,30.132,18.095,24.093,0,250–400,1.332
+B_receptor_channel,P70057,Xenopus laevis,0,5VMS,A,"KCNQ1 channel, with calmodulin",KCNQ voltage-gated potassium channel,3.7 EM,3.7,548.0,343,32.217,19.652,25.529,0,250–400,1.299
+B_receptor_channel,P14867,Homo sapiens,1,7QNE,A,"GABA-A receptor, alpha1-beta3-gamma2 with Ro15-4513",Ligand-gated ion channel of neurotransmitter receptors,2.7 EM,2.7,456.0,345,32.999,10.888,31.151,0,250–400,2.861
+B_receptor_channel,Q16602,Homo sapiens,1,6E3Y,R,"Calcitonin type 1 receptor, with Gs protein and RAMP1",GPCR Secretin (B) family,3.3 EM,3.3,490.0,346,26.392,13.872,22.452,0,250–400,1.619
+B_receptor_channel,P08219,Bos taurus,0,6HUJ,A,"GABA-A receptor, alpha1-beta3-gamma2, structure 1",Ligand-gated ion channel of neurotransmitter receptors,3.04 EM,3.04,464.0,347,33.158,11.047,31.264,0,250–400,2.83
+B_receptor_channel,P02699,Bos taurus,0,1U19,A,"Rhodopsin, inactive, structure 3","G-protein coupled receptors, family A",2.2,2.2,349.0,348,22.164,12.674,18.183,0,250–400,1.435
+B_receptor_channel,Q9WZ31,Thermotoga maritima,0,3JCF,A,"CorA magnesium transporter, complete loops, structure 2",CorA metal ion transporters (MIT),3.8 EM,3.8,351.0,349,34.656,19.851,28.407,0,250–400,1.431
+B_receptor_channel,O94759,Homo sapiens,1,7VQ2,A,"TRPM2 channel, apo",Transient receptor potential channels,3.68 EM,3.68,354.0,354,30.078,26.222,14.733,0,250–400,0.562
+B_receptor_channel,O43526,Homo sapiens,1,7CR7,A,"KCNQ2-CaM, with retigabine",KCNQ voltage-gated potassium channel,3.7 EM,3.7,656.0,354,34.135,20.912,26.979,0,250–400,1.29
+B_receptor_channel,Q98GN8,Mesorhizobium japonicum MAFF 303099,0,6I9D,A,"Bacterial cyclic nucleotide regulated ion channel, structure 4",Cyclic nucleotide-gated ion channel,4.0 EM,4.0,355.0,355,29.629,21.533,20.353,0,250–400,0.945
+B_receptor_channel,A9JTM7,Xenopus tropicalis,0,6O84,A,Otopetrin-3,Otopetrin,3.92 EM,3.92,690.0,356,22.418,16.553,15.12,0,250–400,0.913
+B_receptor_channel,P51787,Homo sapiens,1,8SIN,A,KCNQ1 with voltage sensor in down conformation,KCNQ voltage-gated potassium channel,6.8 EM ,6.8,557.0,356,32.932,20.305,25.927,0,250–400,1.277
+B_receptor_channel,P56373,Homo sapiens,1,5SVK,A,"P2X purinoceptor 3, open state",ATP-gated cation channel,2.77,2.77,363.0,357,35.306,16.999,30.944,0,250–400,1.82
+B_receptor_channel,P22001,Homo sapiens,1,7EJ1,B,Potassium channel Kv1.3,KvAP voltage-regulated K channels,3.2 EM,3.2,575.0,359,32.056,18.277,26.335,0,250–400,1.441
+B_receptor_channel,O15554,Homo sapiens,1,6CNN,A,"SK4 channel with calmodulin, structure 2",Calcium-activated SK potassium channel,3.5 EM,3.5,427.0,360,35.592,29.245,20.286,0,250–400,0.694
+B_receptor_channel,P41587,Homo sapiens,1,7VQX,R,"Vasoactive intestinal polypeptide receptor 2, with PACAP27 and Gs",GPCR Secretin (B) family,2.74 EM,2.74,573.0,361,28.194,13.04,24.997,0,250–400,1.917
+B_receptor_channel,P70673,Rattus norvegicus,0,7TYS,A,"ATP-sensitive K+ channel, ATP and repaglinide-bound with Kir6.2-CTD up",ATP-sensitive K+ channel,3.41 EM,3.41,390.0,361,34.347,22.219,26.192,0,250–400,1.179
+B_receptor_channel,P41586,Homo sapiens,1,8E3X,R,PAC1 receptor-PACAP27-Gs complex,GPCR Secretin (B) family,2.3 EM ,2.3,483.0,362,29.122,16.441,24.038,0,250–400,1.462
+B_receptor_channel,O93430,Danio rerio,0,6VM0,A,"Glycine receptor, alpha-1, Gly/IVM-conformation (state-1)",Ligand-gated ion channel of neurotransmitter receptors,3.14 EM,3.14,444.0,362,33.953,11.211,32.048,0,250–400,2.859
+B_receptor_channel,E1BF86,Bos taurus,0,8ECY,E,Bestrophin-2 and glutamine synthetase complex,Bestrophin anion channel,2 EM,2.0,410.0,366,30.232,16.278,25.475,0,250–400,1.565
+B_receptor_channel,A0A8V0ZZU7,Gallus gallus,0,4RDQ,A,"Bestrophin-1, structure 1",Bestrophin anion channel,2.85,2.85,409.0,366,30.24,16.193,25.539,0,250–400,1.577
+B_receptor_channel,Q63664,Rattus norvegicus,0,7MJP,A,KATP channel: Kir6.1 SUR2B propeller-like conformation 2,ATP-sensitive K+ channel,4.2 EM,4.2,424.0,366,36.98,21.817,29.858,0,250–400,1.369
+B_receptor_channel,Q9BSA9,Homo sapiens,1,7UNL,A,TMEM175 in open state,Potassium channel TMEM175,2.45 EM,2.45,504.0,367,23.438,18.031,14.975,1,250–400,0.831
+B_receptor_channel,P28223,Homo sapiens,0,7WC4,A,"5-hydroxytryptamine receptor 2A, with serotonin","G-protein coupled receptors, family A",3.2,3.2,376.0,370,28.298,14.047,24.565,0,250–400,1.749
+B_receptor_channel,P31356,Todarodes pacificus,0,2ZIY,A,"Squid rhodopsin, inactive, with 11-cis retinal","G-protein coupled receptors, family A",3.7,3.7,372.0,370,24.135,12.94,20.373,0,250–400,1.574
+B_receptor_channel,P43681,Homo sapiens,0,6CNJ,A,"Nicotinic acetylcholine receptor, alpha-4/beta-2, structure 2",Ligand-gated ion channel of neurotransmitter receptors,3.7 EM,3.7,386.0,370,35.996,11.954,33.953,0,250–400,2.84
+B_receptor_channel,P02711,Torpedo marmorata,0,2BG9,A,"Nicotinic acetylcholine receptor, closed state",Ligand-gated ion channel of neurotransmitter receptors,4.00,4.0,370.0,370,37.394,12.468,35.255,0,250–400,2.828
+B_receptor_channel,P32249,Homo sapiens,0,7TUY,R,GPCR 183-EBI2 complex,"G-protein coupled receptors, family A",2.98 EM,2.98,477.0,371,30.588,16.814,25.552,0,250–400,1.52
+B_receptor_channel,P32241,Homo sapiens,1,8E3Y,R,Vasoactive intestinal polypeptide receptor VPAC1R-PACAP27-Gs complex,GPCR Secretin (B) family,2.3 EM ,2.3,462.0,372,30.035,13.45,26.855,0,250–400,1.997
+B_receptor_channel,P30988,Homo sapiens,1,7TYN,R,"Calcitonin Receptor, with Gs and calcitonin",GPCR Secretin (B) family,2.6 EM,2.6,501.0,373,27.681,16.772,22.022,0,250–400,1.313
+B_receptor_channel,Q74FS9,Geobacter sulfurreducens PCA,0,4GX0,A,"Multi-ligand gated K(+) channel, TrkA, mutant",Potassium transporter TrkH/TrkA complex,2.6,2.6,565.0,375,35.228,16.584,31.08,0,250–400,1.874
+B_receptor_channel,P08913,Homo sapiens,1,6KUX,A,"Alpha-2A adrenergic receptor, inactive state","G-protein coupled receptors, family A",2.7,2.7,395.0,375,27.866,18.71,20.65,0,250–400,1.104
+B_receptor_channel,Q8NFU1,Homo sapiens,1,8D1E,D,"Bestrophin-2, 1uM Ca2+ (Ca2+-bound) closed state",Bestrophin anion channel,1.78 EM,1.78,406.0,376,31.181,18.401,25.172,0,250–400,1.368
+B_receptor_channel,O76090,Homo sapiens,1,8D1I,D,"Bestrophin-1, 1uM Ca2+ (Ca2+-bound) closed state",Bestrophin anion channel,1.82 EM,1.82,585.0,376,31.323,18.551,25.239,0,250–400,1.36
+B_receptor_channel,P49190,Homo sapiens,1,7F16,R,Parathyroid hormone receptor type 2 with Gs protein,GPCR Secretin (B) family,2.8 EM,2.8,434.0,376,30.662,14.565,26.982,0,250–400,1.853
+B_receptor_channel,P47872,Homo sapiens,1,6WZG,R,"Secretin receptor-Gs complex, structure 2",GPCR Secretin (B) family,2.3 EM,2.3,453.0,379,30.908,14.165,27.471,0,250–400,1.939
+B_receptor_channel,Q03431,Homo sapiens,1,6NBH,R,"Parathyroid hormone 1 receptor complex, structure 3",GPCR Secretin (B) family,3.5 EM,3.5,478.0,379,31.4,14.852,27.665,0,250–400,1.863
+B_receptor_channel,P48546,Homo sapiens,0,7FIN,R,Insulinotropic polypeptide receptor GIPR/GLP-1R/GCGR-Gs complex,GPCR Secretin (B) family,3.1 EM,3.1,573.0,380,29.651,13.765,26.262,0,250–400,1.908
+B_receptor_channel,A0A7U3W892,Dionaea muscipula,0,7N5F,A,"Mechanosensitive channel Flycatcher-1, 'Down' conformation",Small conductance mechanosensitive ion channels,2.7 EM,2.7,762.0,386,34.855,20.69,28.05,0,250–400,1.356
+B_receptor_channel,Q8K595,Mus musculus,0,7DYS,A,full length mouse TRPML2,Polycystin cation channel,3.18 EM,3.18,518.0,387,29.52,18.408,23.077,0,250–400,1.254
+B_receptor_channel,P32297,Homo sapiens,0,6PV7,A,"Nicotinic acetylcholine receptor, alpha-3/beta-4",Ligand-gated ion channel of neurotransmitter receptors,3.34 EM,3.34,525.0,387,39.021,11.901,37.162,0,250–400,3.123
+B_receptor_channel,G1SGD4,Oryctolagus cuniculus,0,5VAI,R,Glucagon-like peptide 1 receptor with Gs-protein,GPCR Secretin (B) family,4.1 EM,4.1,461.0,387,30.489,14.918,26.59,0,250–400,1.782
+B_receptor_channel,A0ABF7PI38,Leptospira licerasiae serovar Varillal str. VAR 010,0,5V4S,A,Cyclic nucleotide-gated ion channel,Cyclic nucleotide-gated ion channel,4.2 EM,4.2,465.0,387,35.799,22.997,27.436,0,250–400,1.193
+B_receptor_channel,Q6P5F7,Mus musculus,0,7RTW,A,"Tweety homolog 3, cis-dimer",Anion channel Tweety,3.23 EM,3.23,528.0,388,33.261,14.197,30.078,0,250–400,2.119
+B_receptor_channel,B0FAQ4,Apocrypta bakeri,0,6C70,A,Odorant receptor,Odorant receptor channel,3.5 EM,3.5,478.0,388,25.016,13.851,20.831,0,250–400,1.504
+B_receptor_channel,P63141,Rattus norvegicus,0,5WIE,B,"Potassium channel Kv1.2 - Kv2.1. chimera, inactivated state",KvAP voltage-regulated K channels,3.3,3.3,532.0,390,33.07,17.785,27.88,0,250–400,1.568
+B_receptor_channel,Q9C0H2,Homo sapiens,1,7P5C,A,"Tweety homolog 3, in Ca2+N",Anion channel Tweety,3.2 EM,3.2,530.0,392,32.528,13.275,29.696,0,250–400,2.237
+B_receptor_channel,P43220,Homo sapiens,1,7LCI,R,Glucagon-like peptide 1 receptor:Gs complex,GPCR Secretin (B) family,2.9 EM,2.9,491.0,393,28.941,14.285,25.17,0,250–400,1.762
+B_receptor_channel,P02710,Tetronarce californica,0,6UWZ,A,"Nicotinic acetylcholine receptor, with alpha-bungarotoxin",Ligand-gated ion channel of neurotransmitter receptors,2.69 EM,2.69,437.0,395,38.635,12.126,36.683,0,250–400,3.025
+B_receptor_channel,P36544,Homo sapiens,1,7EKP,A,"Acetylcholine receptor, alpha-7, bound to EVP-6124",Ligand-gated ion channel of neurotransmitter receptors,2.85 EM,2.85,502.0,396,38.644,11.835,36.787,0,250–400,3.108
+B_receptor_channel,Q92847,Homo sapiens,0,7F83,A,Ghrelin receptor with inverse agonist,"G-protein coupled receptors, family A",2.94,2.94,416.0,396,26.525,13.773,22.669,0,250–400,1.646
+B_receptor_channel,P48547,Homo sapiens,1,7PHH,A,"Potassium channel Kv3.1, apo",KvAP voltage-regulated K channels,3.2 EM,3.2,518.0,396,33.634,19.865,27.141,0,250–400,1.366
+B_receptor_channel,Q3TH73,Mus musculus,0,7RTT,A,"Tweety homolog 2, cis-dimer",Anion channel Tweety,3.5 EM ,3.5,540.0,396,33.405,12.895,30.816,0,250–400,2.39
+B_receptor_channel,P41143,Homo sapiens,1,6PT2,A,"Opioid delta receptor, active state","G-protein coupled receptors, family A",2.8,2.8,454.0,397,29.728,16.198,24.928,0,250–400,1.539
+B_receptor_channel,Q9BSA4,Homo sapiens,1,7P54,A,Tweety homolog 2,Anion channel Tweety,3.3 EM,3.3,541.0,397,32.919,13.471,30.037,0,250–400,2.23
+B_receptor_channel,P47871,Homo sapiens,1,6WPW,R,"Glucagon receptor, with Gs protein, structure 3",GPCR Secretin (B) family,3.1 EM,3.1,496.0,398,30.483,14.358,26.89,0,250–400,1.873
+B_receptor_channel,Q9H313,Homo sapiens,1,7P5J,A,Tweety homolog 1,Anion channel Tweety,4 EM,4.0,458.0,399,33.29,14.565,29.935,0,250–400,2.055
+B_receptor_channel,P23979,Mus musculus,0,6BE1,A,"5-hydroxytryptamine receptor 3A, structure 2",Ligand-gated ion channel of neurotransmitter receptors,4.31 EM,4.31,457.0,399,40.262,12.626,38.231,0,250–400,3.028
+B_receptor_channel,G0GA88,Winmispira thermophila,0,7RSH,A,"SthK channel, Y26F, closed State",Cyclic nucleotide-gated ion channel,3 EM   ,3.0,456.0,401,36.314,21.94,28.937,0,400–550,1.319
+B_receptor_channel,P69333,Human betaherpesvirus 5,0,5WB1,A,"Envelope protein US28, active state","G-protein coupled receptors, family A",3.51,3.51,458.0,420,26.843,13.342,23.292,0,400–550,1.746
+B_receptor_channel,Q9P0L9,Homo sapiens,1,6DU8,A,Polycystin 2-l1 channel,Polycystin cation channel,3.11 EM,3.11,805.0,421,26.702,19.36,18.391,0,400–550,0.95
+B_receptor_channel,P78348,Homo sapiens,1,6L6I,A,"Acid-sensing ion channel 1a, structure 2",Acid-sensing ion channels,3.24,3.24,454.0,428,33.487,15.451,29.709,0,400–550,1.923
+B_receptor_channel,O32081,Bacillus subtilis,0,5BUT,I,"TrkH/TrkA potassium transport complex, structure 2",Potassium transporter TrkH/TrkA complex,5.97,5.97,445.0,431,21.534,16.58,13.741,0,400–550,0.829
+B_receptor_channel,Q16515,Homo sapiens,1,6L6P,A,Acid-sensing ion channel 2a,Acid-sensing ion channels,3.08,3.08,463.0,434,34.381,17.162,29.791,0,400–550,1.736
+B_receptor_channel,O87953,Vibrio alginolyticus,0,7ZP9,I,KtrAB complex,Potassium transporter TrkH/TrkA complex,2.82 EM,2.82,455.0,436,21.873,16.171,14.727,0,400–550,0.911
+B_receptor_channel,P49146,Enterobacteria phage RB59,0,7DDZ,A,Neuropeptide Y2 receptor with JNJ-31020028,"G-protein coupled receptors, family A",2.8,2.8,665.0,437,28.976,13.125,25.833,0,400–550,1.968
+B_receptor_channel,Q5SMG8,Thermus thermophilus HB8,0,2YVX,A,"Magnesium ion transporter-E (MgtE), structure 3",Magnesium ion transporter-E (MgtE),3.5,3.5,473.0,442,30.137,17.894,24.25,0,400–550,1.355
+B_receptor_channel,Q1XA76,Gallus gallus,0,6VTK,A,"Acid-sensitive ion channel 1, at low pH",Acid-sensing ion channels,2.82 EM,2.82,527.0,446,35.486,16.901,31.202,0,400–550,1.846
+B_receptor_channel,Q39128,Arabidopsis thaliana,0,6V1Y,A,"Potassium channel KAT1, structure 1",Plant inwardly rectifying potassium channel,3.8 EM,3.8,512.0,446,36.818,23.42,28.408,0,400–550,1.213
+B_receptor_channel,Q9UK17,Homo sapiens,1,7W6S,B,KChIP2-Kv4.3 complex,KvAP voltage-regulated K channels,2.8 EM,2.8,636.0,448,38.81,22.356,31.724,0,400–550,1.419
+B_receptor_channel,Q16281,Homo sapiens,1,7RHS,A,"CNGA3/CNGB3 channel, apo",Cyclic nucleotide-gated ion channel,2.93 EM,2.93,706.0,456,35.558,21.712,28.159,0,400–550,1.297
+B_receptor_channel,Q9NZV8,Octodon degus,0,7E84,A,Kv4.2-KChIP1 complex,KvAP voltage-regulated K channels,3.1 EM,3.1,492.0,460,37.885,22.135,30.746,0,400–550,1.389
+B_receptor_channel,P30559,Homo sapiens,1,6TPK,A,Oxytocin receptor,"G-protein coupled receptors, family A",3.2,3.2,502.0,460,31.617,20.72,23.882,0,400–550,1.153
+B_receptor_channel,Q28181,Bos taurus,0,8BX7,D,"CNGA1/CNGB1 CNG channel, with calmodulin",Cyclic nucleotide-gated ion channel,2.76 EM,2.76,1394.0,465,39.95,22.359,33.107,0,400–550,1.481
+B_receptor_channel,Q00194,Bos taurus,0,7O4H,A,CNGA1/CNGB1 CNG channel,Cyclic nucleotide-gated ion channel,3.4 EM,3.4,690.0,465,39.275,24.677,30.554,0,400–550,1.238
+B_receptor_channel,P24530,Homo sapiens,0,6LRY,A,"Endothelin B receptor, intermediate state, structure 2","G-protein coupled receptors, family A",3.0,3.0,504.0,468,29.986,19.079,23.133,0,400–550,1.213
+B_receptor_channel,Q99835,Homo sapiens,1,6XBK,R,"Smoothened homolog, with Gi protein, structure 3",Frizzled/Smoothened family,3.24 EM,3.24,652.0,468,32.681,14.928,29.072,0,400–550,1.948
+B_receptor_channel,Q99J21,Mus musculus,0,7SQ9,A,"TRPML1 (Mucolipin-1) channel, temsirolimus/PI(3,5)P2-bound",Polycystin cation channel,2.11 EM,2.11,580.0,469,31.644,19.854,24.641,0,400–550,1.241
+B_receptor_channel,Q38998,Arabidopsis thaliana,0,7WSW,A,AKT1 K+ channel,Plant inwardly rectifying potassium channel,3.4 EM,3.4,879.0,472,37.299,19.321,31.905,0,400–550,1.651
+B_receptor_channel,P92960,Arabidopsis thaliana,0,7XUF,A,AKT1-AtKC1 complex,Plant inwardly rectifying potassium channel,3.3 EM,3.3,662.0,476,37.703,20.347,31.742,0,400–550,1.56
+B_receptor_channel,Q8TDD5,Homo sapiens,1,6AYF,A,"TRPML3 (Mucolipin-3) channel, structure 2",Polycystin cation channel,3.62 EM,3.62,558.0,476,32.277,19.636,25.617,0,400–550,1.305
+B_receptor_channel,Q9GZU1,Homo sapiens,1,5WJ9,A,"TRPML1 (Mucolipin-1) channel, open 1",Polycystin cation channel,3.49 EM,3.49,580.0,479,31.73,19.838,24.764,0,400–550,1.248
+B_receptor_channel,Q87TN7,Vibrio parahaemolyticus RIMD 2210633,0,6V4L,A,"TrkH/TrkA complex, structure 3",Potassium transporter TrkH/TrkA complex,3.8,3.8,485.0,479,21.931,17.606,13.077,0,400–550,0.743
+B_receptor_channel,Q13563,Homo sapiens,1,5MKF,A,"Polycystin-2 channel, structure 3",Polycystin cation channel,4.2 EM,4.2,968.0,481,28.749,19.543,21.085,0,400–550,1.079
+B_receptor_channel,A2A259,Mus musculus,0,7D7F,B,"PKD1L3-CTD/PKD2L1, calcium-bound state",Polycystin cation channel,3.1 EM,3.1,604.0,482,29.732,19.59,22.367,0,400–550,1.142
+B_receptor_channel,P56726,Mus musculus,0,6O3C,A,Smoothened homolog,Frizzled/Smoothened family,2.8,2.8,525.0,484,33.057,16.393,28.706,0,400–550,1.751
+B_receptor_channel,F6RG56,Callithrix jacchus,0,5W3S,A,"TRPML3 (mucolipin 3) channel, closed",Polycystin cation channel,2.94 EM,2.94,561.0,485,32.739,19.465,26.324,0,400–550,1.352
+B_receptor_channel,P29973,Homo sapiens,1,7RHL,C,CNGA1/B1 channel with CLZ coiled coil,Cyclic nucleotide-gated ion channel,3.03 EM,3.03,560.0,489,40.606,21.932,34.173,0,400–550,1.558
+B_receptor_channel,Q9TV66,Oryctolagus cuniculus,0,7NP4,A,"Nucleotide-gated channel 4, HCN4, cAMP-bound",Cyclic nucleotide-gated ion channel,3.3 EM,3.3,892.0,501,37.661,25.181,28.005,0,400–550,1.112
+B_receptor_channel,Q9Y3Q4,Homo sapiens,1,6GYO,A,"Nucleotide-gated channel 4, HCN4, structure 1",Cyclic nucleotide-gated ion channel,3.4 EM,3.4,521.0,501,37.048,24.559,27.739,0,400–550,1.129
+B_receptor_channel,Q03611,Caenorhabditis elegans,0,7N17,A,"Cyclic nucleotide-gated ion channel, R421W apo open state",Cyclic nucleotide-gated ion channel,3.1 EM,3.1,738.0,517,37.479,22.643,29.866,0,400–550,1.319
+B_receptor_channel,Q12324,Saccharomyces cerevisiae,0,6WHG,A,"TRPY1, PI3P and calcium bound",Transient receptor potential channels,3.1 EM,3.1,675.0,523,30.329,20.585,22.273,0,400–550,1.082
+B_receptor_channel,O60741,Homo sapiens,0,6UQF,A,"Nucleotide-gated channel 1, HCN1, structure 3",Cyclic nucleotide-gated ion channel,3.04 EM,3.04,660.0,531,38.953,24.545,30.247,0,400–550,1.232
+B_receptor_channel,C4IXV6,Danio rerio,0,6V1Q,A,Two pore channel 3,Two pore Ca2+ channels,3.11 EM,3.11,773.0,538,29.276,23.867,16.955,0,400–550,0.71
+B_receptor_channel,Q12809,Homo sapiens,0,5VA1,A,"Potassium channel hERG, KCNH2",K+ voltage-gated channel KCNH/hERG,3.7 EM,3.7,795.0,560,38.162,24.783,29.02,0,550–700,1.171
+B_receptor_channel,Q64663,Rattus norvegicus,0,6U9W,A,"P2X purinoceptor 7, structure 2",ATP-gated cation channel,3.3 EM,3.3,609.0,562,51.857,20.39,47.68,0,550–700,2.338
+B_receptor_channel,P22888,Homo sapiens,1,7FII,R,"Lutropin-choriogonadotropic hormone receptor, with Gs","G-protein coupled receptors, family A",4.3 EM,4.3,697.0,570,37.045,14.864,33.932,0,550–700,2.283
+B_receptor_channel,Q98SW5,Xenopus laevis,0,6D32,A,"Smoothened receptor, inactive state",Frizzled/Smoothened family,3.75,3.75,612.0,573,39.816,20.29,34.259,0,550–700,1.688
+B_receptor_channel,Q5T848,Homo sapiens,1,7EWP,A,Probable G-protein coupled receptor 158-RGS7-Gbeta5 complex,GPCR Metabotropic glutamate receptor (C) family,4.3 EM,4.3,1138.0,577,54.14,14.659,52.118,0,550–700,3.555
+B_receptor_channel,P23945,Homo sapiens,1,8I2G,R,Follicle-stimulating hormone receptor-Gs complex,"G-protein coupled receptors, family A",2.8 EM ,2.8,678.0,595,37.257,16.703,33.303,0,550–700,1.994
+B_receptor_channel,P16473,Homo sapiens,1,7UTZ,R,"Thyrotropin receptor, with miniGs399 and TR1402","G-protein coupled receptors, family A",2.4 EM,2.4,701.0,600,37.186,16.301,33.422,0,550–700,2.05
+B_receptor_channel,Q9C8G5,Arabidopsis thaliana,0,5Z1F,A,OSCA3.1 channel,Mechanosensitive OSCA channels,4.8 EM,4.8,724.0,601,27.03,19.86,18.336,0,550–700,0.923
+B_receptor_channel,D3KZG3,Caenorhabditis elegans,0,7USW,A,"TMC-1 complex, expanded",Transmembrane channel family,3.1 EM,3.1,1285.0,608,29.919,21.958,20.322,0,550–700,0.925
+B_receptor_channel,A0A6I8RQZ3,Xenopus tropicalis,0,6BBJ,A,TRPV4 channel,Transient receptor potential channels,3.8 EM,3.8,868.0,608,37.14,22.034,29.898,0,550–700,1.357
+B_receptor_channel,G1SNM3,Oryctolagus cuniculus,0,6BWJ,A,"TRPV2 channel, structure 2",Transient receptor potential channels,3.1,3.1,776.0,610,34.273,21.76,26.478,0,550–700,1.217
+B_receptor_channel,Q9XEA1,Arabidopsis thaliana,0,6JPF,A,OSCA1.1 channel,Mechanosensitive OSCA channels,3.52 EM,3.52,772.0,610,26.429,19.881,17.413,0,550–700,0.876
+B_receptor_channel,Q9R186,Rattus norvegicus,0,6E2G,A,"TRPV6 channel, with calmodulin",Transient receptor potential channels,3.6 EM,3.6,727.0,611,36.154,22.722,28.121,0,550–700,1.238
+B_receptor_channel,Q8NET8,Homo sapiens,1,6MHV,B,"TRPV3 channel, human, structure 3",Transient receptor potential channels,3.5 EM,3.5,826.0,613,36.755,22.618,28.972,0,550–700,1.281
+B_receptor_channel,Q9WTR1,Mus musculus,0,7XER,A,"TRPV2 channel, Q525T",Transient receptor potential channels,2.47 EM,2.47,756.0,614,35.858,23.116,27.412,0,550–700,1.186
+B_receptor_channel,O75762,Homo sapiens,1,6PQP,A,"Transient receptor potential cation channel A1, TRPA1, structure 2",Transient receptor potential channels,3.06 EM,3.06,1152.0,615,39.498,18.691,34.795,0,550–700,1.862
+B_receptor_channel,Q9H1D0,Homo sapiens,1,7K4E,A,"TRPV6 channel, structure 9",Transient receptor potential channels,4.30 EM,4.3,670.0,620,36.042,22.774,27.935,0,550–700,1.227
+B_receptor_channel,Q8NHX9,Homo sapiens,1,6NQ2,A,"Two pore calcium channel TPC2, closed state",Two pore Ca2+ channels,3.4 EM,3.4,756.0,621,32.077,24.717,20.446,0,550–700,0.827
+B_receptor_channel,Q8TD43,Homo sapiens,1,6BWI,A,"TRPM4 channel, structure 4",Transient receptor potential channels,3.7 EM,3.7,977.0,621,36.427,20.923,29.818,0,550–700,1.425
+B_receptor_channel,P11716,Oryctolagus cuniculus,0,8SEW,A,RyR1 + ADP,Ryanodine receptor,2.89 EM,2.89,5037.0,629,36.178,22.61,28.242,0,550–700,1.249
+B_receptor_channel,Q9NW15,Homo sapiens,1,6R7X,A,"Anoctamin-10, structure 3",Anoctamin (TMEM16) family,3.47 EM,3.47,667.0,629,28.256,18.519,21.341,0,550–700,1.152
+B_receptor_channel,Q8NER1,Homo sapiens,1,8GF8,A,"TRPV1 channel, in nanodisc and soybean lipids",Transient receptor potential channels,2.9 EM ,2.9,1102.0,630,34.717,22.046,26.818,0,550–700,1.216
+B_receptor_channel,Q9WUD2,Rattus norvegicus,0,6U84,A,"TRPV2 channel, state 1a",Transient receptor potential channels,3.7 EM,3.7,761.0,630,34.782,23.262,25.859,0,550–700,1.112
+B_receptor_channel,Q9XSM3,Oryctolagus cuniculus,0,6DMW,A,"TRPV5 channel, with calmodulin, structure 1",Transient receptor potential channels,4.4 EM,4.4,730.0,631,36.892,23.564,28.387,0,550–700,1.205
+B_receptor_channel,O35433,Rattus norvegicus,0,7LP9,A,"TRPV1, full-length",Transient receptor potential channels,2.63 EM,2.63,868.0,634,36.247,22.679,28.276,0,550–700,1.247
+B_receptor_channel,Q9QX29,Mus musculus,0,6AEI,A,TRPC5 channel,Transient receptor potential channels,2.89 EM,2.89,765.0,642,36.934,20.21,30.914,0,550–700,1.53
+B_receptor_channel,Q94KI8,Arabidopsis thaliana,0,5DQQ,A,"Two pore calcium channel TPC1, structure 1",Two pore Ca2+ channels,2.87,2.87,723.0,649,30.909,22.325,21.377,0,550–700,0.958
+B_receptor_channel,Q4WA18,Aspergillus fumigatus A1163,0,7RXG,B,"afTMEM16 with MSP1E3, full dimer",Anoctamin (TMEM16) family,2.28 EM,2.28,735.0,650,31.012,21.963,21.894,0,550–700,0.997
+B_receptor_channel,I3LZN5,Ictidomys tridecemlineatus,0,7LQY,A,TRPV1 in apo state,Transient receptor potential channels,3.19 EM,3.19,844.0,659,36.283,22.675,28.325,0,550–700,1.249
+B_receptor_channel,Q8NCM2,Homo sapiens,1,7YID,A,K+ channel Eag2 (KCNH5) closed state 1,K+ voltage-gated channel KCNH/hERG,3.4 EM ,3.4,988.0,660,43.44,30.342,31.086,0,550–700,1.025
+B_receptor_channel,Q8K424,Mus musculus,0,6PVP,A,"TRPV3 channel, structure 7",Transient receptor potential channels,4.48 EM,4.48,808.0,661,37.498,24.177,28.662,0,550–700,1.186
+B_receptor_channel,Q92542,Homo sapiens,1,6IYC,A,"Gamma-secretase complex, structure 1",Gamma-secretase,2.6 EM,2.6,709.0,667,29.873,23.465,18.488,0,550–700,0.788
+B_receptor_channel,Q9QUQ5,Mus musculus,0,5Z96,A,TRPC4 channel,Transient receptor potential channels,3.28 EM,3.28,755.0,670,37.335,21.775,30.327,0,550–700,1.393
+B_receptor_channel,C7Z7K1,Fusarium vanettenii 77-13-4,0,6QM5,A,"TMEM16 lipid scramblase, structure 2",Anoctamin (TMEM16) family,3.6 EM,3.6,735.0,673,34.35,25.988,22.463,0,550–700,0.864
+B_receptor_channel,Q5XEZ5,Arabidopsis thaliana,0,6IJZ,A,"OSCA1.2 channel, structure 2",Mechanosensitive OSCA channels,3.68 EM,3.68,771.0,683,29.081,20.331,20.793,0,550–700,1.023
+B_receptor_channel,Q9UL62,Homo sapiens,1,7X6I,A,"TRPC5 channel with Galpha, class 1",Transient receptor potential channels,3.93 EM,3.93,773.0,687,38.097,21.788,31.252,0,550–700,1.434
+B_receptor_channel,Q9UBS5,Homo sapiens,1,6UO8,A,"GABA-B receptor, with modulator",GPCR Metabotropic glutamate receptor (C) family,3.63 EM,3.63,762.0,689,47.397,14.716,45.055,0,550–700,3.062
+B_receptor_channel,Q5TKG1,Oryza sativa Japonica Group,0,6OCE,A,OSCA1.2 channel,Mechanosensitive OSCA channels,4.9 EM,4.9,774.0,689,30.193,21.837,20.851,0,550–700,0.955
+B_receptor_channel,U3N7D8,Danio rerio,0,7B1G,A,"TRPC4 channel, zebrafish, with calmodulin",Transient receptor potential channels,3.6 EM,3.6,915.0,691,37.012,21.983,29.776,0,550–700,1.355
+B_receptor_channel,Q63472,Rattus norvegicus,0,5K7L,A,"K+ channel Eag1 (Kcnh1), with calmodulin, structure 1",K+ voltage-gated channel KCNH/hERG,3.78 EM,3.78,857.0,701,44.24,30.819,31.739,0,700–850,1.03
+B_receptor_channel,Q8BHY3,Mus musculus,0,7ZK3,A,"mTMEM16A chloride channel, 1PBC-bound",Anoctamin (TMEM16) family,2.85 EM,2.85,960.0,721,31.533,17.475,26.248,0,700–850,1.502
+B_receptor_channel,Q9EQJ0,Mus musculus,0,6C9A,B,"Two pore calcium channel TPC1, structure 2",Two pore Ca2+ channels,3.2 EM,3.2,825.0,723,33.166,24.876,21.936,0,700–850,0.882
+B_receptor_channel,P77338,Escherichia coli K-12,0,7UW5,E,"EcMscK, G924S, a closed conformation",Small conductance mechanosensitive ion channels,3.84 EM,3.84,1120.0,723,52.53,29.042,43.771,0,700–850,1.507
+B_receptor_channel,Q9Y210,Homo sapiens,1,6UZ8,A,"TRPC6 channel, structure 1",Transient receptor potential channels,2.84 EM,2.84,847.0,734,40.728,21.442,34.627,0,700–850,1.615
+B_receptor_channel,Q0Z852,Chlamydomonas reinhardtii,0,6PW5,A,"TRP1 channel, structure 1",Transient receptor potential channels,3.45 EM,3.45,901.0,734,35.115,26.254,23.319,0,700–850,0.888
+B_receptor_channel,P42264,Rattus norvegicus,0,7VM2,A,"GluK3 D759G, with UBP310 and spermine",Glutamate-gated Ion Channel (GIC) family,5.9 EM,5.9,809.0,734,46.993,21.469,41.802,0,700–850,1.947
+B_receptor_channel,Q13507,Homo sapiens,1,7DXB,A,TRPC3 in high calcium state,Transient receptor potential channels,2.7 EM,2.7,836.0,738,40.222,21.423,34.042,0,700–850,1.589
+B_receptor_channel,Q6P9J9,Mus musculus,0,8B8K,A,"Anoctamin-6, Ca2+-bound, N562A, closed/closed",Anoctamin (TMEM16) family,3.01 EM,3.01,975.0,741,32.16,16.718,27.473,0,700–850,1.643
+B_receptor_channel,Q14832,Homo sapiens,1,7WIH,A,mGlu3 LY2794193-bound mGlu3,GPCR Metabotropic glutamate receptor (C) family,3.68 EM,3.68,887.0,741,53.183,16.539,50.546,0,700–850,3.056
+B_receptor_channel,Q62640,Rattus norvegicus,0,6KSP,A,"Glutamate receptor delta-1, structure 1",Glutamate-gated Ion Channel (GIC) family,8.1 EM,8.1,856.0,753,49.467,30.471,38.968,0,700–850,1.279
+B_receptor_channel,P42658,Homo sapiens,1,7E8B,L,Kv4.2-DPP6S complex,KvAP voltage-regulated K channels,4.2 EM,4.2,757.0,757,30.109,20.411,22.134,0,700–850,1.084
+B_receptor_channel,Q14833,Homo sapiens,1,7E9H,R,Metabotropic glutamate receptor 4-Gi complex,GPCR Metabotropic glutamate receptor (C) family,4 EM,4.0,890.0,766,53.469,16.463,50.871,0,700–850,3.09
+B_receptor_channel,U3JD03,Ficedula albicollis,0,6BPQ,A,TRPM8 channel,Transient receptor potential channels,4.1 EM,4.1,950.0,768,40.404,23.785,32.661,0,700–850,1.373
+B_receptor_channel,P23818,Mus musculus,0,7LDD,A,Glutamate receptor 1,Glutamate-gated Ion Channel (GIC) family,3.4 EM,3.4,907.0,776,54.306,20.5,50.288,0,700–850,2.453
+B_receptor_channel,Q14831,Homo sapiens,1,7EPC,A,"Metabotropic glutamate receptor 7, inactive, homodimer",GPCR Metabotropic glutamate receptor (C) family,4 EM,4.0,857.0,782,55.62,15.951,53.284,0,700–850,3.34
+B_receptor_channel,Q14416,Homo sapiens,1,7MTS,A,Metabotropic glutamate receptor 2-Gi complex,GPCR Metabotropic glutamate receptor (C) family,3.2 EM,3.2,855.0,783,55.884,17.398,53.106,0,700–850,3.052
+B_receptor_channel,Q12879,Homo sapiens,1,7EOQ,A,"NMDA receptor, GluN1/GluN2A, glycine/CPP bound state",Glutamate-gated Ion Channel (GIC) family,4.1 EM,4.1,853.0,783,46.434,26.287,38.277,0,700–850,1.456
+B_receptor_channel,P19491,Rattus norvegicus,0,6RUQ,A,Glutamate receptor 2,Glutamate-gated Ion Channel (GIC) family,4.65,4.65,823.0,784,48.205,20.742,43.514,0,700–850,2.098
+B_receptor_channel,P19492,Rattus norvegicus,0,6NJM,A,"Native glutamate receptor complex, structure 2",Glutamate-gated Ion Channel (GIC) family,6.5 EM,6.5,888.0,784,51.243,20.985,46.75,0,700–850,2.228
+B_receptor_channel,P19490,Rattus norvegicus,0,6NJN,A,"Native glutamate receptor complex, structure 3",Glutamate-gated Ion Channel (GIC) family,6.5 EM,6.5,907.0,785,54.763,20.774,50.67,0,700–850,2.439
+B_receptor_channel,Q13255,Homo sapiens,1,7DGD,A,"Metabotropic glutamate receptor 1, apo state",GPCR Metabotropic glutamate receptor (C) family,3.96 EM,3.96,833.0,786,54.689,18.375,51.51,0,700–850,2.803
+B_receptor_channel,P41594,Homo sapiens,1,6N51,B,"Metabotropic glutamate receptor 5, active state 1",GPCR Metabotropic glutamate receptor (C) family,4.0 EM,4.0,804.0,793,54.557,18.879,51.186,0,700–850,2.711
+B_receptor_channel,A0A1L8F5J9,Xenopus laevis,0,5UOW,A,"GluN1/GluN2A/GluN2B NMDA receptor, structure 1",Glutamate-gated Ion Channel (GIC) family,4.5 EM,4.5,814.0,797,46.151,22.22,40.45,0,700–850,1.82
+B_receptor_channel,A0A8I3AZV5,Gallus gallus,0,7DD5,A,"Calcium-Sensing Receptor, with NPS-2143",GPCR Metabotropic glutamate receptor (C) family,3.2 EM,3.2,1069.0,798,54.482,19.042,51.046,0,700–850,2.681
+B_receptor_channel,Q8GXJ4,Arabidopsis thaliana,0,7LZH,A,Glutamate receptor-like channel AtGLR3.4,Glutamate-gated Ion Channel (GIC) family,3.57 EM,3.57,959.0,798,48.259,27.074,39.949,0,700–850,1.476
+B_receptor_channel,Q05586,Homo sapiens,1,8E93,A,GluN1a-GluN2C NMDA receptor in splayed conformation,Glutamate-gated Ion Channel (GIC) family,3.71 EM,3.71,847.0,800,48.559,24.058,42.181,0,700–850,1.753
+B_receptor_channel,P35439,Rattus norvegicus,0,6WI1,A,"GluN1b-GluN2B NMDA receptor, structure 5",Glutamate-gated Ion Channel (GIC) family,3.62 EM,3.62,868.0,806,48.946,21.675,43.885,0,700–850,2.025
+B_receptor_channel,Q923J1,Mus musculus,0,5ZX5,A,TRPM7 channel,Transient receptor potential channels,3.28 EM,3.28,1229.0,814,39.641,23.23,32.121,0,700–850,1.383
+B_receptor_channel,P41180,Homo sapiens,1,7M3G,A,Calcium-Sensing Receptor,GPCR Metabotropic glutamate receptor (C) family,2.5 EM,2.5,902.0,821,55.704,19.965,52.003,0,700–850,2.605
+B_receptor_channel,Q12791,Homo sapiens,1,8GH9,A,"Slo1 channel, in total membrane vesicles",Slo potassium channels,3.8 EM ,3.8,1072.0,830,41.779,30.049,29.026,0,700–850,0.966
+B_receptor_channel,A0A5S8WF66,Parus major,0,6O6R,A,"TRPM8 channel, structure 3",Transient receptor potential channels,3.2 EM,3.2,1098.0,833,40.84,23.221,33.596,0,700–850,1.447
+B_receptor_channel,P42260,Rattus norvegicus,0,7F57,A,"GluK2-1xNeto2 complex, at the desensitized state",Glutamate-gated Ion Channel (GIC) family,3.8 EM,3.8,908.0,835,53.35,24.005,47.645,0,700–850,1.985
+B_receptor_channel,E2JF22,Mus musculus,0,6BPZ,A,"Mechanosensitive channel Piezo1, structure 2",Piezo family,3.8 EM,3.8,1423.0,841,48.855,36.519,32.452,0,700–850,0.889
+C_transporter,Q2FWX0,Staphylococcus aureus,0,6XJH,A,"PmtCD ABC exporter, structure 1",PmtCD type II ABC exporters,3.6 EM,3.6,266.0,251,19.891,13.989,14.141,0,250–400,1.011
+C_transporter,O30143,Archaeoglobus fulgidus,0,2ONK,C,"Molybdate transporter ModBC, open state",Binding-protein-dependent transport system,3.1,3.1,284.0,252,21.85,16.185,14.68,0,250–400,0.907
+C_transporter,Q48GF7,Pseudomonas savastanoi pv. phaseolicola 1448A,0,6S3R,F,Flagellar biosynthetic protein FliPQR complex,FliP family,3.5 EM,3.5,300.0,252,23.419,12.142,20.026,0,250–400,1.649
+C_transporter,O67122,Aquifex aeolicus VF5,0,8GQY,A,"Motility protein A, MotA",MotA/TolQ/ExbB channel,3.4 EM,3.4,266.0,253,25.677,11.189,23.111,0,250–400,2.066
+C_transporter,P28611,Bacillus subtilis subsp. subtilis str. 168,0,6YSL,G,MotAB motor,MotA/TolQ/ExbB channel,3.5 EM,3.5,270.0,254,26.256,12.303,23.196,0,250–400,1.885
+C_transporter,A0A0H3PAV1,Campylobacter jejuni subsp. jejuni 81-176,0,6YKP,A,"MotAB motor, structure 2",MotA/TolQ/ExbB channel,2.98 EM,2.98,258.0,255,25.767,11.43,23.093,0,250–400,2.02
+C_transporter,A0A0E7XN74,Streptococcus pneumoniae,0,7B0K,A,Choline importer LicB,EamA-like transporter,3.8,3.8,292.0,255,16.952,13.392,10.394,0,250–400,0.776
+C_transporter,O67182,Aquifex aeolicus VF5,0,6M96,B,"O-antigen polysaccharide ABC transporter, structure 1",Lipopolysaccharide exporter,2.05,2.05,256.0,256,19.471,12.806,14.667,0,250–400,1.145
+C_transporter,V5V9F4,Acinetobacter baumannii,0,7D06,A,"MlaFEDB complex, nucleotide free",MlaD/MlaE transporter,3.1 EM,3.1,258.0,256,21.652,13.743,16.732,0,250–400,1.217
+C_transporter,P64606,Escherichia coli K-12,0,7CGE,A,"MlaFEDB lipid transporter, structure 2",MlaD/MlaE transporter,2.9 EM,2.9,260.0,257,21.855,14.17,16.639,0,250–400,1.174
+C_transporter,A0A6I8WFL7,Paenalicyclobacillus herbarius,0,6JBH,C,Teichoic acid ABC transporter,Teichoic acid exporter,3.94 EM,3.94,280.0,267,19.812,13.853,14.163,0,250–400,1.022
+C_transporter,Q9FGQ2,Arabidopsis thaliana,0,5XPD,A,"Bidirectional sugar transporter SWEET13, inward-facing state",Eukaryotic SWEET transporters,2.79,2.79,293.0,269,25.715,15.464,20.546,0,250–400,1.329
+C_transporter,P19845,Stutzerimonas stutzeri,0,7QBA,D,"NosDFY,  with nitrous oxide reductase NosZ",Gliding motility ABC transporters,3.78 EM,3.78,276.0,275,19.969,13.414,14.792,0,250–400,1.103
+C_transporter,Q8IWU4,Homo sapiens,1,6XPE,A,Zinc transporter 8,Bacterial zinc transporters,4.1 EM,4.1,320.0,277,25.434,12.164,22.337,1,250–400,1.836
+C_transporter,A0A0H2ZPI2,Streptococcus pneumoniae D39,0,7KYP,B,Manganese transporter PsaBC,FecCD transport family,2.9,2.9,290.0,278,19.182,14.335,12.746,0,250–400,0.889
+C_transporter,A0A0H2UQH5,Streptococcus pneumoniae TIGR4,0,7PAF,A,Choline importer LicB,EamA-like transporter,3.75 EM,3.75,292.0,278,18.156,14.282,11.21,0,250–400,0.785
+C_transporter,P18239,Saccharomyces cerevisiae,0,4C9H,A,"Mitochondrial ADP-ATP carrier, dimer, conformation 1",ADP/ATP carrier,3.2,3.2,318.0,279,19.302,13.807,13.487,0,250–400,0.977
+C_transporter,A0R2C2,Mycolicibacterium smegmatis MC2 155,0,7CAG,A,"LpqY-SugABC complex, catalytic intermediate state",Binding-protein-dependent transport system,3.78 EM,3.78,305.0,285,23.322,17.063,15.899,0,250–400,0.932
+C_transporter,P05026,Homo sapiens,1,8D3X,B,"Sodium-potassium alpha3 ATPase, K+-occluded state",P-ATPase,4.1 EM,4.1,303.0,285,26.489,17.585,19.809,0,250–400,1.126
+C_transporter,P18238,Saccharomyces cerevisiae,0,4C9Q,A,"Mitochondrial ADP-ATP carrier, conformation 2",ADP/ATP carrier,3.2,3.2,322.0,286,19.847,14.076,13.992,0,250–400,0.994
+C_transporter,P69380,Escherichia coli,0,2QFI,A,"Ferrous-iron efflux pump fieF, different conformation",Bacterial zinc transporters,3.8,3.8,300.0,286,25.793,12.558,22.529,0,250–400,1.794
+C_transporter,D7A5Q8,Ancylobacter novellus DSM 506,0,5I20,E,YddG transporter,EamA-like transporter,2.4,2.4,298.0,291,18.733,14.722,11.585,0,250–400,0.787
+C_transporter,G2QNH0,Thermothelomyces thermophilus ATCC 42464,0,6GCI,A,Mitochondrial ADP-ATP carrier,ADP/ATP carrier,3.3,3.3,315.0,292,20.925,15.403,14.164,0,250–400,0.92
+C_transporter,Q14973,Homo sapiens,1,7ZYI,A,Sodium/bile acid cotransporter SLC10A1 with Fab and nanobody,Bile Acid:Na+ Symporter (BASS) Family,2.88 EM,2.88,349.0,293,19.172,14.224,12.854,1,250–400,0.904
+C_transporter,P02722,Bos taurus,0,2C3E,A,"Mitochondrial ADP-ATP carrier, with carboxyatractyloside",ADP/ATP carrier,2.8,2.8,297.0,293,20.225,14.116,14.484,0,250–400,1.026
+C_transporter,A0A0H3LM39,Bordetella bronchiseptica RB50,0,8CZJ,A,Zrt/Irt-like protein in the apo state,Zinc-iron permease (ZIP) family,2.751  ,2.751,309.0,295,19.187,13.868,13.26,0,250–400,0.956
+C_transporter,Q8E919,Shewanella oneidensis MR-1,0,3J1Z,P,"Zinc transporter YiiP, structure 1",Bacterial zinc transporters,13.0 EM,13.0,306.0,296,27.431,13.194,24.049,0,250–400,1.823
+C_transporter,Q56992,Yersinia pestis,0,4G1U,A,"Hemin transport system permease, HmuU",FecCD transport family,3.01,3.01,357.0,297,18.362,13.201,12.763,0,250–400,0.967
+C_transporter,P26435,Rattus norvegicus,0,7VAF,A,Sodium/bile acid cotransporter SLC10A1 with Fab,Bile Acid:Na+ Symporter (BASS) Family,3.11 EM,3.11,343.0,297,19.211,14.279,12.851,0,250–400,0.9
+C_transporter,P70406,Mus musculus,0,2LCK,A,Mitochondrial uncoupling protein 2,ADP/ATP carrier,NMR,99.0,303.0,297,22.957,15.694,16.754,0,250–400,1.068
+C_transporter,P40107,Saccharomyces cerevisiae S288C,0,5OGE,A,GDP-mannose transporter 1,GDP-Mannose:GMP antiporter,3.22,3.22,337.0,299,19.653,15.578,11.982,0,250–400,0.769
+C_transporter,Q2KJ85,Bos taurus,0,7VAE,A,Sodium/bile acid cotransporter SLC10A1 with Fab,Bile Acid:Na+ Symporter (BASS) Family,3.55 EM,3.55,343.0,299,19.275,14.002,13.247,0,250–400,0.946
+C_transporter,Q57556,Methanocaldococcus jannaschii DSM 2661,0,5HWY,A,"Sodium/calcium exchanger, structure 3",Sodium/calcium exchanger,2.1,2.1,300.0,300,18.672,14.304,12.002,0,250–400,0.839
+C_transporter,Q5XHB4,Xenopus tropicalis,0,7Y5G,B,ZnT8 with zinc,Bacterial zinc transporters,3.85 EM,3.85,374.0,302,26.682,12.652,23.491,0,250–400,1.857
+C_transporter,B5AJT1,Galdieria sulphuraria,0,5Y79,A,Triose phosphate translocator,Triose-phosphate transporter,2.2,2.2,329.0,305,19.253,14.723,12.407,0,250–400,0.843
+C_transporter,Q9K0A9,Neisseria meningitidis,0,3ZUY,A,"Bile acid sodium symporter ASBT, inward-open conformation",Bile Acid:Na+ Symporter (BASS) Family,2.2,2.2,323.0,308,18.019,13.816,11.567,0,250–400,0.837
+C_transporter,Q57130,Haemophilus influenzae,0,2NQ2,A,"ABC transporter permease HI1471, inward-facing conformation",FecCD transport family,2.4,2.4,337.0,308,19.563,14.451,13.187,0,250–400,0.913
+C_transporter,B4FZ94,Zea mays,0,6I1R,A,"CMP-sialic acid transporter 1, outward-facing conformation",Nucleotide-sugar transporter,2.8,2.8,322.0,309,20.339,16.135,12.383,0,250–400,0.767
+C_transporter,A0A380PV03,Yersinia frederiksenii,0,6LGY,A,"Sodium bile acid symporter, inward conformation 2",Bile Acid:Na+ Symporter (BASS) Family,2.25,2.25,312.0,311,18.057,13.49,12.004,0,250–400,0.89
+C_transporter,P0AF98,Escherichia coli K-12,0,6MHU,F,"LptB2FGC complex, structure 3",Branched-chain amino acid ABC transporter,4.0 EM,4.0,366.0,311,29.13,18.519,22.486,0,250–400,1.214
+C_transporter,P44741,Haemophilus influenzae,0,3M73,A,Tellurite resistance protein tehA homolog,Voltage-dependent anion channel,1.15,1.15,314.0,313,18.393,13.873,12.078,0,250–400,0.871
+C_transporter,A0A0Q3IDG7,Brachypodium distachyon,0,7EN0,A,SLow Anion Channel 1 (SLAC1),Voltage-dependent anion channel,2.97 EM,2.97,577.0,313,18.749,14.588,11.778,0,250–400,0.807
+C_transporter,Q61420,Mus musculus,0,6XBO,A,"CMP-sialic acid transporter, with CMP analog",Nucleotide-sugar transporter,1.8,1.8,330.0,319,20.041,15.231,13.026,0,250–400,0.855
+C_transporter,O34840,Bacillus subtilis subsp. subtilis str. 168,0,4KJS,A,"Ca2+/H+ antiporter YfkE, different conformation",Sodium/calcium exchanger,3.05,3.05,351.0,320,18.762,14.688,11.674,0,250–400,0.795
+C_transporter,A0A1Y0Q3P9,Klebsiella pneumoniae IS22,0,5L75,F,ABC transporter LptB2FG,LPS export ABC transporter LPTF/G permease,3.7,3.7,365.0,323,28.438,18.24,21.818,0,250–400,1.196
+C_transporter,P06609,Escherichia coli,0,2QI9,A,"ABC transporter BtuCD, complex with BtuF, structure 1",FecCD transport family,2.6,2.6,326.0,324,19.962,14.339,13.889,0,250–400,0.969
+C_transporter,Q9LFP6,Arabidopsis thaliana,0,7QP9,A,"Auxin exporter PIN8, outward-facing, apo",Auxin efflux carrier,2.89 EM,2.89,376.0,327,19.283,15.155,11.923,0,250–400,0.787
+C_transporter,P70673,Rattus norvegicus,0,7UQR,A,"ATP-sensitive K+ channel, apo form with Kir6.2-CTD down",Drug conjugate transporter (ABC C family),4.55 EM,4.55,390.0,327,33.153,17.22,28.33,0,250–400,1.645
+C_transporter,G0GAP6,Winmispira thermophila,0,6LEO,A,Thiosulfate transporter YeeE,Sulphur transporter,2.52,2.52,339.0,328,18.446,14.733,11.099,0,250–400,0.753
+C_transporter,P82251,Homo sapiens,1,6YV1,A,"b(0,+)-type amino acid transporter 1 (SLC7A9)",Amino acid permease,3.4 EM,3.4,487.0,328,19.493,15.848,11.35,0,250–400,0.716
+C_transporter,Q5GH54,Rattus norvegicus,0,7P14,A,"XKR9 protein, full-length, with a sybody", KX blood-group antigen family,3.66 EM,3.66,374.0,328,20.156,14.799,13.685,0,250–400,0.925
+C_transporter,B4EKB4,Burkholderia cenocepacia J2315,0,5B58,A,"Heme importer BhuUV, with BhuT, Inward-facing",FecCD transport family,3.21,3.21,385.0,331,20.636,14.944,14.231,0,250–400,0.952
+C_transporter,Q9NV96,Homo sapiens,1,7VGI,A,"P4-type flippase ATP8B1-CDC50A, E2P state",Phospholipid-translocating ATPase,3.36 EM,3.36,370.0,331,29.117,19.097,21.98,0,250–400,1.151
+C_transporter,Q72CX3,Nitratidesulfovibrio vulgaris str. Hildenborough,0,3K3F,A,Urea transporter,Urea transporter,2.3,2.3,340.0,332,18.965,14.459,12.272,0,250–400,0.849
+C_transporter,Q8WWI5,Homo sapiens,1,7WWB,A,Choline transporter-like protein 1,Choline transporter,3.86 EM,3.86,657.0,333,22.055,17.723,13.128,0,250–400,0.741
+C_transporter,O60931,Homo sapiens,1,8DKX,P,"Cystinosin N288K, cytosol-open state",Lysosomal cystine transporter,3 EM,3.0,408.0,334,24.998,13.342,21.139,0,250–400,1.584
+C_transporter,P73953,Synechocystis sp. PCC 6803 substr. Kazusa,0,7EGL,A,Bicarbonate transporter SbtA-SbtB bound to HCO3-,Na+-dependent bicarbonate transporter,2.7 EM,2.7,374.0,335,19.155,14.388,12.645,0,250–400,0.879
+C_transporter,Q3MIR4,Homo sapiens,1,7VGH,A,"P4-type flippase ATP8B1-CDC50B, E2P state",Phospholipid-translocating ATPase,3.39 EM,3.39,363.0,338,29.538,19.975,21.759,0,250–400,1.089
+C_transporter,Q6NEF1,Corynebacterium diphtheriae NCTC 13129,0,7W78,B,Heme exporter HrtBA with Mg-AMPPNP,FtsX-like permease,2.884,2.884,344.0,344,28.45,13.304,25.147,0,250–400,1.89
+C_transporter,Q5QF96,Bos taurus,0,4EZC,A,Urea transporter 1,Urea transporter,2.36,2.36,384.0,345,19.151,14.575,12.422,0,250–400,0.852
+C_transporter,W7FI62,Plasmodium falciparum 7G8,0,6UKJ,A,Chloroquine resistance transporter,Chloroquine-resistance transporter,3.3 EM,3.3,464.0,350,20.989,15.941,13.653,0,250–400,0.856
+C_transporter,Q9HXH5,Pseudomonas aeruginosa PAO1,0,5X5Y,G,ABC transporter LptB2FG,LPS export ABC transporter LPTF/G permease,3.46,3.46,355.0,351,26.071,12.444,22.91,0,250–400,1.841
+C_transporter,Q8U4M3,Pyrococcus furiosus DSM 3638,0,5MLZ,A,"Dolichyl phosphate mannose synthase, structure 1",Dolichyl-phosphate beta-glucosyltransferase,2.0,2.0,374.0,355,25.692,17.997,18.335,0,250–400,1.019
+C_transporter,Q13336,Homo sapiens,1,6QD5,A,Urea transporter 1,Urea transporter,2.4,2.4,367.0,356,19.682,14.822,12.949,0,250–400,0.874
+C_transporter,P76272,Escherichia coli K-12,0,6V0E,A,"Intermembrane transport protein YebT, structure 1",MlaD/MlaE transporter,3.06 EM,3.06,832.0,363,28.206,13.702,24.654,0,250–400,1.799
+C_transporter,Q08BA4,Danio rerio,0,6C08,C,Sodium-coupled neutral amino acid transporter 9 (SLC38A9),Amino acid/auxin permease,3.17,3.17,479.0,364,20.682,16.247,12.797,0,250–400,0.788
+C_transporter,Q9LD83,Arabidopsis thaliana,0,7WNQ,A,"Guard cell S-type anion channel SLAC1, S59A",Voltage-dependent anion channel,2.7 EM,2.7,556.0,368,20.554,14.189,14.87,0,250–400,1.048
+C_transporter,P0A0J7,Staphylococcus aureus,0,7LO8,Z,Quinolone resistance protein NorA with Fab36,Monocarboxylate transporter,3.16 EM,3.16,388.0,369,20.276,15.845,12.65,0,250–400,0.798
+C_transporter,Q8ZRZ3,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,7A0Y,A,Sodium/proton antiporter 1 (NhaA) K300R with Fab,Sodium-proton antiporter NhaA,2.45,2.45,411.0,372,20.439,16.386,12.217,0,250–400,0.746
+C_transporter,Q99385,Saccharomyces cerevisiae S288C,0,4K1C,A,Vacuolar calcium ion transporter,Sodium/calcium exchanger,2.3,2.3,421.0,374,19.927,15.318,12.745,0,250–400,0.832
+C_transporter,Q1J2S8,Deinococcus geothermalis DSM 11300,0,5DA0,A,Fumarate transporter,Sulfate permease,3.2,3.2,505.0,375,20.041,17.039,10.551,0,250–400,0.619
+C_transporter,P31442,Escherichia coli,0,2GFP,A,Multidrug transporter EmrD,Drug/proton antiporter,3.5,3.5,375.0,375,20.008,15.512,12.637,0,250–400,0.815
+C_transporter,O75908,Homo sapiens,1,7N6Q,A,Sterol O-acyltransferase 2,Membrane-bound O-acyltransferase,3.87 EM,3.87,530.0,375,22.271,18.116,12.955,0,250–400,0.715
+C_transporter,K7GP63,Sus scrofa,0,3J7R,l,"Protein translocase Sec61, complex with ribosome, active state",Protein translocase,3.9 EM,3.9,51.0,375,23.634,16.863,16.559,0,250–400,0.982
+C_transporter,P13738,Escherichia coli,0,1ZCD,A,Sodium/proton antiporter 1 (NhaA),Sodium-proton antiporter NhaA,3.45,3.45,388.0,376,20.452,16.266,12.398,0,250–400,0.762
+C_transporter,Q9S7Z8,Arabidopsis thaliana,0,7WKW,B,"Auxin exporter PIN3, NPA-bound",Auxin efflux carrier,2.62 EM,2.62,680.0,377,22.388,17.691,13.72,0,250–400,0.776
+C_transporter,Q2FZP8,Staphylococcus aureus,0,6S7V,A,Lipoteichoic acids flippase LtaA,Drug/proton antiporter,3.3,3.3,378.0,378,20.869,16.308,13.022,0,250–400,0.798
+C_transporter,P18577,Homo sapiens,1,7UZQ,K,RhAG-RhCE-ANK1 complex,Ammonia transporter Amt,2.17 EM,2.17,417.0,380,20.461,15.643,13.189,0,250–400,0.843
+C_transporter,Q9C6B8,Arabidopsis thaliana,0,7Y9T,A,"Auxin exporter PIN1, apo",Auxin efflux carrier,3.1 EM,3.1,622.0,380,22.871,17.705,14.478,0,250–400,0.818
+C_transporter,Q99808,Homo sapiens,1,6OB7,A,Equilibrative nucleoside transporter 1,Nucleoside transporter,2.3,2.3,442.0,381,20.456,14.295,14.631,0,250–400,1.024
+C_transporter,P31122,Escherichia coli K-12,0,6KKK,A,"Sugar efflux transporter sotB, inward open state, H115A",Glycerol-3-phosphate transporter,3.5,3.5,423.0,381,20.006,15.161,13.053,0,250–400,0.861
+C_transporter,P53985,Homo sapiens,1,7CKR,A,"Monocarboxylate transporter 1 (SLC16A1) with basigin-2, outward-open conformation",Monocarboxylate transporter,3 EM,3.0,500.0,382,20.138,14.954,13.487,0,250–400,0.902
+C_transporter,Q5SIA2,Thermus thermophilus,0,5BZ3,A,"Na+/H+ antiporter, outward-open conformation",Sodium-proton antiporter 1,2.3,2.3,385.0,384,20.458,16.336,12.315,0,250–400,0.754
+C_transporter,Q72IM4,Thermus thermophilus,0,4BWZ,A,"Na+/H+ antiporter NapA, outward-facing state",Sodium-proton antiporter 1,2.98,2.98,394.0,384,20.124,16.047,12.144,0,250–400,0.757
+C_transporter,Q55415,Synechocystis sp. PCC 6803,0,6KI1,A,Bicarbonate transporter BicA,Sulfate permease,2.81,2.81,392.0,385,19.682,16.314,11.01,0,250–400,0.675
+C_transporter,F7B113,Equus caballus,0,6Z3Y,B,"Sodium/proton exchanger SLC9A9, inward-facing, structure 1",Sodium-proton antiporter 1,3.51 EM,3.51,470.0,386,21.319,17.29,12.473,0,250–400,0.721
+C_transporter,Q8U019,Pyrococcus furiosus,0,3MP7,A,"Protein translocase SecY, partialy open",Protein translocase,2.9,2.9,482.0,387,23.809,16.909,16.762,0,250–400,0.991
+C_transporter,Q82X47,Nitrosomonas europaea ATCC 19718,0,3B9Y,A,Rh-like protein,Ammonia transporter Amt,1.85,1.85,388.0,388,22.949,13.831,18.313,0,250–400,1.324
+C_transporter,A0A6P3YN15,Ovis aries,0,7ZL3,A,Sec61,Protein translocase,3.2 EM ,3.2,475.0,388,24.227,17.56,16.691,0,250–400,0.951
+C_transporter,Q8DQF7,Streptococcus pneumoniae R6,0,5XU1,M,MacAB-like efflux pump,FtsX-like permease,3.3,3.3,419.0,390,31.166,13.751,27.968,0,250–400,2.034
+C_transporter,O29285,Archaeoglobus fulgidus,0,2B2F,A,Ammonium transporter Amt-1,Ammonia transporter Amt,1.72,1.72,399.0,391,19.629,14.189,13.563,0,250–400,0.956
+C_transporter,P0AFY6,Escherichia coli,0,7P34,A,Peptide antibiotic transporter SbmA,Peptide uptake permease,3.59 EM,3.59,406.0,391,26.553,17.056,20.351,0,250–400,1.193
+C_transporter,P0AEY8,Escherichia coli K-12,0,4ZP0,A,"Multidrug transporter MdfA, structure 1",Drug/proton antiporter,2.0,2.0,392.0,392,20.481,15.711,13.138,0,250–400,0.836
+C_transporter,A0QNR2,Mycolicibacterium smegmatis MC2 155,0,8FEF,A,Mce1 transporter,MlaD/MlaE transporter,2.71 EM,2.71,409.0,392,84.458,39.801,74.492,0,250–400,1.872
+C_transporter,Q48658,Lactococcus lactis,0,6T1Z,A,Multidrug transporter LmrP,Glycerol-3-phosphate transporter,2.9,2.9,411.0,393,20.719,16.068,13.08,0,250–400,0.814
+C_transporter,Q51330,Oxalobacter formigenes,0,8HPJ,A,"Oxalate transporter OxlT, ligand-free outward-facing form",Oxalate-formate antiporter,3.3    ,3.3,427.0,393,20.401,15.154,13.659,0,250–400,0.901
+C_transporter,O60669,Homo sapiens,1,7BP3,A,Monocarboxylate transporter 2 (SLC16A7),Monocarboxylate transporter,3.8 EM,3.8,494.0,394,21.36,15.756,14.421,0,250–400,0.915
+C_transporter,O29988,Archaeoglobus fulgidus DSM 4304,0,4KPP,A,H+/Ca2+ exchanger,Sodium/calcium exchanger,2.3,2.3,405.0,395,20.576,16.263,12.606,0,250–400,0.775
+C_transporter,C9A4P8,Enterococcus casseliflavus EC10,0,6D0J,A,CLC-type fluoride/proton antiporter,Chloride transporter,3.0,3.0,421.0,395,19.88,16.997,10.31,0,250–400,0.607
+C_transporter,P0ADC3,Escherichia coli K-12,0,7V8I,C,LolCDE with AMPPNP,FtsX-like permease,3.6 EM,3.6,399.0,396,32.063,13.278,29.184,0,250–400,2.198
+C_transporter,Q9X1I9,Thermotoga maritima MSB8,0,3DIN,C,"Protein translocase SecY, complex with SecA",Protein translocase,4.5,4.5,431.0,396,24.613,16.896,17.898,0,250–400,1.059
+C_transporter,Q9RTP8,Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539,0,6D91,A,"Divalent metal cation transporter MntH, structure 3",Divalent metal ion transporter (NRAMP),2.36,2.36,412.0,398,19.915,14.457,13.697,0,250–400,0.947
+C_transporter,Q8VYR7,Arabidopsis thaliana,0,5L25,A,"Boron transporter 1, occluded state",Anion exchanger family,4.11,4.11,652.0,399,21.889,17.336,13.365,0,250–400,0.771
+C_transporter,Q9WY99,Thermotoga maritima MSB8,0,6L85,A,Phosphate transporter (SLC20),Phosphate transporter,2.3,2.3,402.0,400,21.113,16.556,13.101,0,400–550,0.791
+C_transporter,A0A7X9ZJZ3,Staphylococcus capitis,0,5M94,A,"Divalent metal cation transporter MntH, struct. 2",Divalent metal ion transporter (NRAMP),3.1,3.1,415.0,401,20.944,16.299,13.152,0,400–550,0.807
+C_transporter,C8WJ67,Eggerthella lenta,0,7QIA,A,"Divalent metal cation transporter, apo, with nanobodies",Divalent metal ion transporter (NRAMP),3.5 EM,3.5,438.0,401,20.423,15.558,13.231,0,400–550,0.85
+C_transporter,Q9UBD6,Homo sapiens,1,3HD6,A,Rhesus Glycoprotein RhCG,Ammonia transporter Amt,2.1,2.1,490.0,403,20.368,15.142,13.622,0,400–550,0.9
+C_transporter,Q01650,Homo sapiens,1,6JMQ,A,"LAT1-4F2hc transporter complex, structure 2",Amino acid permease,3.31 EM,3.31,515.0,403,21.138,17.088,12.442,0,400–550,0.728
+C_transporter,A0A0H2WZS4,Staphylococcus aureus subsp. aureus COL,0,7D5Q,A,"NorC transporter (K398A ), outward-open conformation",Monocarboxylate transporter,3.6,3.6,479.0,403,20.637,16.491,12.408,0,400–550,0.752
+C_transporter,P69681,Escherichia coli K-12,0,2NS1,A,"Ammonia channel, complex with inhibitory GlnK",Ammonia transporter Amt,1.96,1.96,412.0,404,20.069,14.37,14.01,0,400–550,0.975
+C_transporter,A0LNN5,Syntrophobacter fumaroxidans MPOB,0,6ZGS,A,"L-lactate transporter, with 3-phenylpropanoic acid",Glycerol-3-phosphate transporter,2.151,2.151,420.0,404,21.153,14.281,15.604,0,400–550,1.093
+C_transporter,Q9KPL5,Vibrio cholerae,0,3TIJ,A,Concentrative nucleoside transporter,Concentrative nucleoside transporter,2.44,2.44,424.0,404,20.911,16.532,12.806,0,400–550,0.775
+C_transporter,Q1Q357,Candidatus Kuenenia stuttgartensis,0,6EU6,A,Ammonium sensor/transducer,Ammonia transporter Amt,1.98,1.98,405.0,405,20.123,14.032,14.423,0,400–550,1.028
+C_transporter,P0AFF4,Escherichia coli K-12,0,7DL9,A,Nucleoside transporter NupG,Nucleoside H+ symporter,3,3.0,418.0,405,21.01,16.159,13.429,0,400–550,0.831
+C_transporter,Q6MLJ0,Bdellovibrio bacteriovorus HD100,0,5AYO,A,"Iron-regulated transporter, inward-facing, structure 1",Ferroportin,3.3,3.3,440.0,406,21.857,16.793,13.991,0,400–550,0.833
+C_transporter,P0AGM7,Escherichia coli K-12,0,3QE7,A,Uracil transporter UraA,Nucleobase:Cation Symporter-2,2.78,2.78,429.0,407,20.471,16.822,11.666,0,400–550,0.693
+C_transporter,P0AGM8,Escherichia coli O157:H7,0,5XLS,A,"Uracil permease UraA, occluded state",Nucleobase:Cation Symporter-2,2.5,2.5,435.0,408,20.431,17.004,11.326,0,400–550,0.666
+C_transporter,J7QAK3,Escherichia coli,0,6E9N,A,"D-galactonate transporter dgoT, inward open",Glycerol-3-phosphate transporter,2.91,2.91,460.0,409,20.99,15.376,14.288,0,400–550,0.929
+C_transporter,P41440,Homo sapiens,1,7XQ2,A,"Reduced folate transporter SLC19A1, with 2'3'-cGAMP",Reduced folate carrier,3.3 EM,3.3,544.0,409,21.319,15.944,14.152,0,400–550,0.888
+C_transporter,O75907,Homo sapiens,1,6VZ1,A,"Diacylglycerol O-acyltransferase 1, with acyl-CoA",Membrane-bound O-acyltransferase,3.2 EM,3.2,488.0,411,24.491,19.787,14.432,0,400–550,0.729
+C_transporter,P75958,Escherichia coli,0,7MDY,B,LolCDE nucleotide-bound,FtsX-like permease,3.5 EM,3.5,414.0,411,32.581,13.206,29.784,0,400–550,2.255
+C_transporter,A5F5X0,Vibrio cholerae O395,0,8EVU,B,Na(+)-translocating NADH-quinone reductase,Na(+)-translocating NADH-quinone reductase,2.58 EM,2.58,415.0,412,23.494,16.274,16.945,0,400–550,1.041
+C_transporter,P11551,Escherichia coli K-12,0,3O7Q,A,"L-fucose-proton symporter fucP, outward conformation",Fucose-proton symporter,3.14,3.14,438.0,414,21.712,15.522,15.181,0,400–550,0.978
+C_transporter,Q5M4V4,Streptococcus thermophilus,0,6BUG,C,"D-alanyl transfer protein DltB, with D-alanyl carrier",Membrane-bound O-acyltransferase,3.27,3.27,425.0,414,23.268,19.973,11.938,0,400–550,0.598
+C_transporter,Q60362,Methanocaldococcus jannaschii,0,4CZB,A,"Na+/H+ antiporter 1, inward-open conformation",Sodium-proton antiporter 1,3.5,3.5,426.0,415,20.422,16.192,12.445,0,400–550,0.769
+C_transporter,P35610,Homo sapiens,1,6L47,A,Sterol O-acyltransferase 1,Membrane-bound O-acyltransferase,3.5 EM,3.5,485.0,416,23.719,18.951,14.263,0,400–550,0.753
+C_transporter,Q8IVW8,Homo sapiens,1,8EX4,A,"Sphingosine-1-phosphate transporter SPNS2, inward-facing open (state 1)",Spinster protein family,2.93 EM,2.93,451.0,417,21.126,15.097,14.779,0,400–550,0.979
+C_transporter,P02920,Escherichia coli,0,2CFQ,A,"Lactose permease LacY, structure 1",LacY-like proton/sugar symporter,2.95,2.95,417.0,417,21.489,16.197,14.122,0,400–550,0.872
+C_transporter,O59010,Pyrococcus horikoshii,0,6X15,A,"Proton glutamate symport protein, inward-facing state 8",Proton glutamate symport protein,3.05 EM,3.05,422.0,418,21.727,16.813,13.762,0,400–550,0.819
+C_transporter,P31602,Klebsiella pneumoniae,0,5XAT,A,"Citrate-sodium symporter CitS, structure 2",2-Hydroxycarboxylate transporter,3.76,3.76,438.0,418,21.037,17.703,11.365,0,400–550,0.642
+C_transporter,Q9UZ55,Pyrococcus abyssi GE5,0,4CZ9,A,"Na+/H+ antiporter, structure 2",Sodium-proton antiporter 1,3.5,3.5,422.0,419,21.026,16.861,12.562,0,400–550,0.745
+C_transporter,A4IJK8,Geobacillus thermodenitrificans NG80-2,0,6ITC,Y,"SecA-SecY complex, structure 2",Protein translocase,3.45 EM,3.45,424.0,420,24.314,16.972,17.411,0,400–550,1.026
+C_transporter,Q8ZRY4,Salmonella enterica subsp. enterica serovar Typhimurium,0,6IWW,A,Oxaloacetate decarboxylase sodium pump,Na+-transporting carboxylic acid decarboxylase,3.9 EM,3.9,433.0,420,22.67,17.116,14.866,0,400–550,0.869
+C_transporter,A0A0H2VG78,Staphylococcus epidermidis ATCC 12228,0,4LDS,A,"Bicyclomycin resistance protein TcaB, inward-facing conformation",Sugar porter family,3.2,3.2,446.0,421,21.414,15.09,15.193,0,400–550,1.007
+C_transporter,G4CRQ5,Neisseria wadsworthii 9715,0,5L2A,A,"Concentrative nucleoside transporter, outward-facing state",Concentrative nucleoside transporter,3.45,3.45,431.0,422,21.31,16.477,13.514,0,400–550,0.82
+C_transporter,Q5SHQ8,Thermus thermophilus HB8,0,5AWW,Y,"Protein translocase SecY, resting state",Protein translocase,2.72,2.72,444.0,424,24.217,16.466,17.758,0,400–550,1.078
+C_transporter,P60063,Escherichia coli O157:H7,0,3L1L,A,"Arginine/agmatine transporter (AdiC),  substrate-bound",Amino acid-Polyamine-Organocation (APC) family,3.0,3.0,445.0,424,21.029,16.098,13.531,0,400–550,0.841
+C_transporter,P37758,Escherichia coli K-12,0,4IU9,B,Nitrite exporter NarU,Nitrate/nitrite porter,3.01,3.01,468.0,424,21.537,14.834,15.615,0,400–550,1.053
+C_transporter,Q9NRA2,Homo sapiens,1,8DWI,A,Sialin,Anion-cation symporter,3.4 EM ,3.4,495.0,424,21.442,15.256,15.066,0,400–550,0.988
+C_transporter,P73745,Synechocystis sp. PCC 6803,0,3ND0,A,ClC chloride transporter,Chloride transporter,3.2,3.2,466.0,425,20.628,17.086,11.558,0,400–550,0.676
+C_transporter,Q9X1H2,Thermotoga maritima MSB8,0,6Y86,A,YidC insertase,OxaA/YidC,3.4,3.4,425.0,425,29.234,14.558,25.352,0,400–550,1.741
+C_transporter,P43004,Homo sapiens,1,7XR4,A,Excitatory amino acid transporter 2 (SLC1A2) with glutamate,Proton glutamate symport protein,3.4 EM,3.4,574.0,425,22.58,17.467,14.31,0,400–550,0.819
+C_transporter,Q14728,Homo sapiens,1,6S4M,A,Organic anion transporter (MFSD10),Drug/proton antiporter,2.4,2.4,451.0,426,20.724,15.223,14.061,0,400–550,0.924
+C_transporter,P43003,Homo sapiens,1,7NPW,A,Excitatory amino acid transporter 1,Proton glutamate symport protein,3.99 EM,3.99,469.0,426,23.107,17.839,14.687,0,400–550,0.823
+C_transporter,Q5JID0,Thermococcus kodakarensis,0,5E9S,A,"Proton/glutamate symporter, Asp-bound, structure 1",Proton glutamate symport protein,2.8,2.8,438.0,427,22.26,16.206,15.26,0,400–550,0.942
+C_transporter,P0A2F8,Salmonella enterica,0,5A1S,C,Citrate-sodium symporter,2-Hydroxycarboxylate transporter,2.5,2.5,448.0,428,21.558,18.31,11.379,0,400–550,0.621
+C_transporter,A0A1U7U6F1,Carlito syrichta,0,6VYH,A,"Ferroportin (SLC40A1) with Fab, structure 2",Ferroportin,3.00 EM,3.0,577.0,428,21.832,16.78,13.966,0,400–550,0.832
+C_transporter,Q6LX42,Methanococcus maripaludis S2,0,6CSE,C,Sodium/alanine symporter AgcS,Alanine:cation symporter,3.24,3.24,453.0,428,20.353,15.427,13.276,0,400–550,0.861
+C_transporter,P43007,Homo sapiens,1,7P4I,A,"Neutral amino acid transporter A, SLC1A4",Proton glutamate symport protein,4.2 EM,4.2,532.0,428,24.392,18.749,15.602,0,400–550,0.832
+C_transporter,A0A1N6G365,Carnobacterium sp. AT7,0,6F2G,A,L amino acid transporter,Amino acid permease,2.92,2.92,444.0,430,21.018,16.271,13.306,0,400–550,0.818
+C_transporter,Q8ZRP8,Salmonella enterica subsp. enterica serovar Typhimurium,0,1KPL,A,ClC chloride transporter,Chloride transporter,3.0,3.0,473.0,430,20.748,17.053,11.819,0,400–550,0.693
+C_transporter,Q0P7K3,Escherichia coli,0,4Z3N,A,Multidrug transporter MatE,Multi antimicrobial extrusion (MATE) family,2.7,2.7,499.0,431,22.185,16.471,14.862,0,400–550,0.902
+C_transporter,P08194,Escherichia coli,0,1PW4,A,Glycerol-3-phosphate transporter glpT,Glycerol-3-phosphate transporter,3.3,3.3,451.0,431,22.737,16.632,15.502,0,400–550,0.932
+C_transporter,Q9H237,Homo sapiens,1,7URD,A,Protein-serine O-palmitoleoyltransferase with LGK974 and WNT3A peptide,Membrane-bound O-acyltransferase,2.92 EM,2.92,464.0,432,22.86,19.685,11.622,0,400–550,0.59
+C_transporter,F1NJ67,Gallus gallus,0,7BC6,A,"Proton coupled folate transporter, outward open",Proton coupled folate transporter,3.2 EM,3.2,480.0,432,21.459,14.974,15.371,0,400–550,1.027
+C_transporter,Q58026,Methanocaldococcus jannaschii,0,3GIA,A,"Amino acid transporter ApcT, inward-facing conformation",Amino acid-Polyamine-Organocation (APC) family,2.32,2.32,444.0,433,20.314,15.279,13.387,0,400–550,0.876
+C_transporter,P43005,Homo sapiens,1,8CV2,A,"Excitatory amino acid transporter 3, outward facing state",Proton glutamate symport protein,2.44 EM,2.44,526.0,433,22.205,16.422,14.946,0,400–550,0.91
+C_transporter,G4TS85,Serendipita indica,0,7SP5,A,"Phosphate transporter, inward-facing occluded state",Sugar porter family,2.9,2.9,530.0,433,21.695,15.975,14.679,0,400–550,0.919
+C_transporter,P60061,Escherichia coli O157:H7,0,7O82,A,Arginine/agmatine transporter (AdiC),Amino acid-Polyamine-Organocation (APC) family,1.69,1.69,453.0,437,21.481,16.453,13.81,0,400–550,0.839
+C_transporter,P58353,Bos taurus,0,4YB9,D,"Glucose transporter GLUT5, inward-open",Sugar porter family,3.2,3.2,479.0,437,22.233,15.452,15.985,0,400–550,1.035
+C_transporter,P75742,Escherichia coli K-12,0,4Q65,A,Dipeptide permease D,Proton-dependent oligopeptide transporter (POT),3.4,3.4,493.0,437,21.37,16.894,13.086,0,400–550,0.775
+C_transporter,K3YRE7,Setaria italica,0,8ONT,A,"NRAMP related aluminium transporter, with nanobody",Divalent metal ion transporter (NRAMP),3.66 EM,3.66,552.0,438,21.379,16.318,13.812,0,400–550,0.846
+C_transporter,Q9KDT3,Halalkalibacterium halodurans C-125,0,4US3,A,"MhsT transporter, occluded inward-facing state",Neurotransmitter: sodium symporter,2.1,2.1,455.0,441,20.815,15.847,13.496,0,400–550,0.852
+C_transporter,P32915,Saccharomyces cerevisiae S288C,0,7KAH,A,Sec complex without Sec62,Protein translocase,3.1 EM,3.1,480.0,441,25.403,18.894,16.98,0,400–550,0.899
+C_transporter,A0A6P3HVI0,Bison bison,0,7P1I,B,Sodium proton exchanger NHA2,Sodium-proton antiporter 1,3.15 EM,3.15,535.0,442,23.35,19.578,12.724,0,400–550,0.65
+C_transporter,Q60175,Escherichia coli,0,3BO0,A,"Protein translocase SecY, complex with ribosome 2",Protein translocase,9.6 EM,9.6,442.0,442,24.195,15.977,18.17,0,400–550,1.137
+C_transporter,P0AGA2,Escherichia coli,0,5MG3,Y,Holo-translocon,Protein translocase,14.0 EM,14.0,458.0,443,23.01,16.073,16.465,0,400–550,1.024
+C_transporter,O66528,Aquifex aeolicus VF5,0,6Z70,A,"Aq128 transporter, outward-facing state",Multi antimicrobial extrusion (MATE) family,2,2.0,496.0,444,21.858,16.074,14.813,0,400–550,0.922
+C_transporter,P10903,Escherichia coli str. K-12 substr. MG1655,0,4U4T,A,"Nitrate/nitrite exchanger NarK, inward-open state",Nitrate/nitrite porter,2.4,2.4,475.0,444,22.141,15.004,16.283,0,400–550,1.085
+C_transporter,P37019,Escherichia coli,0,1OTS,A,ClC chloride transporter,Chloride transporter,2.51,2.51,465.0,444,21.308,17.492,12.169,0,400–550,0.696
+C_transporter,Q9KNE0,Vibrio cholerae O1 biovar El Tor str. N16961,0,5ULD,A,Sodium-dependent dicarboxylate transporter,Divalent anion:Na+ symporter (DASS) family,2.78,2.78,445.0,445,22.52,17.261,14.465,0,400–550,0.838
+C_transporter,Q9KAX3,Halalkalibacterium halodurans C-125,0,4LZ6,A,MATE multidrug transporter DinF-BH,Multi antimicrobial extrusion (MATE) family,3.2,3.2,446.0,446,21.771,15.616,15.169,0,400–550,0.971
+C_transporter,Q15758,Homo sapiens,1,6MP6,A,"Excitatory amino acid transporter 1, structure 5",Proton glutamate symport protein,3.54 EM,3.54,541.0,446,22.73,16.816,15.293,0,400–550,0.909
+C_transporter,P11166,Homo sapiens,1,5EQG,A,Glucose transporter GLUT1,Sugar porter family,2.9,2.9,492.0,447,22.446,15.483,16.25,1,400–550,1.05
+C_transporter,Q9C994,Arabidopsis thaliana,0,5Y50,A,MATE protein 14,Multi antimicrobial extrusion (MATE) family,2.6,2.6,461.0,448,21.267,14.842,15.233,0,400–550,1.026
+C_transporter,A0A2D0TCI5,Camelina sativa,0,5XJJ,A,Multidrug and toxic compound extrusion transporter,Multi antimicrobial extrusion (MATE) family,2.9,2.9,455.0,448,21.705,15.451,15.244,0,400–550,0.987
+C_transporter,A0A8V0ZN91,Gallus gallus,0,7F40,A,"Lysophospholipid acyltransferase LPCAT3, with Arachidonoyl-CoA",Membrane-bound O-acyltransferase,3.49 EM,3.49,501.0,449,24.002,20.318,12.778,0,400–550,0.629
+C_transporter,Q59UP8,Candida albicans,0,5AF1,A,"Ammonium transporter MEP2, structure 1",Ammonia transporter Amt,1.64,1.64,451.0,450,21.702,14.768,15.902,0,400–550,1.077
+C_transporter,Q47WB4,Colwellia psychrerythraea,0,7TAK,A,NAT transporter,Nucleobase:Cation Symporter-2,2.80   ,2.8,471.0,451,21.663,17.409,12.892,0,400–550,0.741
+C_transporter,Q8NA29,Homo sapiens,1,7OIX,B,Lysophosphatidylcholine symporter 1 (MFSD2A) with Sync2,MFS lipid transporter,3.6 EM,3.6,530.0,451,22.44,15.106,16.595,0,400–550,1.099
+C_transporter,P43427,Rattus norvegicus,0,4YBQ,A,"Glucose transporter GLUT5, outward-open",Sugar porter family,3.27,3.27,508.0,452,21.929,15.432,15.579,0,400–550,1.01
+C_transporter,Q9JI12,Rattus norvegicus,0,7T3O,A,"Vesicular glutamate transporter 2, low Cl condition",Glycerol-3-phosphate transporter,3.3 EM ,3.3,582.0,452,23.142,15.747,16.958,0,400–550,1.077
+C_transporter,P30878,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,7L17,A,"Na+/melibiose symporter MelB, structure 1",Glycoside-pentoside-hexuronide:cation symporter,3.05,3.05,485.0,453,21.897,15.454,15.512,0,400–550,1.004
+C_transporter,A0A066R7V5,Escherichia coli,0,3WDO,A,Transporter YajR ,Drug/proton antiporter,3.15,3.15,453.0,453,23.536,15.345,17.846,0,400–550,1.163
+C_transporter,Q8U2X0,Pyrococcus furiosus DSM 3638,0,6HFB,A,"H+-driven MATE exporter, outward-facing conformation",Multi antimicrobial extrusion (MATE) family,3.49,3.49,485.0,453,21.997,15.802,15.303,0,400–550,0.968
+C_transporter,A0ACI6QX61,Ovis aries,0,7NF8,B,B(0)AT-rBAT hetero-tetramer,Amino acid permease,2.83 EM,2.83,515.0,455,22.195,17.536,13.605,0,400–550,0.776
+C_transporter,Q5L1G5,Geobacillus kaustophilus HTA426,0,5OQT,A,"Amino acid transporter, inward-occluded conformation, with YneM from E.coli",Amino acid-Polyamine-Organocation (APC) family,2.86,2.86,471.0,456,21.503,15.995,14.371,0,400–550,0.898
+C_transporter,P41948,Saccharomyces cerevisiae,0,5AEX,A,Ammonium transporter MEP2,Ammonia transporter Amt,3.2,3.2,505.0,456,21.697,14.809,15.857,0,400–550,1.071
+C_transporter,Q9KRU4,Vibrio cholerae RC385,0,7PHP,A,Multidrug transporter NorM,Multi antimicrobial extrusion (MATE) family,3.47 EM,3.47,484.0,456,22.816,16.462,15.798,0,400–550,0.96
+C_transporter,Q9UHI5,Homo sapiens,1,7B00,A,LAT2-4F2hc in the apo-state,Amino acid permease,3.98 EM,3.98,535.0,457,22.845,18.113,13.922,0,400–550,0.769
+C_transporter,P61619,Homo sapiens,1,8DO1,A,"Sec61 complex, inhibited by ipomoeassin F",Protein translocase,3.01 EM,3.01,476.0,458,24.244,17.464,16.815,0,400–550,0.963
+C_transporter,F1NCD6,Gallus gallus,0,7MJS,X,MFSD2A lipid transporter,MFS lipid transporter,3.03 EM,3.03,546.0,458,22.718,15.114,16.961,0,400–550,1.122
+C_transporter,Q5F9J8,Neisseria gonorrhoeae FA 1090,0,5C6P,A,"Na+/drug antiporter NorM, outward-open, structure 2",Multi antimicrobial extrusion (MATE) family,3.0,3.0,459.0,459,22.654,16.574,15.444,0,400–550,0.932
+C_transporter,Q86UD5,Homo sapiens,1,7B4M,A,Sodium proton exchanger NHA2,Sodium-proton antiporter 1,7.2 EM,7.2,537.0,459,23.457,19.11,13.604,0,400–550,0.712
+C_transporter,Q5M4H8,Streptococcus thermophilus LMG 18311,0,5OXP,A,"Di-or tripeptide:H+ symporter, occluded conformation",Proton-dependent oligopeptide transporter (POT),2.37,2.37,490.0,462,22.172,17.247,13.933,0,400–550,0.808
+C_transporter,Q8EHE6,Shewanella oneidensis MR-1,0,6JKC,A,"Bacterial proton:oligopeptide symporter, structure 5",Proton-dependent oligopeptide transporter (POT),3.5,3.5,527.0,462,22.108,17.091,14.025,0,400–550,0.821
+C_transporter,Q0C3L7,Hyphomonas neptunium ATCC 15444,0,6E9C,A,Bacterial homolog of protein Spinster,Spinster protein family,3.2,3.2,508.0,464,23.612,16.24,17.14,0,400–550,1.055
+C_transporter,P14672,Homo sapiens,1,7WSM,A,GLUT4 glucose transporter with cytochalasin B,Sugar porter family,3.25 EM,3.25,520.0,464,22.995,15.668,16.831,0,400–550,1.074
+C_transporter,D6R8X8,Microbacterium maritypicum,0,2X79,A,"Sodium-hydantoin transporter Mhp1, inward-facing conformation",Nucleobase-cation symporter 1,3.8,3.8,501.0,465,22.772,17.141,14.991,0,400–550,0.875
+C_transporter,B4EZY7,Proteus mirabilis HI4320,0,5NV9,A,"Sialic acid symporter, outward-open state",Solute:sodium symporter,1.95,1.95,496.0,467,22.38,17.726,13.663,0,400–550,0.771
+C_transporter,Q9NP59,Homo sapiens,1,8DL7,A,"Ferroportin, with minihepcidin PR73",Ferroportin,2.7 EM ,2.7,577.0,467,23.517,18.073,15.047,0,400–550,0.833
+C_transporter,P77304,Escherichia coli K-12,0,6GS4,A,"Dipeptide and tripeptide permease A, DtpA",Proton-dependent oligopeptide transporter (POT),2.64,2.64,508.0,468,21.897,17.017,13.779,0,400–550,0.81
+C_transporter,Q86YT5,Homo sapiens,1,7JSK,A,NaCT citrate transporter (SLC13A5) with citrate,Divalent anion:Na+ symporter (DASS) family,3.04 EM,3.04,568.0,468,23.073,17.473,15.067,0,400–550,0.862
+C_transporter,P11169,Homo sapiens,1,7CRZ,A,GLUT3 transporter with C3361,Sugar porter family,2.3,2.3,518.0,469,22.395,14.994,16.635,0,400–550,1.109
+C_transporter,P39276,Escherichia coli,0,7ZC2,A,Dipeptide and tripeptide Permease C (DtpC),Proton-dependent oligopeptide transporter (POT),2.72 EM,2.72,485.0,471,22.646,17.771,14.036,0,400–550,0.79
+C_transporter,P08195,Homo sapiens,1,7DSK,A,LAT1-4F2hc with JX-075,Amino acid permease,2.9 EM,2.9,647.0,471,30.038,22.225,20.207,0,400–550,0.909
+C_transporter,Q9DA75,Mus musculus,0,7N98,A,MFSD2A lipid transporter,MFS lipid transporter,3.5 EM,3.5,534.0,473,23.799,16.023,17.597,0,400–550,1.098
+C_transporter,B7IE18,Thermosipho africanus TCF52B,0,6NC9,A,"Lipid II flippase MurJ, outward facing conformation",Peptidoglycan biosynthesis protein MurJ,1.8,1.8,475.0,475,22.43,17.492,14.041,0,400–550,0.803
+C_transporter,P0AGF4,Escherichia coli K-12,0,4GC0,A,D-xylose-proton symporter xylE,Sugar porter family,2.6,2.6,491.0,475,22.398,14.948,16.679,0,400–550,1.116
+C_transporter,Q6DEJ6,Danio rerio,0,8D2S,A,MFSD2A isoform B in inward open ligand bound conformation,MFS lipid transporter,2.9 EM ,2.9,508.0,475,23.366,15.275,17.682,0,400–550,1.158
+C_transporter,O97467,Plasmodium falciparum,0,6M20,A,"Hexose transporter 1, structure 2",Sugar porter family,2.6,2.6,504.0,476,22.677,14.606,17.347,0,400–550,1.188
+C_transporter,Q39232,Arabidopsis thaliana,0,8BB6,A,Sucrose transporter SUC1,"Sucrose/H+ symporter, plant",2.68   ,2.68,519.0,476,22.957,16.1,16.364,0,400–550,1.016
+C_transporter,Q0VR69,Alcanivorax borkumensis SK2,0,4R0C,A, YdaH transporter,p-Aminobenzoyl-glutamate transporter,2.96,2.96,492.0,476,23.577,18.262,14.913,0,400–550,0.817
+C_transporter,A3KDM5,Nicotiana tabacum,0,7DQK,A,Nicotine MATE transporter,Multi antimicrobial extrusion (MATE) family,3.5,3.5,510.0,476,22.708,16.365,15.743,0,400–550,0.962
+C_transporter,A0A1C7D1B8,Saccharomyces mikatae,0,5SV9,A,"Boron transporter 1, inward-facing conformation",Anion exchanger family,5.9 EM,5.9,476.0,476,22.2,17.394,13.794,0,400–550,0.793
+C_transporter,P38377,Canis lupus familiaris,0,2WWB,A,"Protein translocase Sec61, complex with ribosome",Protein translocase,6.48 EM,6.48,476.0,476,24.495,17.576,17.061,0,400–550,0.971
+C_transporter,Q9Y6R1,Homo sapiens,1,6CAA,A,"Electrogenic sodium bicarbonate cotransporter 1, SLC4A4",Anion exchanger family,3.9 EM,3.9,1035.0,477,24.018,18.396,15.442,0,400–550,0.839
+C_transporter,Q07307,Aspergillus nidulans FGSC A4,0,5I6C,A,Uric acid-xanthine permease,Nucleobase:Cation Symporter-2,3.7,3.7,574.0,480,21.919,16.905,13.952,0,400–550,0.825
+C_transporter,A0A2R9TD79,Yersinia enterocolitica subsp. palearctica YE-P4,0,4W6V,A,Di- or tripeptide transporter,Proton-dependent oligopeptide transporter (POT),3.02,3.02,519.0,483,22.571,17.279,14.522,0,400–550,0.84
+C_transporter,P25714,Escherichia coli,0,6AL2,A,"Membrane protein insertase YidC, structure 1",OxaA/YidC,2.8,2.8,551.0,484,29.412,14.995,25.303,0,400–550,1.687
+C_transporter,S7V493,Toxoplasma gondii GT1,0,6TMK,A,"ATP synthase, full dimer, curved structure",V-type and F-type ATPases,2.9 EM,2.9,536.0,484,60.815,36.175,48.887,0,400–550,1.351
+C_transporter,Q9LT15,Arabidopsis thaliana,0,7AAQ,A,"Sugar transporter 10, outward occluded state",Sugar porter family,1.81,1.81,514.0,487,22.543,14.365,17.373,0,400–550,1.209
+C_transporter,A0A8X8GS28,Staphylococcus hominis,0,6EXS,A,Peptide ABC transporter permease,Proton-dependent oligopeptide transporter (POT),2.5,2.5,487.0,487,22.429,17.139,14.467,0,400–550,0.844
+C_transporter,Q5FKK5,Lactobacillus acidophilus,0,6WTW,A,Sodium-dependent dicarboxylate transporter ,Divalent anion:Na+ symporter (DASS) family,2.86,2.86,491.0,489,22.961,17.721,14.6,0,400–550,0.824
+C_transporter,P38353,Saccharomyces cerevisiae,0,2WW9,A,"Protein translocase Sec61, complex with ribosome, active state",Protein translocase,8.6 EM,8.6,490.0,490,25.256,17.792,17.926,0,400–550,1.008
+C_transporter,Q5VTY9,Homo sapiens,1,7MHY,A,Hedgehog acyltransferase with palmitoyl-CoA,Membrane-bound O-acyltransferase,2.7 EM,2.7,493.0,491,24.275,20.621,12.809,0,400–550,0.621
+C_transporter,Q5KYD1,Geobacillus kaustophilus,0,4IKV,A,"Proton-dependent oligopeptide transporter, conformation 1",Proton-dependent oligopeptide transporter (POT),1.9,1.9,507.0,492,22.83,17.692,14.43,0,400–550,0.816
+C_transporter,P02916,Escherichia coli K-12,0,4JBW,F,"Maltose transporter MalFGK, complex with protein EIIAglc",Binding-protein-dependent transport system,3.91,3.91,514.0,492,32.311,24.303,21.292,0,400–550,0.876
+C_transporter,P63235,Escherichia coli K-12,0,4DJI,A,Glutamate/gamma-aminobutyrate antiporter,Amino acid-Polyamine-Organocation (APC) family,3.19,3.19,511.0,493,21.72,16.223,14.442,0,400–550,0.89
+C_transporter,E4KPW4,Eremococcus coleocola ACS-139-V-Col8,0,5M87,A,Divalent metal cation transporter MntH,Divalent metal ion transporter (NRAMP),3.3,3.3,519.0,494,22.076,16.191,15.007,0,400–550,0.927
+C_transporter,O75751,Homo sapiens,1,7ZH0,A,Organic cation transporter-3 (SLC22A3),Sugar porter family,3.2 EM,3.2,556.0,495,25.816,15.028,20.991,0,400–550,1.397
+C_transporter,P31553,Escherichia coli,0,2WSX,A,"L-carnitine/gamma-butyrobetaine antiporter CaiT, open inward-facing conformation",Betaine/carnitine/choline transporters,3.5,3.5,504.0,496,21.995,16.898,14.079,0,400–550,0.833
+C_transporter,Q8N695,Homo sapiens,1,7SL9,A,Sodium/glucose cotransporter 1 (SLC5A1),Solute:sodium symporter,3.5 EM,3.5,619.0,497,22.637,17.395,14.487,1,400–550,0.833
+C_transporter,Q9XSW5,Bos taurus,0,8E34,B,"Anion exchanger 1, SLC4A1",Anion exchanger family,6 EM   ,6.0,930.0,497,23.583,18.32,14.851,0,400–550,0.811
+C_transporter,Q63008,Rattus norvegicus,0,7UUY,A,Sodium/iodide symporter,Solute:sodium symporter,3.3 EM ,3.3,694.0,503,22.715,17.428,14.567,0,400–550,0.836
+C_transporter,Q8EKT7,Shewanella oneidensis MR-1,0,4UVM,A,"Glutathione uptake transporter, structure 2",Proton-dependent oligopeptide transporter (POT),3.0,3.0,524.0,505,23.322,18.208,14.573,0,400–550,0.8
+C_transporter,Q9Z2J0,Mus musculus,0,7YTW,A,"Sodium-dependent vitamin C transporter 1 SLC23A1, with ascorbic acid",Nucleobase:Cation Symporter-2,3.2 EM ,3.2,605.0,507,22.235,17.095,14.217,0,400–550,0.832
+C_transporter,Q9RNX2,Neisseria gonorrhoeae FA19,0,4R1I,A,Antibiotic resistance efflux pump MtrF,p-Aminobenzoyl-glutamate transporter,3.96,3.96,522.0,507,24.401,18.079,16.389,0,400–550,0.907
+C_transporter,B4EY22,Proteus mirabilis,0,2WSW,A,"L-carnitine/gamma-butyrobetaine antiporter CaiT, open inward-facing conformation",Betaine/carnitine/choline transporters,2.29,2.29,509.0,508,22.533,17.206,14.55,0,400–550,0.846
+C_transporter,O67854,Aquifex aeolicus VF5,0,2A65,A,"Leucine transporter LeuT, outward-facing substrate-bound conformation",Neurotransmitter: sodium symporter,1.65,1.65,519.0,509,22.095,16.445,14.757,0,400–550,0.897
+C_transporter,P19634,Homo sapiens,1,7DSX,B,"Sodium/proton exchanger 1 (SLC9A1)-CHP1 complex, pH 7.5",Sodium-proton antiporter 1,3.5 EM,3.5,509.0,509,24.485,18.953,15.502,0,400–550,0.818
+C_transporter,A0A979HMS2,Candidatus Arsenophonus nilaparvatae,0,7WAX,A,"Lipid II flippase MurJ, inward occluded form",Peptidoglycan biosynthesis protein MurJ,2.35,2.35,511.0,510,23.167,18.017,14.563,0,400–550,0.808
+C_transporter,Q8PAS2,Xanthomonas campestris,0,6EI3,A,Peptide transporter,Proton-dependent oligopeptide transporter (POT),2.1,2.1,514.0,511,22.985,17.769,14.58,0,400–550,0.821
+C_transporter,Q05085,Arabidopsis thaliana,0,4OH3,A,"Nitrate transporter NRT1/ PTR, dimer",Proton-dependent oligopeptide transporter (POT),3.25,3.25,599.0,512,24.108,16.972,17.122,0,400–550,1.009
+C_transporter,Q9HAS3,Homo sapiens,1,6KSW,C,Concentrative nucleoside transporter CNT3 (SLC28A3),Concentrative nucleoside transporter,3.6 EM,3.6,632.0,513,23.892,19.943,13.158,0,400–550,0.66
+C_transporter,O15244,Homo sapiens,1,8ET9,A,"Organic cation transporter 2, with 1-methyl-4-phenylpyridinium",Sugar porter family,3.61 EM,3.61,555.0,517,27.003,14.111,23.023,0,400–550,1.632
+C_transporter,P0AF16,Escherichia coli K-12,0,7WAG,A,"Lipid II flippase MurJ, squeezed form",Peptidoglycan biosynthesis protein MurJ,2.55,2.55,522.0,522,22.837,17.324,14.879,0,400–550,0.859
+C_transporter,P23978,Rattus norvegicus,0,8GNK,A,"GABA transporter 1, cytosol-facing, substrate-bound",Neurotransmitter: sodium symporter,3.1 EM ,3.1,562.0,525,23.415,17.536,15.517,0,400–550,0.885
+C_transporter,P54582,Corynebacterium glutamicum,0,4C7R,A,"Glycine betaine transporter BetP, inward-facing conformation",Betaine/carnitine/choline transporters,2.7,2.7,566.0,531,25.782,19.7,16.632,0,400–550,0.844
+C_transporter,P30531,Homo sapiens,1,7Y7V,A,"GABA transporter 1, apo, an inward-open state",Neurotransmitter: sodium symporter,2.2 EM ,2.2,632.0,532,23.406,17.57,15.463,0,400–550,0.88
+C_transporter,O15245,Homo sapiens,1,8ET8,A,"Organic cation transporter 1, with verapamil",Sugar porter family,3.45 EM,3.45,554.0,532,27.586,14.664,23.366,0,400–550,1.593
+C_transporter,Q7K4Y6,Drosophila melanogaster,0,6M2R,A,"Dopamine transporter, L-norepinephrined bound",Neurotransmitter: sodium symporter,2.802,2.802,536.0,536,23.359,17.251,15.75,0,400–550,0.913
+C_transporter,Q9WVL3,Mus musculus,0,6UKN,A,Potassium-chloride cotransporter KCC4 (SLC12A7),Cation-chloride cotransporter,3.65 EM,3.65,1092.0,536,25.389,15.599,20.032,0,400–550,1.284
+C_transporter,P96169,Vibrio parahaemolyticus,0,2XQ2,A,"Sodium/sugar symporter vSGLT, substrate-free",Solute:sodium symporter,2.73,2.73,593.0,538,23.041,17.988,14.399,0,400–550,0.8
+C_transporter,P48067,Homo sapiens,0,6ZBV,A,"Glycine transporter 1,inward-open",Neurotransmitter: sodium symporter,3.4,3.4,577.0,539,23.754,17.362,16.212,0,400–550,0.934
+C_transporter,O67184,Aquifex aeolicus VF5,0,5L22,B,Type-1 secretion system ABC transporter (HlyB-like),Lipid exporter family,3.15,3.15,572.0,540,34.876,14.724,31.615,0,400–550,2.147
+C_transporter,P48764,Homo sapiens,1,7X2U,A,"Sodium/hydrogen exchanger 3, with CHP1, autoinhibited state",Sodium-proton antiporter 1,3.2 EM,3.2,626.0,541,24.807,17.862,17.215,0,400–550,0.964
+C_transporter,Q9UP95,Homo sapiens,1,7TTI,A,"Potassium chloride transporter SLC12A4, outward-open state",Cation-chloride cotransporter,3.5 EM,3.5,1085.0,542,25.937,14.785,21.311,0,400–550,1.441
+C_transporter,P31645,Homo sapiens,1,5I6X,A,"Serotonin transporter, outward-facing, structure 1",Neurotransmitter: sodium symporter,3.14,3.14,549.0,544,23.721,17.081,16.46,0,400–550,0.964
+C_transporter,A0A0V8ETW8,Lactococcus lactis subsp. lactis,0,7AHD,A,"OpuA transporter, structure 2",Binding-protein-dependent transport system,3.40 EM,3.4,585.0,547,26.941,17.743,20.273,0,400–550,1.143
+C_transporter,P45844,Homo sapiens,1,7R8E,A,"ABCG1 transporter, with ATP",ABC transporter G family,3.7 EM,3.7,666.0,548,31.522,14.917,27.768,0,400–550,1.861
+C_transporter,O75027,Homo sapiens,1,7VGF,A,"Iron-sulfur clusters transporter ABCB7, AMP-PNP bound",Heavy metal transporter family (ABCB),3.3 EM,3.3,697.0,550,37.286,20.09,31.41,0,550–700,1.563
+C_transporter,P03959,Escherichia coli,0,5MRW,A,"KdpFABC complex, structure 1",KdpA ATPase,2.9,2.9,557.0,557,22.918,16.498,15.907,0,550–700,0.964
+C_transporter,Q837P5,Enterococcus faecalis,0,7OCY,A,"EfrCD transporter, with a nanobody",Drug exporter-4 family,4.25 EM,4.25,571.0,557,36.009,16.295,32.111,0,550–700,1.971
+C_transporter,A0A100XEC2,Mycolicibacterium thermoresistibile,0,6TEJ,A,ABC exporter IrtAB,Siderophore-Fe3+ uptake transporters,2.7,2.7,908.0,561,36.159,18.383,31.138,0,550–700,1.694
+C_transporter,Q03518,Homo sapiens,1,5U1D,A,Antigen peptide transporter 1 (TAP1),Tap-like ABC transporter,3.97 EM,3.97,748.0,561,37.726,21.151,31.239,0,550–700,1.477
+C_transporter,Q9NUT2,Homo sapiens,1,7EHL,A,ABCB8 transporter in nucleotide binding state,Multidrug resistance exporter (MDR),4.1 EM,4.1,678.0,563,37.914,20.461,31.918,0,550–700,1.56
+C_transporter,O86150,Campylobacter jejuni,0,5C78,A,"Oligosaccharide flippase PglK, inward-open, structure 1",Lipid exporter family,2.9,2.9,564.0,564,38.692,24.022,30.331,0,550–700,1.263
+C_transporter,Q0P9C4,Campylobacter jejuni,0,5NBD,A,"Oligosaccharide flippase PglK, inward-open, structure 3",Lipid exporter family,3.9,3.9,564.0,564,36.248,18.59,31.118,0,550–700,1.674
+C_transporter,A0A0B9X4I2,Acinetobacter baumannii,0,7MET,A,MsbA with TBT1 decoupler,Lipid exporter family,3.97 EM,3.97,607.0,564,32.892,18.541,27.169,0,550–700,1.465
+C_transporter,O14678,Homo sapiens,1,6JBJ,A,Cobalamin exporter ABCD4,ABC transporter D familiy (ABCD),3.6 EM,3.6,648.0,565,34.311,15.839,30.436,0,550–700,1.922
+C_transporter,Q2YQ73,Brucella abortus 2308,0,7ZO8,A,CGT ABC cyclic glucan transporter in nanodisc apo state,Multidrug resistance exporter (MDR),3.6 EM ,3.6,599.0,570,36.622,19.542,30.972,0,550–700,1.585
+C_transporter,Q9X2W0,Escherichia coli,0,4PL0,A,"Antibacterial peptide transporter McjD, outward occluded state",Lipid exporter family,2.7,2.7,580.0,571,35.773,15.159,32.402,0,550–700,2.138
+C_transporter,Q1RAG2,Escherichia coli UTI89,0,6P6J,A,"Importer YbtPQ, structure 2",Siderophore-Fe3+ uptake transporters,3.4 EM,3.4,600.0,571,36.032,17.126,31.702,0,550–700,1.851
+C_transporter,Q6RVG2,Oryctolagus cuniculus,0,7RTM,A,Sodium bicarbonate exchanger 1 (SLC4A8),Anion exchanger family,3.4 EM,3.4,571.0,571,26.58,18.48,19.105,0,550–700,1.034
+C_transporter,Q9WYC3,Thermotoga maritima,0,3QF4,A,"ABC transporter, inward-facing conformation",Lipid exporter family,2.9,2.9,587.0,572,35.826,16.932,31.572,0,550–700,1.865
+C_transporter,Q9NRK6,Homo sapiens,1,4AYX,A,"Mitochondrial ABC transporter ABCB10, conformation 3",Lipid exporter family,2.9,2.9,595.0,572,36.982,18.747,31.878,0,550–700,1.7
+C_transporter,Q9JJ59,Mus musculus,0,7V5C,A,"ABCB9 transporter, ADP.BeF3-bound",Tap-like ABC transporter,3.2 EM,3.2,762.0,572,36.419,15.834,32.797,0,550–700,2.071
+C_transporter,Q9KQW9,Vibrio cholerae,0,3B5X,A,"Lipid flippase MsbA, closed state",Lipid exporter family,5.5,5.5,582.0,572,36.683,18.481,31.688,0,550–700,1.715
+C_transporter,P23886,Escherichia coli K-12,0,7ZDF,C,"Permease CydCD, IF(heme/confined) conformation in AMP-PNP bound state)",Multidrug resistance exporter (MDR),2.94 EM,2.94,573.0,573,35.589,19.504,29.768,0,550–700,1.526
+C_transporter,Q9NP91,Homo sapiens,1,7Y75,B,Amino acid transporter complex SIT1-ACE2-BA.2 RBD,Neurotransmitter: sodium symporter,3.1 EM ,3.1,613.0,573,26.389,16.38,20.689,0,550–700,1.263
+C_transporter,O07550,Bacillus subtilis subsp. subtilis str. 168,0,7M33,C,"BmrCD, inward-facing conformation bound to Hoechst-33342 and ATP",Lipid exporter family,3.55 EM,3.55,607.0,573,36.483,16.9,32.333,0,550–700,1.913
+C_transporter,P96589,Bacillus subtilis,0,6S3K,B,"KimA transporter, inward-facing, occluded state",K+ uptake permease (KUP) family,3.7 EM,3.7,607.0,573,31.549,20.39,24.075,0,550–700,1.181
+C_transporter,Q9FY46,Arabidopsis thaliana,0,7LHV,A,Sulfate transporter AtSULTR4,Sulfate permease,2.75 EM,2.75,685.0,575,30.978,24.77,18.603,0,550–700,0.751
+C_transporter,P63359,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,6BL6,A,Lipid flippase MsbA,Lipid exporter family,2.8,2.8,576.0,575,39.495,25.324,30.308,0,550–700,1.197
+C_transporter,Q8FJB1,Escherichia coli CFT073,0,6BPL,A,"Lipid A export permease MsbA, structure 2",Lipid exporter family,2.91,2.91,582.0,576,36.862,17.528,32.428,0,550–700,1.85
+C_transporter,P60752,Escherichia coli K-12,0,7PH3,A,"MsbA with nanobodies, AMP-PNP bound",Lipid exporter family,2.8 EM,2.8,593.0,577,35.593,15.014,32.271,0,550–700,2.149
+C_transporter,O06967,Bacillus subtilis subsp. subtilis str. 168,0,7OW8,A,"BmrA transporter, E504A, with ATP-Mg",Drug exporter-2,3.5 EM,3.5,596.0,577,35.86,15.855,32.165,0,550–700,2.029
+C_transporter,Q99T13,Staphylococcus aureus,0,2HYD,A,"Multidrug ABC transporter SAV1866, closed state",Lipid exporter family,3.0,3.0,578.0,578,36.347,15.83,32.719,0,550–700,2.067
+C_transporter,F1RAX4,Danio rerio,0,5SY1,A,"STRA6 receptor, with calmodulin",Vitamin A receptor/transporter,3.9 EM,3.9,670.0,582,32.652,24.145,21.982,0,550–700,0.91
+C_transporter,Q9UNQ0,Homo sapiens,1,6HBU,A,"ABC transporter ABCG2, structure 5",ABC transporter G family,3.09 EM,3.09,655.0,584,32.606,15.3,28.793,0,550–700,1.882
+C_transporter,P13866,Homo sapiens,1,7SLA,A,Sodium/glucose cotransporter 1 (SLC5A1),Solute:sodium symporter,3.15 EM,3.15,673.0,585,24.875,18.072,17.092,1,550–700,0.946
+C_transporter,P31639,Homo sapiens,1,7VSI,A,Sodium/glucose cotransporter 1 (SLC5A1)-MAP17,Solute:sodium symporter,2.95 EM,2.95,672.0,586,23.587,16.405,16.948,0,550–700,1.033
+C_transporter,G0SBE6,Thermochaetoides thermophila DSM 1495,0,7PR1,A,"CtAtm1 transporter, occluded conformation, ATP-bound",Heavy metal transporter family (ABCB),2.81 EM,2.81,700.0,587,35.751,15.268,32.327,0,550–700,2.117
+C_transporter,Q9H222,Homo sapiens,1,7R8B,A,"ABCG5/ABCG8, with cholesterol",ABC transporter G family,3.1 EM,3.1,666.0,588,31.554,15.327,27.581,0,550–700,1.8
+C_transporter,M1VAN7,Cyanidioschyzon merolae strain 10D,0,6A6M,A,"ATP-binding transporter CmABCB1, outward-open state",Lipid exporter family,1.9,1.9,612.0,589,36.037,15.407,32.577,0,550–700,2.114
+C_transporter,Q2G506,Novosphingobium aromaticivorans DSM 12444,0,6VQU,A,ATM1-type heavy metal exporter,Heavy metal transporter family (ABCB),3.88 EM,3.88,614.0,589,37.735,20.155,31.901,0,550–700,1.583
+C_transporter,Q72J05,Thermus thermophilus HB27,0,5MKK,A,"Transporter TmrAB, inward-facing, structure 1",Tap-like ABC transporter,2.7,2.7,611.0,593,37.237,17.452,32.894,0,550–700,1.885
+C_transporter,P50443,Homo sapiens,1,7XLM,A,Sulfate transporter SLC26A2,Sulfate permease,3.73 EM,3.73,801.0,595,32.256,25.125,20.228,0,550–700,0.805
+C_transporter,Q9NP58,Homo sapiens,1,8FWK,B,ABCB6 transporter,Heavy metal transporter family (ABCB),3.5 EM ,3.5,850.0,597,37.615,20.09,31.801,0,550–700,1.583
+C_transporter,P35523,Homo sapiens,1,6QVU,B," CLC-1 chloride channel, structure 5",Chloride transporter,4.2 EM,4.2,988.0,599,28.498,17.101,22.797,0,550–700,1.333
+C_transporter,P40416,Saccharomyces cerevisiae S288C,0,7PSL,A,Iron-sulfur clusters transporter ATM1,Heavy metal transporter family (ABCB),3.3 EM,3.3,607.0,600,37.683,19.418,32.295,0,550–700,1.663
+C_transporter,Q9LVM1,Arabidopsis thaliana,0,7N58,A,"Atm3 (ABCB25) transporter, inward-facing",Heavy metal transporter family (ABCB),3.4 EM,3.4,739.0,600,38.863,20.473,33.033,0,550–700,1.613
+C_transporter,Q695T7,Homo sapiens,1,6M18,A,Amino acid transporter B(0)AT1-ACE2 complex,Neurotransmitter: sodium symporter,2.9 EM,2.9,654.0,605,27.23,15.882,22.119,0,550–700,1.393
+C_transporter,Q3YW59,Shigella sonnei,0,4UMV,A,"Zinc-transporting ATPase, ZntA, E2P state",P-ATPase,3.2,3.2,732.0,605,32.628,15.791,28.553,0,550–700,1.808
+C_transporter,E1B792,Bos taurus,0,5TR1,A,"CLC-K chloride channel, structure 2",Chloride transporter,3.95 EM,3.95,671.0,606,28.657,18.637,21.768,0,550–700,1.168
+C_transporter,Q2EHL8,Aggregatibacter actinomycetemcomitans,0,5LIL,A,Macrolide export permease MacB,FtsX-like permease,3.35,3.35,664.0,615,45.78,14.306,43.487,0,550–700,3.04
+C_transporter,P44543,Haemophilus influenzae,0,7QE5,A,TRAP transporter HiSiaQM,TRAP transporter,4.7 EM,4.7,616.0,616,25.467,21.791,13.18,0,550–700,0.605
+C_transporter,Q8BU91,Mus musculus,0,6RTC,A,"Slc26a9 anion transporter, inward-facing state",Sulfate permease,3.96 EM,3.96,643.0,621,32.225,23.207,22.357,0,550–700,0.963
+C_transporter,P51788,Homo sapiens,1,7XF5,A,CLC-2 channel in apo state,Chloride transporter,3.9 EM ,3.9,898.0,622,29.716,18.285,23.424,0,550–700,1.281
+C_transporter,Q07837,Homo sapiens,1,6LI9,A,"Neutral and basic amino acid transporter, SLCA1",Amino acid permease,2.3 EM,2.3,699.0,623,30.159,21.795,20.846,0,550–700,0.956
+C_transporter,P75831,Escherichia coli K-12,0,5NIK,J,MacAB-TolC efflux pump,FtsX-like permease,3.3 EM,3.3,654.0,629,44.546,15.845,41.632,0,550–700,2.628
+C_transporter,A0A0D8G707,Acinetobacter baumannii,0,5GKO,A,Macrolide export permease MacB,FtsX-like permease,3.39,3.39,671.0,630,43.596,16.144,40.497,0,550–700,2.508
+C_transporter,P06972,Escherichia coli K-12,0,7LB8,B,Ferrichrome importer FhuCDB,FecCD transport family,3.4 EM,3.4,668.0,630,25.587,21.797,13.402,0,550–700,0.615
+C_transporter,P33897,Homo sapiens,1,7X0T,A,"Fatty acid transporter ABCD1, E630Q with C26:0-CoA and ATP",ABC transporter D familiy (ABCD),3.3 EM ,3.3,763.0,633,40.521,21.35,34.441,0,550–700,1.613
+C_transporter,P9WQI9,Mycobacterium tuberculosis,0,6TQF,A,"ABC transporter Rv1819c (yddA), structure 2",ABC transporter D familiy (ABCD),3.5 EM,3.5,647.0,634,38.131,15.818,34.695,0,550–700,2.193
+C_transporter,Q7LBE3,Homo sapiens,1,7CH1,A,Slc26a9 anion transporter,Sulfate permease,2.60 EM,2.6,791.0,640,32.534,24.282,21.652,0,550–700,0.892
+C_transporter,O34741,Bacillus subtilis subsp. subtilis str. 168,0,7TCH,A,"Bacitracin export permease BceAB, ATP-bound",Peptide-7 exporter family,3.7 EM,3.7,646.0,645,32.748,21.167,24.988,0,550–700,1.181
+C_transporter,Q9BXS9,Homo sapiens,1,8OPQ,A,"Anion transporter SLC26A6, inward-facing state",Sulfate permease,3.28 EM,3.28,766.0,648,33.827,26.313,21.259,0,550–700,0.808
+C_transporter,Q5SIT6,Thermus thermophilus HB8,0,6QUM,N,"V-type proton ATPase, state 1",V-type and F-type ATPases,3.25 EM,3.25,652.0,649,38.699,30.039,24.398,0,550–700,0.812
+C_transporter,P46059,Homo sapiens,1,7PMX,A,"Peptide T1 (SLC15A1) transporter, Ala-Phe-bound, outward facing open conformation",Proton-dependent oligopeptide transporter (POT),3.5 EM,3.5,708.0,657,32.038,17.416,26.891,0,550–700,1.544
+C_transporter,Q16348,Homo sapiens,1,7PMY,A,"Peptide T2 (SLC15A2) transporter, Ala-Phe-bound, inward facing partially occluded conformation",Proton-dependent oligopeptide transporter (POT),3.8 EM,3.8,729.0,657,31.788,16.694,27.052,0,550–700,1.62
+C_transporter,Q63424,Rattus norvegicus,0,7NQK,A,Peptide transporter PepT2 (SLC15A2),Proton-dependent oligopeptide transporter (POT),3.5 EM,3.5,738.0,658,32.777,20.739,25.382,0,550–700,1.224
+C_transporter,Q5ZWR1,Legionella pneumophila subsp. pneumophila,0,4BBJ,A,"Copper efflux ATPase, E2P state",Copper-transporting P-type ATPase,2.75,2.75,736.0,663,34.842,16.893,30.472,0,550–700,1.804
+C_transporter,Q9R155,Mus musculus,0,7WL2,A,"Pendrin, inward state",Sulfate permease,3.25 EM,3.25,780.0,665,33.945,26.112,21.689,0,550–700,0.831
+C_transporter,Q5ZL60,Gallus gallus,0,7JM6,A,CLC-7 chloride channel,Chloride transporter,2.92 EM,2.92,802.0,667,27.724,17.911,21.162,0,550–700,1.181
+C_transporter,F6SG69,Equus caballus,0,7S8U,A,Peptide T1 (SLC15A1) itransporter,Proton-dependent oligopeptide transporter (POT),3.7 EM,3.7,707.0,667,31.99,17.792,26.586,0,550–700,1.494
+C_transporter,D7PC76,Tursiops truncatus,0,7S9B,A,"Prestin, sensor Down I state",Sulfate permease,4.2 EM,4.2,741.0,678,35.41,27.659,22.11,0,550–700,0.799
+C_transporter,P58743,Homo sapiens,1,7LGU,A,Prestin in the presence of NaCl,Sulfate permease,2.3 EM,2.3,750.0,680,34.781,25.933,23.176,0,550–700,0.894
+C_transporter,Q8FDZ8,Escherichia coli CFT073,0,8DCK,A,"HlyB/D complex, ATP-bound",Protein-1 exporter family,3.4 EM,3.4,707.0,691,35.29,20.3,28.867,0,550–700,1.422
+C_transporter,O15455,Homo sapiens,1,7C76,A,TLR3 with UNC93B1,Ion channel regulatory protein UNC-93,3.4 EM,3.4,904.0,691,36.635,24.562,27.181,0,550–700,1.107
+C_transporter,P25574,Saccharomyces cerevisiae,0,7KRA,A,"ER insertase, yeast, structure 2",ER membrane protein insertion complex,3.20 EM,3.2,760.0,694,32.131,24.021,21.34,0,550–700,0.888
+C_transporter,Q99MB1,Mus musculus,0,7C77,A,TLR3 with UNC93B1,Ion channel regulatory protein UNC-93,3.3 EM,3.3,905.0,700,36.587,24.689,27.001,0,700–850,1.094
+C_transporter,P92941,Arabidopsis thaliana,0,7XA9,A,Chloride channel CLCa,Chloride transporter,2.84 EM,2.84,802.0,702,28.226,17.332,22.278,0,700–850,1.285
+C_transporter,P40879,Homo sapiens,1,7XUJ,A,Chloride anion exchanger SLC26A3 with UK5099,Sulfate permease,2.8 EM ,2.8,718.0,703,36.768,29.212,22.328,0,700–850,0.764
+C_transporter,P37296,Saccharomyces cerevisiae,0,6O7U,a,"V-type proton ATPase, Golgi isoform",V-type and F-type ATPases,3.1 EM,3.1,912.0,713,39.447,29.522,26.163,0,700–850,0.886
+C_transporter,V4UBK8,Citrus x limon,0,7UWB,a,V-ATPase State 2,V-type and F-type ATPases,3.9 EM,3.9,823.0,713,42.504,30.62,29.48,0,700–850,0.963
+C_transporter,A3DCU1,Acetivibrio thermocellus ATCC 27405,0,6V9Z,A,"ABC-type bacteriocin transporter, structure 2",Lipid exporter family,3.35 EM,3.35,730.0,715,35.004,19.876,28.814,0,700–850,1.45
+C_transporter,P9WJV5,Mycobacterium tuberculosis,0,7NVH,A,Mycolic acid transporter MmpL3,Hopanoid biosynthesis RND transporter,3 EM,3.0,761.0,717,29.666,16.491,24.66,0,700–850,1.495
+C_transporter,O29777,Archaeoglobus fulgidus,0,3J09,A,"Copper efflux ATPase, CopA, alternative conformation",Copper-transporting P-type ATPase,10.0 EM,10.0,723.0,723,32.205,16.024,27.936,0,700–850,1.743
+C_transporter,Q9S5X0,Thermotoga maritima MSB8,0,5LZQ,A,"K(+)-pumping pyrophosphatase, structure 3",Proton-translocating pyrophosphatase,3.49,3.49,735.0,725,24.856,15.564,19.38,0,700–850,1.245
+C_transporter,A0A6I8R0A5,Xenopus tropicalis,0,7SI7,A,"Cu(+) transporting ATPase 7B, state 2",Copper-transporting P-type ATPase,3.49 EM,3.49,1467.0,728,37.113,20.133,31.177,0,700–850,1.549
+C_transporter,Q9RTE3,Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539,0,5XAP,A,"SecDF secretion protein, structure 3",SecDF protein-export membrane protein,2.61,2.61,750.0,732,32.606,16.677,28.018,0,700–850,1.68
+C_transporter,Q5SKE6,Thermus thermophilus HB8,0,5YHF,A,"SecDF secretion protein, structure 2",SecDF protein-export membrane protein,2.8,2.8,741.0,734,30.362,21.865,21.065,0,700–850,0.963
+C_transporter,P21616,Vigna radiata,0,4A01,A,"Proton-translocating pyrophosphatase, structure 1",Proton-translocating pyrophosphatase,2.35,2.35,766.0,740,24.938,16.017,19.114,0,700–850,1.193
+C_transporter,P28366,Bacillus subtilis subsp. subtilis str. 168,0,5EUL,A,"SecA-SecY complex, structure 1",Protein translocase,3.7,3.7,836.0,746,30.756,26.695,15.274,0,700–850,0.572
+C_transporter,Q29466,Bos taurus,0,6XBW,a,"V-type ATPase, bovine, state 1",V-type and F-type ATPases,3.37 EM,3.37,838.0,750,41.931,29.731,29.569,0,700–850,0.995
+C_transporter,A0A4X1U3K4,Sus scrofa,0,7U8O,a,"V-ATPase with mEAK7 and SidK, Rotary state 2",V-type and F-type ATPases,3.5 EM,3.5,838.0,750,41.544,28.939,29.807,0,700–850,1.03
+C_transporter,P25286,Rattus norvegicus,0,6VQ6,a,"V-type ATPase, rat, rotational state 1",V-type and F-type ATPases,3.9 EM,3.9,838.0,750,41.129,29.207,28.958,0,700–850,0.991
+C_transporter,Q9HBG4,Homo sapiens,1,7UNF,a,V-ATPase with mEAK7,V-type and F-type ATPases,4.08 EM,4.08,856.0,752,43.243,30.237,30.914,0,700–850,1.022
+C_transporter,Q93050,Homo sapiens,1,7U4T,R,"V-ATPase, state 2 with SidK and mEAK-7",V-type and F-type ATPases,3.6 EM,3.6,837.0,753,42.965,29.999,30.758,0,700–850,1.025
+C_transporter,A0QP27,Mycolicibacterium smegmatis MC2 155,0,7N6B,A,"Mycolic acid transporter MmpL3, structure 4",Hopanoid biosynthesis RND transporter,2.66 EM,2.66,1013.0,757,30.548,17.293,25.182,0,700–850,1.456
+C_transporter,P32563,Saccharomyces cerevisiae,0,8EAU,a,"V-ATPase, VO with Vma21p",V-type and F-type ATPases,3.1 EM,3.1,840.0,758,38.418,28.183,26.108,0,700–850,0.926
+C_transporter,Q9NYK1,Homo sapiens,1,7CYN,A,TLR7 with UNC93B1,Ion channel regulatory protein UNC-93,4.2 EM,4.2,1049.0,786,34.468,23.759,24.971,0,700–850,1.051
+C_transporter,P04920,Homo sapiens,1,8GVH,A,"Anion exchange protein 2, in acidic KNO3",Anion exchanger family,3.32 EM,3.32,1241.0,788,34.768,22.523,26.486,0,700–850,1.176
+C_transporter,P05030,Saccharomyces cerevisiae S288C,0,7VH5,A,H+-ATPase in the autoinhibited state,P3A-type ATPase,3.2 EM,3.2,918.0,804,34.346,19.012,28.603,0,700–850,1.504
+C_transporter,A0A1W0WWK2,Hypsibius dujardini,0,7FIF,A,Protein dispatched,Patched family,6.5 EM,6.5,1118.0,805,32.31,20.637,24.861,0,700–850,1.205
+C_transporter,Q8NB49,Homo sapiens,1,7BSV,A,"Phospholipid flippase ATP11C, PtdSer-occluded E2AlF state",Phospholipid-translocating ATPase,3.0 EM,3.0,1084.0,815,34.063,22.911,25.207,1,700–850,1.1
+C_transporter,P35670,Homo sapiens,1,7XUK,A,"ATP7B, C983S/C985S/D1027A with ATOX1",Copper-transporting P-type ATPase,3.3 EM ,3.3,1507.0,816,36.667,25.082,26.746,0,700–850,1.066
+C_transporter,A0A6P1C618,Martinezella tropici,0,7DUW,A,Multiple peptide resistance factor (MprF) with two LPG molecules,Phosphatidylglycerol lysyltransferase,2.96 EM,2.96,882.0,820,30.884,19.001,24.347,0,700–850,1.281
+C_transporter,Q96F81,Homo sapiens,1,6XE6,A,Protein Dispatched-1,Patched family,4.53 EM,4.53,1096.0,826,34.231,21.496,26.64,0,700–850,1.239
+C_transporter,P07038,Neurospora crassa,0,7NXF,A,"Plasma membrane ATPase, auto-inhibited state - monomer",P-ATPase,3.1 EM,3.1,920.0,829,34.39,18.083,29.252,0,700–850,1.618
+C_transporter,Q2K4J4,Rhizobium etli CFN 42,0,7F47,A,Multiple peptide resistance factor MprF,Phosphatidylglycerol lysyltransferase,2.7 EM,2.7,867.0,830,31.533,19.169,25.038,0,700–850,1.306
+C_transporter,P04191,Oryctolagus cuniculus,0,4NAB,A,"Calcium ATPase, E1-2Ca state, conformation 5",P-ATPase,3.5,3.5,1000.0,830,38.829,19.757,33.427,0,700–850,1.692
+C_transporter,P55011,Homo sapiens,1,7SMP,B,"Cation-chloride cotransporter SLC12A2, state Bu-I",Cation-chloride cotransporter,3.28 EM,3.28,930.0,833,41.371,28.217,30.255,0,700–850,1.072
+C_transporter,P19456,Arabidopsis thaliana,0,5KSD,A,"Plasma membrane ATPase 2, E1-ATP state",P-ATPase,3.5,3.5,833.0,833,34.787,17.97,29.786,0,700–850,1.657
+C_transporter,Q9VNJ5,Drosophila melanogaster,0,6TBU,A,Protein dispatched,Patched family,3.16 EM,3.16,1218.0,842,34.071,21.682,26.282,0,700–850,1.212
+C_transporter,P55017,Danio rerio,0,8FHO,A,Sodium-chloride cotransporter NCC (class 1),Cation-chloride cotransporter,2.95 EM,2.95,1092.0,847,42.322,26.848,32.716,0,700–850,1.219
+C_transporter,A0A0H3KP92,Burkholderia multivorans,0,5KHN,B,"Hopanoid transporter HpnN, structure 1",Hopanoid biosynthesis RND transporter,3.44,3.44,883.0,848,36.21,18.241,31.28,0,700–850,1.715
+C_transporter,P02730,Homo sapiens,1,7TVZ,A,"Band 3-protein 4.2 complex, diagonal conformation",Anion exchanger family,3.6 EM,3.6,911.0,850,39.568,23.363,31.934,0,700–850,1.367
+C_transporter,Q91V14,Mus musculus,0,7D14,A,KCC2 cation-chloride cotransporter (SLC12A5),Cation-chloride cotransporter,3.8 EM,3.8,1138.0,850,40.411,25.889,31.03,0,700–850,1.199
+D_beta_barrel,P0A927,Escherichia coli,0,1TLY,A,Bacterial Nucleoside Transporter Ts,Nucleoside transporter Tsx,3.01,3.01,278.0,251,19.243,12.866,14.31,0,250–400,1.112
+D_beta_barrel,P0A232,Salmonella enterica subsp. enterica serovar Typhi,0,7EZZ,A,"Outer membrane phospholipase A, dimer, with bound Ca2+","OM phospholipase A, OmpLA",2.76,2.76,257.0,255,18.485,12.863,13.276,0,250–400,1.032
+D_beta_barrel,P0A921,Escherichia coli,0,1QD5,A,"Outer membrane phospholipase A, monomer","OM phospholipase A, OmpLA",2.17,2.17,275.0,257,18.46,13.163,12.942,0,250–400,0.983
+D_beta_barrel,P0AEA2,Escherichia coli K-12,0,7BRM,A,"Bacterial amyloid secretion channel CsgG, structure 3",Curli-like transporters (n=36),3.6 EM,3.6,277.0,257,25.348,14.79,20.586,0,250–400,1.392
+D_beta_barrel,P0DSN3,Shewanella baltica,0,6R2Q,A,Mtr complex,MtrB porin family,2.7,2.7,333.0,265,26.923,11.278,24.447,0,250–400,2.168
+D_beta_barrel,Q3L7I1,Escherichia coli,0,7XW0,A,OmpT,"OM protease omptin, OMPT",2.95   ,2.95,298.0,265,21.976,11.122,18.954,0,250–400,1.704
+D_beta_barrel,A5W3Z9,Pseudomonas putida F1,0,4RL8,A,Phenol degradation pathway involved protein,Porin/alpha-amylase,2.3,2.3,275.0,267,19.136,12.333,14.632,0,250–400,1.186
+D_beta_barrel,A8ULG6,Clostridium perfringens,0,4H56,A,"Necrotic enteritis toxin B, NetB","Aerolysin (n=14,S=14 or n=16,S=16)",3.9,3.9,296.0,267,28.347,16.942,22.727,0,250–400,1.341
+D_beta_barrel,P0A077,Staphylococcus aureus,0,8GZ7,A,Gamma-hemolysin octameric pore,"Aerolysin (n=14,S=14 or n=16,S=16)",3.5 EM ,3.5,271.0,270,23.921,14.548,18.989,0,250–400,1.305
+D_beta_barrel,O88093,Escherichia coli,0,3AEH,A,Hemoglobin-binding protease Hbp autotransporter,Autotransporters of N-terminal passenger domain,2.0,2.0,308.0,277,20.074,11.208,16.654,0,250–400,1.486
+D_beta_barrel,P76045,Escherichia coli K-12,0,2X9K,A,"Outer membrane protein G (OMPG), open state 2",OmpG porin,2.18,2.18,280.0,278,20.008,14.414,13.876,0,250–400,0.963
+D_beta_barrel,E6MVD9,Neisseria meningitidis,0,1UYN,X,Autotransporter  NalP,Autotransporters of N-terminal passenger domain,2.6,2.6,308.0,279,19.698,11.288,16.143,0,250–400,1.43
+D_beta_barrel,P08191,Escherichia coli,0,3RFZ,A,"Usher protein FimD, with FimC-FimH",Fimbrial usher porin,2.8,2.8,279.0,279,31.095,10.686,29.201,0,250–400,2.733
+D_beta_barrel,Q9L403,Clostridium perfringens CPE,0,7Q9Y,A,Beta-toxin,"Aerolysin (n=14,S=14 or n=16,S=16)",3.84 EM,3.84,309.0,279,31.687,17.829,26.195,0,250–400,1.469
+D_beta_barrel,P21796,Homo sapiens,1,6G6U,A,"VDAC-1 channel, structure 5","Voltage-dependent anion channel (VDAC) porin (n=19,S=20)",2.74,2.74,291.0,282,20.944,18.361,10.075,1,250–400,0.549
+D_beta_barrel,P0DXF8,Pseudomonas sp. UK4,0,5O67,A,"Amyloid secretion protein FapF, structure 2",Amyloid secretion protein,2.84,2.84,334.0,282,20.715,12.414,16.583,0,250–400,1.336
+D_beta_barrel,Q60932,Mus musculus,0,3EMN,X,VDAC-1 channel,"Voltage-dependent anion channel (VDAC) porin (n=19,S=20)",2.3,2.3,295.0,283,20.908,18.348,10.023,0,250–400,0.546
+D_beta_barrel,Q8AWD0,Danio rerio,0,4BUM,X,VDAC-2 channel,"Voltage-dependent anion channel (VDAC) porin (n=19,S=20)",2.8,2.8,289.0,283,21.092,18.495,10.14,0,250–400,0.548
+D_beta_barrel,A0A0H3JX61,Staphylococcus aureus subsp. aureus Mu50,0,3B07,A,"Gamma-hemolysin, complete channel, hetero-octamer (A+B)","Aerolysin (n=14,S=14 or n=16,S=16)",2.49,2.49,309.0,284,27.506,17.212,21.456,0,250–400,1.247
+D_beta_barrel,O96008,Homo sapiens,1,7VBY,B,TOM40,"Tom40 family (n=19,S=20)",2.54 EM,2.54,828.0,286,21.018,17.891,11.032,1,250–400,0.617
+D_beta_barrel,P39767,Pseudogemmobacter blasticus,0,3PRN,A,Porin,Rhodobacter PorCa Porin (RPP),1.9,1.9,289.0,289,19.793,16.777,10.502,0,250–400,0.626
+D_beta_barrel,P69434,Escherichia coli K-12,0,4Y25,A,"Poly-beta-1,6-N-acetyl-D-glucosamine export protein (PgaA)","Poly acetyl glucosamine porin (n=16,S=18)",2.82,2.82,311.0,290,20.065,15.172,13.131,0,250–400,0.865
+D_beta_barrel,O18423,Eisenia fetida,0,5EC5,A,"Lysenin, structure 2","Lysenin (n=18,S=18)",3.1,3.1,298.0,290,32.087,23.129,22.24,0,250–400,0.962
+D_beta_barrel,P09616,Staphylococcus aureus,0,7AHL,A,Alpha-hemolysin,"Aerolysin (n=14,S=14 or n=16,S=16)",1.89,1.89,293.0,293,28.772,17.754,22.641,0,250–400,1.275
+D_beta_barrel,Q2FXB0,Staphylococcus aureus,0,7P8S,A,Leukotoxin LukE,"Aerolysin (n=14,S=14 or n=16,S=16)",1.9,1.9,308.0,293,23.223,15.403,17.381,0,250–400,1.128
+D_beta_barrel,P17811,Yersinia pestis,0,2X4M,A,"Plasminogen activator PLA (coagulase/fibrinolysin), disordered loop","OM protease omptin, OMPT",2.55,2.55,298.0,293,22.529,11.325,19.476,0,250–400,1.72
+D_beta_barrel,Q8ZPT3,Salmonella enterica subsp. enterica serovar Typhimurium,0,3FID,A,Lipid A deacylase LpxR,Lipid A deacylase,1.9,1.9,296.0,296,18.757,13.484,13.04,0,250–400,0.967
+D_beta_barrel,P09169,Escherichia coli K-12,0,1I78,A,Outer membrane protease OmpT,"OM protease omptin, OMPT",2.6,2.6,297.0,297,22.932,11.341,19.931,0,250–400,1.757
+D_beta_barrel,P31243,Rhodobacter capsulatus,0,2POR,A,Porin,Rhodobacter PorCa Porin (RPP),1.8,1.8,301.0,301,20.23,16.199,12.118,0,250–400,0.748
+D_beta_barrel,A0A915Q9K2,Enterococcus,0,7T4D,A,Pore-forming toxin Epx4,"Aerolysin (n=14,S=14 or n=16,S=16)",3,3.0,312.0,301,31.449,17.797,25.929,0,250–400,1.457
+D_beta_barrel,Q03155,Escherichia coli,0,4MEE,A,Diffuse adherence adhesin,Autotransporters of N-terminal passenger domain,3.0,3.0,469.0,303,20.95,11.744,17.349,0,250–400,1.477
+D_beta_barrel,Q7BSW5,Escherichia coli O157:H7,0,3SLJ,A,"Serine protease EspP, pre-cleavage structure ",Autotransporters of N-terminal passenger domain,2.48,2.48,313.0,305,21.417,11.296,18.196,0,250–400,1.611
+D_beta_barrel,A0A915Q9K3,Enterococcus faecalis,0,7T4E,B,Pore-forming toxin Epx1,"Aerolysin (n=14,S=14 or n=16,S=16)",2.87 EM,2.87,330.0,307,29.064,16.348,24.031,0,250–400,1.47
+D_beta_barrel,Q51056,Neisseria gonorrhoeae,0,4AUI,A,Porin B (PorB),General Bacterial Porin (GBP),3.2,3.2,327.0,308,20.85,16.21,13.114,0,250–400,0.809
+D_beta_barrel,P0A264,Salmonella enterica subsp. enterica serovar Typhimurium,0,3UPG,A,Osmoporin OMPC,General Bacterial Porin (GBP),3.2,3.2,338.0,311,20.164,15.525,12.868,0,250–400,0.829
+D_beta_barrel,P30690,Neisseria meningitidis,0,3WI5,A,"Porin B (PorB), different strain, conformation 2",General Bacterial Porin (GBP),2.4,2.4,312.0,312,20.654,16.222,12.783,0,250–400,0.788
+D_beta_barrel,P23644,Saccharomyces cerevisiae S288C,0,6UCV,A,"Mitochondrial import receptor complex (TOM40/TOM22/TOM5/TOM6/TOM7), structure 2","Tom40 family (n=19,S=20)",4.1 EM,4.1,397.0,313,22.287,18.612,12.26,0,250–400,0.659
+D_beta_barrel,A5F934,Vibrio cholerae O395,0,6EHB,A,"OmpU major porin, structure 1",General Bacterial Porin (GBP),1.55,1.55,320.0,318,21.099,17.141,12.302,0,250–400,0.718
+D_beta_barrel,A0A0H3AME7,Vibrio cholerae O395,0,6EHF,A,"OmpT major porin, structure 1",General Bacterial Porin (GBP),2.72,2.72,319.0,318,20.283,15.439,13.154,0,250–400,0.852
+D_beta_barrel,O86021,Vibrio cholerae,0,5OYK,A,"OmpT major porin, structure 3",General Bacterial Porin (GBP),3.2,3.2,325.0,319,20.41,15.588,13.175,0,250–400,0.845
+D_beta_barrel,P0C6Q6,Vibrio cholerae,0,5ONU,A,Porin OmpU,General Bacterial Porin (GBP),2.22,2.22,356.0,320,21.597,17.513,12.637,0,250–400,0.722
+D_beta_barrel,Q04641,Shigella flexneri,0,8AXL,A,Outer membrane secretin pore,Outer bacterial membrane secretion,3.42 EM,3.42,566.0,320,35.727,22.651,27.628,0,250–400,1.22
+D_beta_barrel,P34750,Pseudomonas aeruginosa PAO1,0,6VE3,A,Tetradecameric PilQ,Outer bacterial membrane secretion,4.3 EM,4.3,731.0,327,37.804,20.741,31.606,0,250–400,1.524
+D_beta_barrel,Q48391,Klebsiella oxytoca,0,4V3G,A,"CymA protein, conformation 3",Cyclodextrin porin,2.51,2.51,339.0,328,21.596,14.012,16.433,0,250–400,1.173
+D_beta_barrel,A0A0M7H8A9,Enterobacter cloacae,0,6ENE,A,Phosphoporin PhoE,General Bacterial Porin (GBP),2.3,2.3,329.0,329,20.596,15.936,13.047,0,250–400,0.819
+D_beta_barrel,P02932,Escherichia coli,0,1PHO,A,Phosphoporin PhoE,General Bacterial Porin (GBP),3.0,3.0,330.0,330,20.436,15.705,13.076,0,250–400,0.833
+D_beta_barrel,A0A0H3FYJ7,Klebsiella aerogenes,0,5O78,A,Phosphoporin PhoE,General Bacterial Porin (GBP),2.85,2.85,337.0,331,20.56,15.657,13.326,0,250–400,0.851
+D_beta_barrel,P24391,Neurospora crassa,0,5O8O,A,Mitochondrial import receptor subunit Tom40,"Tom40 family (n=19,S=20)",6.8 EM,6.8,349.0,332,22.486,18.816,12.312,0,250–400,0.654
+D_beta_barrel,P37432,Salmonella enterica subsp. enterica serovar Typhi str. Ty21a,0,3NSG,A,Porin OmpF,General Bacterial Porin (GBP),2.79,2.79,341.0,334,20.543,15.601,13.364,0,250–400,0.857
+D_beta_barrel,O87753,Klebsiella pneumoniae,0,5O77,A,Porin OmpK35,General Bacterial Porin (GBP),1.5,1.5,337.0,337,20.8,15.776,13.555,0,250–400,0.859
+D_beta_barrel,P02931,Escherichia coli K-12,0,6ZHV,B,OmpF porin,General Bacterial Porin (GBP),1.945,1.945,362.0,341,20.528,15.702,13.223,0,250–400,0.842
+D_beta_barrel,Q93K99,Enterobacter cloacae,0,5FVN,A,OmpC porin,General Bacterial Porin (GBP),1.45,1.45,342.0,342,20.547,15.705,13.249,0,250–400,0.844
+D_beta_barrel,A0A0B9X9I7,Acinetobacter baumannii,0,6EUS,A,DcaP porin,General Bacterial Porin (GBP),2.2,2.2,380.0,342,20.928,15.64,13.905,0,250–400,0.889
+D_beta_barrel,Q48473,Klebsiella pneumoniae,0,1OSM,A,Outer membrane protein C,General Bacterial Porin (GBP),3.2,3.2,342.0,342,21.061,16.145,13.524,0,250–400,0.838
+D_beta_barrel,E3U905,Providencia stuartii,0,4D65,A,Porin 2,General Bacterial Porin (GBP),2.2,2.2,343.0,343,20.453,15.636,13.185,0,250–400,0.843
+D_beta_barrel,D6QLY1,Klebsiella pneumoniae,0,6RCK,A,"Porin OmpK36, structure 2",General Bacterial Porin (GBP),2.03,2.03,347.0,344,20.513,15.589,13.333,0,250–400,0.855
+D_beta_barrel,F2VN85,Klebsiella pneumoniae,0,5NUP,A,"Porin OmpK36, with MlaA",General Bacterial Porin (GBP),2.9,2.9,344.0,344,20.659,15.753,13.365,0,250–400,0.848
+D_beta_barrel,D6QLY0,Klebsiella pneumoniae,0,7Q3T,A,"Porin OmpK36, D insertion chimera",General Bacterial Porin (GBP),1.788,1.788,346.0,346,20.499,15.611,13.286,0,250–400,0.851
+D_beta_barrel,P06996,Escherichia coli,0,2J1N,A,Osmoporin OMPC,General Bacterial Porin (GBP),2.0,2.0,346.0,346,20.783,15.809,13.491,0,250–400,0.853
+D_beta_barrel,C6K7N1,Escherichia coli K-12,0,7JZ3,B,Osmoporin OmpC,General Bacterial Porin (GBP),2.56 EM,2.56,346.0,346,20.795,15.866,13.442,0,250–400,0.847
+D_beta_barrel,G2Q6R7,Thermothelomyces thermophilus,0,6WUM,b,"SAM complex, dimer, structure 1","OMP insertion (Bam complex) porin (n=16,S=22)",3.6 EM,3.6,479.0,346,26.191,15.454,21.145,0,250–400,1.368
+D_beta_barrel,D6QLY2,Klebsiella pneumoniae,0,7PZF,A,"Porin OmpK36, TD insertion chimera",General Bacterial Porin (GBP),1.499,1.499,347.0,347,20.488,15.586,13.298,0,250–400,0.853
+D_beta_barrel,Q9ALY0,Klebsiella aerogenes,0,5O9C,A,Porin Omp36,General Bacterial Porin (GBP),2.47,2.47,354.0,348,20.78,15.452,13.894,0,250–400,0.899
+D_beta_barrel,E9P977,Saccharomyces cerevisiae,0,7BTX,A,SAM-Mdm10 supercomplex,"OMP insertion (Bam complex) porin (n=16,S=22)",2.8 EM,2.8,363.0,348,21.239,16.757,13.049,0,250–400,0.779
+D_beta_barrel,E5G6G2,Klebsiella pneumoniae,0,6RCP,A,"Porin OmpK36, structure 3",General Bacterial Porin (GBP),3.23,3.23,349.0,349,20.607,15.699,13.349,0,250–400,0.85
+D_beta_barrel,L0RVU0,Vibrio harveyi,0,5MDQ,A,"Chitoporin, structure 2",General Bacterial Porin (GBP),2.5,2.5,350.0,350,21.696,17.027,13.446,0,250–400,0.79
+D_beta_barrel,B7UI37,Escherichia coli O127:H6 str. E2348/69,0,5W68,A,"Type II secretion system protein GspD, pathogenic E. coli",Outer bacterial membrane secretion,3.3 EM,3.3,387.0,350,35.307,20.957,28.414,0,250–400,1.356
+D_beta_barrel,E3U904,Providencia stuartii,0,5NXR,A,"Porin 1, structure 1",General Bacterial Porin (GBP),2.7,2.7,352.0,352,20.906,15.621,13.895,0,250–400,0.89
+D_beta_barrel,S5UCA2,Klebsiella pneumoniae,0,6V78,A,Porin OmpK37,General Bacterial Porin (GBP),2.6,2.6,356.0,353,20.87,15.861,13.564,0,250–400,0.855
+D_beta_barrel,Q9HWK2,Pseudomonas aeruginosa PAO1,0,4FSO,A,Porin OpdN,Outer membrane porin (Opr),2.75,2.75,406.0,354,21.014,17.183,12.097,0,250–400,0.704
+D_beta_barrel,Q9HWP4,Pseudomonas aeruginosa PAO1,0,2Y0H,A,Outer membrane porin OpdL,Outer membrane porin (Opr),2.2,2.2,391.0,361,21.351,17.512,12.214,0,250–400,0.697
+D_beta_barrel,Q9I5H4,Pseudomonas aeruginosa PAO1,0,2Y0L,A,Cis-aconitate porin OpdH,Outer membrane porin (Opr),2.59,2.59,402.0,362,21.32,17.621,12.002,0,250–400,0.681
+D_beta_barrel,Q9I202,Pseudomonas aeruginosa PAO1,0,2Y0K,A,Pyroglutamate porin OpdO,Outer membrane porin (Opr),2.3,2.3,390.0,364,21.444,17.646,12.186,0,250–400,0.691
+D_beta_barrel,Q9HY38,Pseudomonas aeruginosa PAO1,0,4FSP,A,Porin OpdR,Outer membrane porin (Opr),2.32,2.32,408.0,364,21.529,17.539,12.485,0,250–400,0.712
+D_beta_barrel,Q9I4U9,Pseudomonas aeruginosa PAO1,0,4FRT,A,Porin OprdD,Outer membrane porin (Opr),3.17,3.17,400.0,370,21.492,17.313,12.734,0,250–400,0.736
+D_beta_barrel,Q9I6P8,Pseudomonas aeruginosa,0,3SZD,B,Porin OpdF,Outer membrane porin (Opr),2.31,2.31,405.0,371,21.3,17.482,12.169,0,250–400,0.696
+D_beta_barrel,Q9I6X0,Pseudomonas aeruginosa,0,3SY9,A,Histidine porin OpdC,Outer membrane porin (Opr),2.8,2.8,430.0,371,21.636,17.577,12.617,0,250–400,0.718
+D_beta_barrel,Q9HUR5,Pseudomonas aeruginosa,0,2QTK,A,Protein OpdK,Outer membrane porin (Opr),2.8,2.8,390.0,371,21.166,17.442,11.99,0,250–400,0.687
+D_beta_barrel,Q9HZH0,Pseudomonas aeruginosa,0,3T24,A,Porin OpdQ,Outer membrane porin (Opr),2.4,2.4,401.0,377,21.617,17.537,12.638,0,250–400,0.721
+D_beta_barrel,Q8ZRP0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,5OR1,A,Outer membrane protein assembly factor BamA,"OMP insertion (Bam complex) porin (n=16,S=22)",2.92,2.92,804.0,380,22.155,15.921,15.406,0,250–400,0.968
+D_beta_barrel,P32722,Pseudomonas aeruginosa,0,3SY7,A,"Outer membrane porin OprD, different conformation of loops",Outer membrane porin (Opr),2.15,2.15,428.0,382,21.56,17.497,12.597,0,250–400,0.72
+D_beta_barrel,O33458,Pseudomonas putida,0,6Z34,A,CymD hydrocarbon channel,Fatty acid transporter FadL family,2.27,2.27,442.0,382,23.293,13.012,19.319,0,250–400,1.485
+D_beta_barrel,Q9I1Q4,Pseudomonas aeruginosa PAO1,0,4FT6,A,Porin OprdG,Outer membrane porin (Opr),2.6,2.6,394.0,387,21.606,17.576,12.566,0,250–400,0.715
+D_beta_barrel,Q4KH25,Pseudomonas protegens Pf-5,0,3JTY,A,BenF-like porin,Outer membrane porin (Opr),2.58,2.58,402.0,388,21.398,17.352,12.52,0,250–400,0.722
+D_beta_barrel,Q9RBW8,Ralstonia pickettii,0,3BRY,A,Toluene transporter TbuX,Fatty acid transporter FadL family,3.2,3.2,441.0,389,23.238,13.091,19.2,0,250–400,1.467
+D_beta_barrel,A0A0D5YI36,Acinetobacter baumannii AB307-0294,0,5DL8,A,Porin OccAB4,Outer membrane porin (Opr),2.2,2.2,407.0,391,21.927,17.762,12.858,0,250–400,0.724
+D_beta_barrel,P35818,Pseudomonas aeruginosa PAO1,0,5WLN,G,Type II secretion system protein XcpQ,Outer bacterial membrane secretion,3.57 EM,3.57,624.0,396,45.78,25.237,38.195,0,250–400,1.513
+D_beta_barrel,G3XDA5,Pseudomonas aeruginosa PAO1,0,4FRX,A,Porin OprE,Outer membrane porin (Opr),1.9,1.9,437.0,399,21.697,17.373,12.999,0,250–400,0.748
+D_beta_barrel,A0A0D5YKR4,Acinetobacter baumannii AB307-0294,0,5DL7,A,Porin OccAB3,Outer membrane porin (Opr),1.75,1.75,419.0,402,21.682,17.34,13.017,0,400–550,0.751
+D_beta_barrel,Q659I5,Campylobacter jejuni,0,5LDV,A,MOMP porin,Campylobacter major outer membrane protein,2.1,2.1,408.0,403,22.141,17.576,13.466,0,400–550,0.766
+D_beta_barrel,Q46221,Clostridium perfringens,0,6KLW,A,Iota toxin Ia-Ib,"Channel-forming Bacillus protective antigen (n=14,S=14)",2.9 EM,2.9,666.0,406,43.248,20.656,37.997,0,400–550,1.84
+D_beta_barrel,Q9HVS0,Pseudomonas aeruginosa,0,3SYB,A,Glycine-glutamate dipeptide porin OpdP,Outer membrane porin (Opr),2.7,2.7,467.0,408,21.254,16.952,12.82,0,400–550,0.756
+D_beta_barrel,Q9KS51,Vibrio cholerae,0,1YC9,A,Multidrug Resistance (VceC) protein,Outer membrane efflux proteins,1.8,1.8,442.0,411,37.751,14.075,35.029,0,400–550,2.489
+D_beta_barrel,P05695,Pseudomonas aeruginosa PAO1,0,2O4V,A,Porin OprP,Porins O and P,1.94,1.94,411.0,411,21.813,15.536,15.311,0,400–550,0.986
+D_beta_barrel,Q9KNV0,Vibrio cholerae,0,6W6M,A,Type IV competence pilus secretin PilQ,Outer bacterial membrane secretion,2.7 EM,2.7,571.0,412,49.449,20.97,44.782,0,400–550,2.136
+D_beta_barrel,P22340,Salmonella enterica subsp. enterica serovar Typhimurium,0,1A0S,P,Sucrose-specific porin,Malptoporin-like proteins,2.4,2.4,413.0,413,22.306,17.615,13.685,0,400–550,0.777
+D_beta_barrel,A5W4F4,Pseudomonas putida,0,3BS0,A,Toluene transporter TodX,Fatty acid transporter FadL family,2.6,2.6,439.0,414,23.534,13.251,19.449,0,400–550,1.468
+D_beta_barrel,Q51971,Pseudomonas putida,0,6Z38,A,TodX hydrocarbon channel,Fatty acid transporter FadL family,2.9,2.9,432.0,414,23.248,13.611,18.847,0,400–550,1.385
+D_beta_barrel,A5VZA8,Pseudomonas putida BIRD-1,0,4GEY,A,Porin B,Glucose-selective OprB porin,2.7,2.7,436.0,416,22.536,16.239,15.626,0,400–550,0.962
+D_beta_barrel,P02943,Escherichia coli,0,1AF6,A,Maltoporin,Malptoporin-like proteins,2.4,2.4,421.0,421,22.807,17.232,14.94,0,400–550,0.867
+D_beta_barrel,P26466,Salmonella enterica subsp. enterica serovar Typhimurium,0,2MPR,A,Maltoporin,Malptoporin-like proteins,2.4,2.4,427.0,421,23.161,17.611,15.043,0,400–550,0.854
+D_beta_barrel,A0A1C3Q001,Klebsiella quasipneumoniae,0,7NG8,A,Outer membrane protein TolC with KlebC,Outer membrane efflux proteins,3.2 EM,3.2,494.0,422,38.233,14.888,35.216,0,400–550,2.365
+D_beta_barrel,P09167,Aeromonas hydrophila,0,5JZT,A,Aerolysin,"Aerolysin (n=14,S=14 or n=16,S=16)",7.4 EM,7.4,424.0,423,37.639,32.873,18.331,0,400–550,0.558
+D_beta_barrel,P32977,Pseudomonas aeruginosa PAO1,0,4RJW,A,Porin OprO,Porins O and P,1.52,1.52,429.0,426,23.598,17.309,16.04,0,400–550,0.927
+D_beta_barrel,P10384,Escherichia coli K-12,0,3PGS,A,Fatty Acid Transporter FadL,Fatty acid transporter FadL family,1.9,1.9,427.0,427,24.742,12.344,21.442,0,400–550,1.737
+D_beta_barrel,A0A0X1KHE0,Salmonella enterica subsp. enterica serovar Typhi,0,5BUN,A,Outer membrane protein ST50,Outer membrane efflux proteins,2.98,2.98,467.0,427,38.77,14.885,35.799,0,400–550,2.405
+D_beta_barrel,P02930,Escherichia coli,0,1EK9,A,Outer membrane protein TolC,Outer membrane efflux proteins,2.1,2.1,428.0,428,39.203,14.901,36.26,0,400–550,2.433
+D_beta_barrel,P77211,Escherichia coli,0,3PIK,A,Cation efflux system protein CusC,Outer membrane efflux proteins,2.3,2.3,446.0,429,37.098,14.974,33.942,0,400–550,2.267
+D_beta_barrel,Q51397,Pseudomonas aeruginosa PAO1,0,5AZS,A,Outer membrane protein OprJ,Outer membrane efflux proteins,3.1,3.1,468.0,430,37.529,14.6,34.573,0,400–550,2.368
+D_beta_barrel,Q868M7,Pseudocnus echinatus,0,3W9T,A,Hemolytic lectin CEL-III,Eukaryotic pore-forming toxins,2.9,2.9,432.0,431,38.484,31.072,22.706,0,400–550,0.731
+D_beta_barrel,Q8GNN6,Escherichia coli,0,2YNK,A,Capsule assembly protein Wzi,Capsule assembly protein Wzi,2.64,2.64,456.0,432,20.688,15.869,13.274,0,400–550,0.836
+D_beta_barrel,P75733,Escherichia coli K-12,0,7VU0,A,Chitoporin,Outer membrane porin (Opr),1.85,1.85,442.0,435,22.49,17.7,13.875,0,400–550,0.784
+D_beta_barrel,P53969,Saccharomyces cerevisiae S288C,0,7E4I,A,SAM-Tom40/Tom5/Tom6 complex,"Tom40 family (n=19,S=20)",3.05 EM,3.05,485.0,439,25.146,16.84,18.674,0,400–550,1.109
+D_beta_barrel,G2QFF9,Thermothelomyces thermophilus,0,6WUT,B,"SAM complex, monomer, structure 2","OMP insertion (Bam complex) porin (n=16,S=22)",3.0 EM,3.0,512.0,443,25.613,17.308,18.879,0,400–550,1.091
+D_beta_barrel,Q9HVJ6,Pseudomonas aeruginosa,0,3DWO,X,FadL homologue,Fatty acid transporter FadL family,2.2,2.2,451.0,444,24.736,12.391,21.408,0,400–550,1.728
+D_beta_barrel,Q51006,Neisseria gonorrhoeae,0,4MT0,A,MtrE protein,Outer membrane efflux proteins,3.29,3.29,447.0,445,36.333,15.152,33.023,0,400–550,2.179
+D_beta_barrel,Q9I0Y7,Pseudomonas aeruginosa PAO1,0,5AZP,A,Multidrug efflux protein OprN,Outer membrane efflux proteins,1.69,1.69,455.0,446,36.798,14.727,33.722,0,400–550,2.29
+D_beta_barrel,P37650,Escherichia coli K-12,0,6TZK,A,Cellulose synthase operon protein C (channel BcsC),"Poly acetyl glucosamine porin (n=16,S=18)",1.85,1.85,451.0,451,25.565,13.758,21.548,0,400–550,1.566
+D_beta_barrel,Q51487,Pseudomonas aeruginosa,0,1WP1,A,"Drug-Discharge Outer Membrane Protein, OprM",Outer membrane efflux proteins,2.56,2.56,474.0,456,36.911,15.127,33.669,0,400–550,2.226
+D_beta_barrel,P18895,Pseudomonas aeruginosa,0,7ACG,A,"Alginate exporter, AlgE, in meso",Alginate export porin,1.85,1.85,479.0,457,21.679,15.996,14.632,0,400–550,0.915
+D_beta_barrel,Q8RTE3,Campylobacter jejuni,0,4MT4,A,Outer membrane channel CmeC,Outer membrane efflux proteins,2.37,2.37,479.0,472,36.691,15.717,33.154,0,400–550,2.109
+D_beta_barrel,P45758,Escherichia coli K-12,0,5WQ7,A,"Type II secretion system protein GspD, E. coli K12",Outer bacterial membrane secretion,3.04 EM,3.04,627.0,472,56.571,28.345,48.957,0,400–550,1.727
+D_beta_barrel,P31780,Aeromonas hydrophila,0,6I1X,A,Type II secretion system protein D (ExeD),Outer bacterial membrane secretion,3.7 EM,3.7,524.0,486,53.745,28.951,45.281,0,400–550,1.564
+D_beta_barrel,P45779,Vibrio cholerae O1 biovar El Tor str. N16961,0,5WQ8,A,Type II secretion system protein GspD,Outer bacterial membrane secretion,3.26 EM,3.26,650.0,496,57.202,29.54,48.984,0,400–550,1.658
+D_beta_barrel,A0A3Q0L2U8,Vibrio vulnificus,0,6I1Y,A,Type II secretion system protein GspD,Outer bacterial membrane secretion,3.4 EM,3.4,553.0,496,54.596,28.38,46.64,0,400–550,1.643
+D_beta_barrel,E3PJ86,Escherichia coli ETEC H10407,0,5ZDH,A,Pilotin-Secretin AspS-GspD complex,Outer bacterial membrane secretion,3.2 EM,3.2,646.0,497,54.898,29.044,46.586,0,400–550,1.604
+D_beta_barrel,Q9I527,Pseudomonas aeruginosa PAO1,0,5FP2,A,Ferric enterobactin receptor PirA,Outer Membrane Receptor (OMR),2.97,2.97,725.0,499,23.233,19.029,13.329,0,400–550,0.7
+D_beta_barrel,P35672,Salmonella enterica subsp. enterica serovar Typhimurium,0,6DV3,A,Type III secretion injectisome secretin InvG,Outer bacterial membrane secretion,4.1 EM,4.1,562.0,500,54.02,24.097,48.348,0,400–550,2.006
+D_beta_barrel,Q8ZRW0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,0,4N4R,A,"LPS-assembly protein complex, LptE and LptD","LPS assembly protein family (n=26, S=30)",2.8,2.8,786.0,519,26.473,22.913,13.259,0,400–550,0.579
+D_beta_barrel,P35077,Bordetella pertussis Tohama I,0,4QL0,A,"Filamentous hemagglutinin transporter FhaC, structure 2","Two-partner secretion porin (n=16,S=20)",2.5,2.5,554.0,520,36.29,20.676,29.824,0,400–550,1.442
+D_beta_barrel,A0ABX6CG74,Acinetobacter baumannii ACICU,0,6WIL,A,CdiB transporter,"Two-partner secretion porin (n=16,S=20)",2.4,2.4,560.0,530,29.359,19.013,22.371,0,400–550,1.177
+D_beta_barrel,Q93PM2,[Haemophilus] ducreyi,0,4K3C,A,Outer membrane protein assembly factor BamA,"OMP insertion (Bam complex) porin (n=16,S=22)",2.91,2.91,532.0,532,32.044,16.67,27.366,0,400–550,1.642
+D_beta_barrel,Q3YL97,Escherichia coli,0,6WIM,A,CdiB transporter,"Two-partner secretion porin (n=16,S=20)",2.6,2.6,538.0,536,28.772,17.398,22.915,0,400–550,1.317
+D_beta_barrel,Q8ZIK3,Yersinia pestis,0,5IXM,A,"LPS-assembly protein complex, LptE and LptD","LPS assembly protein family (n=26, S=30)",2.75,2.75,577.0,543,26.948,23.552,13.096,0,400–550,0.556
+D_beta_barrel,P0ADE4,Escherichia coli,0,4C00,A,Translocation and assembly module TamA,"OMP insertion (Bam complex) porin (n=16,S=22)",2.25,2.25,559.0,544,33.436,20.569,26.361,0,400–550,1.282
+D_beta_barrel,P31554,Escherichia coli K-12,0,4RHB,A,"LPS-assembly protein complex, LptE and LptD","LPS assembly protein family (n=26, S=30)",3.36,3.36,614.0,556,26.882,23.325,13.363,0,550–700,0.573
+D_beta_barrel,P13423,Bacillus anthracis,0,6UZB,A,"Protective antigen, bound to edema factor, structure 1","Channel-forming Bacillus protective antigen (n=14,S=14)",3.2 EM,3.2,735.0,562,44.447,23.772,37.556,0,550–700,1.58
+D_beta_barrel,Q9X6A5,Bordetella pertussis,0,3EFM,A,Outer membrane receptor FauA,Outer Membrane Receptor (OMR),2.33,2.33,707.0,572,23.947,18.469,15.243,0,550–700,0.825
+D_beta_barrel,Q9I5U2,Pseudomonas aeruginosa PAO1,0,5IVA,A,"LPS-assembly protein complex, LptE and LptD","LPS assembly protein family (n=26, S=30)",2.99,2.99,646.0,579,27.276,22.879,14.85,0,550–700,0.649
+D_beta_barrel,P09545,Vibrio cholerae 12129(1),0,3O44,A,Cytolysin and hemolysin HlyA Pore-forming toxin,"HlyA hemolysin (n=14,S=14)",2.88,2.88,593.0,581,35.248,19.346,29.464,0,550–700,1.523
+D_beta_barrel,P06129,Escherichia coli,0,2GSK,A,"Outer membrane cobalamin transporter BtuB, complex with TonB",Outer Membrane Receptor (OMR),2.1,2.1,590.0,590,23.719,18.196,15.216,0,550–700,0.836
+D_beta_barrel,A0A0H3GIG3,Klebsiella pneumoniae,0,6HCG,A,"Type II secretion system, PulD-PulS-PulC",Outer bacterial membrane secretion,4.3 EM,4.3,657.0,592,66.999,34.277,57.567,0,550–700,1.679
+D_beta_barrel,P17315,Escherichia coli,0,2HDI,A,Colicin I receptor complex with binding domain of Colicin Ia,Outer Membrane Receptor (OMR),2.5,2.5,639.0,598,24.684,18.617,16.208,0,550–700,0.871
+D_beta_barrel,P46359,Yersinia pestis,0,4EPA,A,Pesticin receptor FyuA,Outer Membrane Receptor (OMR),3.2,3.2,655.0,617,24.28,18.282,15.977,0,550–700,0.874
+D_beta_barrel,P72412,Shigella dysenteriae,0,3FHH,A,Outer membrane heme transporter ShuA,Outer Membrane Receptor (OMR),2.6,2.6,640.0,621,24.262,18.459,15.744,0,550–700,0.853
+D_beta_barrel,O33407,Pseudomonas aeruginosa,0,3KVN,A,Esterase EstA,Autotransporters of N-terminal passenger domain,2.5,2.5,632.0,627,30.756,14.086,27.341,0,550–700,1.941
+D_beta_barrel,A0A2R3IWM2,Pseudomonas aeruginosa 39016,0,5NEC,A,Siderophore receptor PiuD,Outer Membrane Receptor (OMR),2.3,2.3,741.0,637,25.31,18.659,17.101,0,550–700,0.917
+D_beta_barrel,G3XD89,Pseudomonas aeruginosa PAO1,0,6FOK,A,Copper transporter OprC,Outer Membrane Receptor (OMR),1.97,1.97,723.0,651,24.419,18.333,16.13,0,550–700,0.88
+D_beta_barrel,P76115,Escherichia coli BW25113,0,6V81,A,Transporter YncD,Outer Membrane Receptor (OMR),2.96,2.96,700.0,652,24.627,18.215,16.575,0,550–700,0.91
+D_beta_barrel,P42512,Pseudomonas aeruginosa,0,1XKW,A,Fe(III)-pyochelin receptor FptA,Outer Membrane Receptor (OMR),2.0,2.0,665.0,655,25.04,18.8,16.541,0,550–700,0.88
+D_beta_barrel,G3XCY8,Pseudomonas aeruginosa PAO1,0,5FOK,A,Outer membrane receptor PiuA,Outer Membrane Receptor (OMR),1.9,1.9,730.0,656,25.141,18.363,17.173,0,550–700,0.935
+D_beta_barrel,A8DS70,Clostridioides difficile,0,6O2N,A,"ADP-ribosyltransferase binding component, CDTb, structure 1","Channel-forming Bacillus protective antigen (n=14,S=14)",3.7 EM,3.7,876.0,659,44.076,27.136,34.732,0,550–700,1.28
+D_beta_barrel,Q841A2,Neisseria meningitidis,0,4AIQ,A,"Fe-regulated protein B, different variant, structure 1",Outer Membrane Receptor (OMR),2.6,2.6,745.0,660,24.824,18.361,16.706,0,550–700,0.91
+D_beta_barrel,O32739,Clostridioides difficile,0,6UWR,A,"ADP-ribosyltransferase binding component, CDTb, structure 5","Channel-forming Bacillus protective antigen (n=14,S=14)",2.8 EM,2.8,667.0,660,42.838,26.588,33.588,0,550–700,1.263
+D_beta_barrel,P13036,Escherichia coli K-12,0,1KMO,A,Outer membrane transporter FecA,Outer Membrane Receptor (OMR),2.0,2.0,774.0,661,24.311,18.495,15.778,0,550–700,0.853
+D_beta_barrel,Q51162,Neisseria meningitidis,0,4AIP,A,Fe-regulated protein B,Outer Membrane Receptor (OMR),2.4,2.4,742.0,661,24.828,18.33,16.746,0,550–700,0.914
+D_beta_barrel,Q76HJ9,Acinetobacter baumannii,0,6HCP,A,Outer membrane receptor BauA,Outer Membrane Receptor (OMR),1.83,1.83,706.0,671,24.963,18.828,16.39,0,550–700,0.871
+D_beta_barrel,P16869,Escherichia coli BW25113,0,6E4V,A,FhuE receptor,Outer Membrane Receptor (OMR),2.0,2.0,693.0,672,25.651,18.729,17.528,0,550–700,0.936
+D_beta_barrel,C5I2D9,Pseudomonas fluorescens,0,3QLB,A,Enantio-pyochelin receptor FetA,Outer Membrane Receptor (OMR),3.26,3.26,748.0,673,25.255,18.887,16.767,0,550–700,0.888
+D_beta_barrel,A0A0C7CQY7,Pseudomonas aeruginosa,0,8B43,A,Ferrioxamine transporter FoxA,Outer Membrane Receptor (OMR),2.49   ,2.49,820.0,677,24.837,18.414,16.667,0,550–700,0.905
+D_beta_barrel,P05825,Escherichia coli K-12,0,1FEP,A,Ferric enterobactin receptor FepA,Outer Membrane Receptor (OMR),2.4,2.4,724.0,680,25.055,18.305,17.108,0,550–700,0.935
+D_beta_barrel,Q5F651,Neisseria gonorrhoeae,0,7OMM,A,LptDE with promacrobodies,"LPS assembly protein family (n=26, S=30)",3.4 EM,3.4,801.0,698,35.335,28.613,20.733,0,550–700,0.725
+D_beta_barrel,Q9JZN9,Neisseria meningitidis MC58,0,4RDR,A,"Bacterial Zn-transporter ZnuD, structure 1",Outer Membrane Receptor (OMR),2.47,2.47,748.0,699,25.865,18.362,18.217,0,550–700,0.992
+D_beta_barrel,D0CAH3,Acinetobacter baumannii,0,5FP1,A,Outer membrane receptor PiuA,Outer Membrane Receptor (OMR),1.94,1.94,718.0,701,24.999,18.364,16.961,0,700–850,0.924
+D_beta_barrel,Q05098,Pseudomonas aeruginosa PAO1,0,5MZS,A,"Ferric enterobactin receptor PfeA, structure 1",Outer Membrane Receptor (OMR),2.67,2.67,724.0,706,25.279,17.962,17.788,0,700–850,0.99
+D_beta_barrel,P06971,Escherichia coli,0,1QFG,A,Ferric hydroxamate uptake receptor FhuA,Outer Membrane Receptor (OMR),2.5,2.5,725.0,707,25.414,18.438,17.49,0,700–850,0.949
+D_beta_barrel,D0C8V9,Acinetobacter baumannii,0,5FR8,A,Ferric enterobactin receptor PirA,Outer Membrane Receptor (OMR),2.83,2.83,733.0,707,25.677,18.204,18.108,0,700–850,0.995
+D_beta_barrel,P75780,Escherichia coli K-12,0,6BPM,C,"Ferric-catecholate import receptor Fiu, closed state",Outer Membrane Receptor (OMR),2.5,2.5,727.0,711,25.797,18.645,17.829,0,700–850,0.956
+D_beta_barrel,Q79AD2,Serratia marcescens,0,3CSL,A,"Hemophore receptor HasR, structure 1",Outer Membrane Receptor (OMR),2.7,2.7,865.0,753,27.59,18.845,20.15,0,700–850,1.069
+D_beta_barrel,Q83SQ0,Shigella flexneri,0,4Q35,A,"LPS-assembly protein complex, LptE and LptD","LPS assembly protein family (n=26, S=30)",2.39,2.39,802.0,758,33.906,26.342,21.347,0,700–850,0.81
+D_beta_barrel,P31827,Escherichia coli,0,6OFR,A, Transporter YddB,Outer Membrane Receptor (OMR),2.4,2.4,762.0,758,26.971,19.759,18.357,0,700–850,0.929
+D_beta_barrel,C4T9I0,Klebsiella pneumoniae,0,5IV9,A,"LPS-assembly protein complex, LptE and LptD","LPS assembly protein family (n=26, S=30)",4.37,4.37,758.0,758,36.048,28.341,22.276,0,700–850,0.786
+D_beta_barrel,Q9I116,Pseudomonas aeruginosa,0,6I97,B,"Ferric hydroxamate transporter FoxA, with TonB fragment",Outer Membrane Receptor (OMR),3.35,3.35,768.0,759,31.384,18.454,25.385,0,700–850,1.376
+D_beta_barrel,P48632,Pseudomonas aeruginosa PAO1,0,5ODW,A,"Pyoverdine Outer Membrane Receptor FpvA, with Pyocin-S2",Outer Membrane Receptor (OMR),2.8,2.8,815.0,771,26.951,18.139,19.933,0,700–850,1.099
+D_beta_barrel,Q5F5W8,Neisseria gonorrhoeae FA 1090,0,4K3B,A,Outer membrane protein assembly factor BamA,"OMP insertion (Bam complex) porin (n=16,S=22)",3.2,3.2,792.0,771,39.507,26.509,29.293,0,700–850,1.105
+D_beta_barrel,P0A940,Escherichia coli,0,8ADG,A,"BAM complex, darobactin 22-bound","OMP insertion (Bam complex) porin (n=16,S=22)",3 EM   ,3.0,813.0,787,38.171,25.375,28.516,0,700–850,1.124
+D_beta_barrel,B1XD46,Escherichia coli K-12,0,8BO2,A,BAM-EspP complex,"OMP insertion (Bam complex) porin (n=16,S=22)",3.1 EM ,3.1,787.0,787,39.217,27.352,28.104,0,700–850,1.028
+D_beta_barrel,P30130,Escherichia coli,0,6E14,D,"Usher protein FimD, with FimC-FimF-FimG-FimH, structure 2",Fimbrial usher porin,4.0 EM,4.0,879.0,805,34.943,25.062,24.35,0,700–850,0.972
+D_beta_barrel,P07110,Escherichia coli,0,7LHH,C,"P pilus tip assembly PapC-PapD-PapK-PapG, structure 2",Fimbrial usher porin,7.2 EM,7.2,809.0,806,36.467,25.293,26.27,0,700–850,1.039
+D_beta_barrel,Q8A6W3,Bacteroides thetaiotaomicron VPI-5482,0,5T4Y,D,"SusD-SusC complex, dimer",Outer Membrane Receptor (OMR),3.1,3.1,1041.0,807,32.563,24.218,21.767,0,700–850,0.899
+D_beta_barrel,Q6D8U4,Pectobacterium atrosepticum SCRI1043,0,4ZGV,A,Ferredoxin receptor FusA ,Outer Membrane Receptor (OMR),3.2,3.2,868.0,809,29.148,20.568,20.653,0,700–850,1.004
