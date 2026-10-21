@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Three 3x2 figures for the all-species selected sets (OPM, isolated chain imANM, K=1000).
-Rows: ab = four classes; cd = four alpha-helical channels; ef = four beta-barrels.
+Rows: ab = four alpha-helical channels; cd = four beta-barrels; ef = four classes.
 Fig1: φ vs r_ij (s=16), inset Length–Rg in right panels; Fig2: φ vs ρ (s=16); Fig3: ρ* vs s.
 Legend 2x2 in upper right of the left panel of each row; "s = 16" level with it at upper left (Fig1/2)."""
 import json
@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
-from matplotlib.ticker import MultipleLocator, AutoMinorLocator, MaxNLocator
+from matplotlib.ticker import MultipleLocator, AutoMinorLocator, MaxNLocator, FormatStrFormatter
 from matplotlib.lines import Line2D
 
 DATA = Path(__file__).resolve().parents[1] / "data"
@@ -20,17 +20,17 @@ def ramp(base):  # light -> dark, ordered by length
     b = np.array(to_rgb(base)); w, k = np.ones(3), np.zeros(3)
     return [tuple(b + (w - b) * 0.45), tuple(b + (w - b) * 0.2), tuple(b), tuple(b * 0.62)]
 CLASS = ["#3C5488", "#00A087", "#E64B35", "#8E5EA2"]
-ROWCS = [CLASS, ramp("#00A087"), ramp("#8E5EA2")]
-ROWTITLE = ["Four classes", "α-helical channels", "β-barrels"]
+ROWCS = [ramp("#00A087"), ramp("#8E5EA2"), CLASS]
+ROWTITLE = ["α-helical channels", "β-barrels", "Four classes"]
 MK = ["o", "s", "^", "D"]; MINFRAC = 0.05
-XMAX_R = [50, 100, 80]; HEAD1L = [0.05, 0.05, 0.05]; XMAX_RHO = 3.5; HEAD3 = [0.45, 0.12, 0.12]; INSET_POS = [[0.50, 0.47, 0.36, 0.36], [0.56, 0.60, 0.32, 0.30], [0.50, 0.47, 0.36, 0.36]]
+XMAX_R = [100, 80, 50]; HEAD1L = [0.05, 0.05, 0.05]; XMAX_RHO = 3.5; HEAD3 = [0.45, 0.12, 0.12]; INSET_POS = [[0.44, 0.60, 0.32, 0.30], [0.38, 0.47, 0.36, 0.36], [0.38, 0.47, 0.36, 0.36]]
 MS = {marker: 4.0 for marker in MK}
 R10 = DATA / "imANM_results"
-# (tag, legend label, Rg Å)  — ab ordered by class (fixed class colours); cd/ef ordered by length
+# (tag, legend label, Rg Å)  — ab/cd ordered by length; ef ordered by class (fixed class colours)
 SETS = [
-    [("2xfn_A", "Bitopic MAO-B", 23.0), ("6o84_A", "Channel OTOP3", 22.4), ("8cv2_A", "Transporter EAAT3", 22.2), ("2mpr_A", "β-barrel LamB", 23.2)],
     [("7sk1_A", "TWIK1", 24.1), ("5u1x_A", "P2X7", 29.2), ("6bwj_A", "TRPV2", 34.3), ("6bpq_A", "TRPM8", 40.4)],
     [("4y25_A", "PgaA", 20.1), ("2hdi_A", "Cir", 24.7), ("4zgv_A", "FusA", 29.1), ("6e14_D", "FimD", 34.9)],
+    [("2xfn_A", "Bitopic MAO-B", 23.0), ("6o84_A", "Channel OTOP3", 22.4), ("8cv2_A", "Transporter EAAT3", 22.2), ("2mpr_A", "β-barrel LamB", 23.2)],
 ]
 RES = [{p: json.load(open(R10 / f"{p}.json")) for p, _, _ in row} for row in SETS]
 
@@ -102,7 +102,7 @@ def tag_legend(ax, row, s_label=True, top=0.975, margin=0.025, auto=False, gap=0
             if hit <= bottom - gap: break
             y0, y1 = ax.get_ylim(); ax.set_ylim(y0, y1 + 0.03 * (y1 - y0))
 
-TAG = ["Four classes", "α-helical channels", "β-barrels"]
+TAG = ["α-helical channels", "β-barrels", "Four classes"]
 BOX = dict(boxstyle="round,pad=0.35,rounding_size=0.25", fc="white", ec="0.45", lw=0.6)
 def tag(ax, row, s_label=True, loc="right", fs=8.5):
     t = TAG[row] + (f" ($s$ = {S_MAIN})" if s_label else "")
@@ -124,10 +124,13 @@ def inset(ax, row):
     ins.tick_params(labelsize=FS["tick"], direction="out", length=2.5, width=0.5, pad=1.2)
     ins.tick_params(which="minor", direction="out", length=1.5, width=0.4)
     for sp in ins.spines.values(): sp.set_linewidth(0.5); sp.set_visible(True)
-    ins.set_xlabel("Length", fontsize=FS["lab"], labelpad=1)
+    ins.set_xlabel("N", fontsize=FS["lab"], labelpad=1)
     ins.yaxis.tick_right(); ins.yaxis.set_label_position("right")
+    ins.set_ylabel(r"$R_g$ (Å)", fontsize=FS["lab"], labelpad=1)
     ins.xaxis.set_minor_locator(AutoMinorLocator(5)); ins.yaxis.set_minor_locator(AutoMinorLocator(5))
-    ins.xaxis.set_major_locator(MaxNLocator(2, integer=True)); ins.yaxis.set_major_locator(MaxNLocator(3, integer=True))
+    ins.xaxis.set_major_locator(MaxNLocator(2, integer=True)); ins.yaxis.set_major_locator(MultipleLocator(10))
+    ins.xaxis.set_major_formatter(FormatStrFormatter("%.0f")); ins.yaxis.set_major_formatter(FormatStrFormatter("%.0f"))
+    ins.set_ylim(10, 45)
     ins.margins(x=0.15, y=0.18); ins.patch.set_alpha(0)
 
 PWX, PWY = 39, 28; ML, MGAP, MR, MB, MT, MV = 27, 16, 6, 22, 10, 20   # mm; panel ratio matches the reference axes
