@@ -23,14 +23,14 @@ CLASS = ["#3C5488", "#00A087", "#E64B35", "#8E5EA2"]
 ROWCS = [CLASS, ramp("#00A087"), ramp("#8E5EA2")]
 ROWTITLE = ["Four classes", "α-helical channels", "β-barrels"]
 MK = ["o", "s", "^", "D"]; MINFRAC = 0.05
-XMAX_R = [50, 100, 50]; HEAD1L = [0.05, 0.05, 0.05]; XMAX_RHO = 3.5; HEAD3 = [0.45, 0.12, 0.12]; INSET_POS = [[0.50, 0.47, 0.36, 0.36], [0.56, 0.60, 0.32, 0.30], [0.50, 0.47, 0.36, 0.36]]
+XMAX_R = [50, 100, 80]; HEAD1L = [0.05, 0.05, 0.05]; XMAX_RHO = 3.5; HEAD3 = [0.45, 0.12, 0.12]; INSET_POS = [[0.50, 0.47, 0.36, 0.36], [0.56, 0.60, 0.32, 0.30], [0.50, 0.47, 0.36, 0.36]]
 MS = {marker: 4.0 for marker in MK}
 R10 = DATA / "imANM_results"
 # (tag, legend label, Rg Å)  — ab ordered by class (fixed class colours); cd/ef ordered by length
 SETS = [
-    [("2xfn_A", "Bitopic MAO-B", 23.0), ("3q7k_A", "Channel FocA", 18.4), ("4ybq_A", "Transporter GLUT5", 21.9), ("3efm_A", "β-barrel FauA", 23.9)],
+    [("2xfn_A", "Bitopic MAO-B", 23.0), ("6o84_A", "Channel OTOP3", 22.4), ("8cv2_A", "Transporter EAAT3", 22.2), ("2mpr_A", "β-barrel LamB", 23.2)],
     [("7sk1_A", "TWIK1", 24.1), ("5u1x_A", "P2X7", 29.2), ("6bwj_A", "TRPV2", 34.3), ("6bpq_A", "TRPM8", 40.4)],
-    [("2por_A", "PorCa", 20.2), ("4fso_A", "OpdN", 21.0), ("5dl8_A", "OccAB4", 21.9), ("5fp2_A", "PirA", 23.2)],
+    [("4y25_A", "PgaA", 20.1), ("2hdi_A", "Cir", 24.7), ("4zgv_A", "FusA", 29.1), ("6e14_D", "FimD", 34.9)],
 ]
 RES = [{p: json.load(open(R10 / f"{p}.json")) for p, _, _ in row} for row in SETS]
 
@@ -165,7 +165,7 @@ def phi_fig(norm, name):
                 ax.set_xlim(0, XMAX_RHO * 1.02); ax.xaxis.set_major_locator(MultipleLocator(1)); ax.xaxis.set_minor_locator(MultipleLocator(0.2))
             else:
                 ax.set_xlabel(r"$r_{ij}$ (Å)", labelpad=2)
-                ax.set_xlim(0, XMAX_R[row] * 1.02); ax.xaxis.set_major_locator(MultipleLocator(XMAX_R[row] / 5)); ax.xaxis.set_minor_locator(MultipleLocator(XMAX_R[row] / 25))
+                ax.set_xlim(0, XMAX_R[row] * 1.02); ax.xaxis.set_major_locator(MultipleLocator(20)); ax.xaxis.set_minor_locator(MultipleLocator(4))
         for col in range(2):
             ax = axes[row, col]; yy = np.concatenate(ys[col * 4:(col + 1) * 4])
             nice_y(ax, yy.min(), yy.max(), 0.05 if col == 1 else (0.05 if norm else HEAD1L[row]), nb=6)
