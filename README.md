@@ -1,7 +1,7 @@
 # Directional Dynamics Analysis of Membrane Proteins (imANM & rdDFI)
 
 This repository provides the official analysis code and reproduction scripts for our paper:
-**"Membrane Anisotropy Reshapes Scale-Free Correlations and Directional Mechanical Susceptibility in Transmembrane Proteins"**
+**["Membrane Anisotropy Reshapes Scale-Free Correlations and Directional Mechanical Susceptibility in Transmembrane Proteins"](https://link.aps.org/doi/10.1103/spjq-78dd)**
 
 ![Figure 1](img/fig1.png)
 
@@ -214,6 +214,26 @@ python src/pertubation/plot.py
 
 The exact command-line options and input paths can be checked at the top of each script. Preprocessing and imANM commands must be completed before downstream scripts can use newly generated HDF5 data.
 
+---
+
+## Citation
+
+We welcome the use of this codebase and dataset in your research. If it contributes to your work, please cite our paper:
+
+**[Membrane anisotropy reshapes scale-free correlations and directional mechanical susceptibility in transmembrane proteins](https://link.aps.org/doi/10.1103/spjq-78dd)**
+
+```bibtex
+@article{spjq-78dd,
+  title = {Membrane anisotropy reshapes scale-free correlations and directional mechanical susceptibility in transmembrane proteins},
+  author = {Wang, Jian and He, Zizheng and Chen, Xiaoyi and Wang, Guannan and Tang, Qian-Yuan},
+  journal = {Phys. Rev. Res.},
+  pages = {},
+  year = {2026},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/spjq-78dd},
+  url = {[https://link.aps.org/doi/10.1103/spjq-78dd](https://link.aps.org/doi/10.1103/spjq-78dd)}
+```
 ---
 
 ## License
