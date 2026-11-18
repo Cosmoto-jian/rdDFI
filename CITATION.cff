@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "We welcome the use of this codebase in your research. If it contributes to your work, please cite our paper."
+title: "rdDFI"
+url: "https://github.com/Cosmoto-jian/rdDFI"
+authors:
+  - family-names: "Wang"
+    given-names: "Jian"
+  - family-names: "He"
+    given-names: "Zizheng"
+  - family-names: "Chen"
+    given-names: "Xiaoyi"
+  - family-names: "Wang"
+    given-names: "Guannan"
+  - family-names: "Tang"
+    given-names: "Qian-Yuan"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Wang"
+      given-names: "Jian"
+    - family-names: "He"
+      given-names: "Zizheng"
+    - family-names: "Chen"
+      given-names: "Xiaoyi"
+    - family-names: "Wang"
+      given-names: "Guannan"
+    - family-names: "Tang"
+      given-names: "Qian-Yuan"
+  title: "Membrane anisotropy reshapes scale-free correlations and directional mechanical susceptibility in transmembrane proteins"
+  journal: "Physical Review Research"
+  year: 2026
+  month: 11
+  publisher:
+    name: "American Physical Society"
+  doi: "10.1103/spjq-78dd"
+  url: "https://link.aps.org/doi/10.1103/spjq-78dd"
